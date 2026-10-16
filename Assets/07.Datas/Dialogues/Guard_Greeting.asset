@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69986118a27719e4ba7412b3c747b23d, type: 3}
+  m_Name: Guard_Greeting
+  m_EditorClassIdentifier: Assembly-CSharp::ShotgunAndRun.UI.Dialogue.DialogueDataSO
+  _speakerName: "\uACBD\uBE44\uBCD1"
+  _speakerPortrait: {fileID: 0}
+  _guideImage: {fileID: 0}
+  _lines:
+  - SpeakerName: "\uACBD\uBE44\uBCD1"
+    SpeakerPortrait: {fileID: 0}
+    Text: "\uC258\uD130 \uC785\uAD6C\uB294 \uC6B0\uB9AC\uAC00 \uC9C0\uD0A4\uACE0
+      \uC788\uC73C\uB2C8 \uAC71\uC815 \uB9D0\uAC8C."
+  - SpeakerName: "\uACBD\uBE44\uBCD1"
+    SpeakerPortrait: {fileID: 0}
+    Text: "\uBC16\uC73C\uB85C \uB098\uAC08 \uAC70\uB77C\uBA74 \uC7A5\uBE44\uBD80\uD130
+      \uB2E8\uB2E8\uD788 \uCC59\uAE30\uB77C\uACE0."
+  _choices: []
+  _pauseGame: 0

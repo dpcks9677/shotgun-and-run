@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69986118a27719e4ba7412b3c747b23d, type: 3}
+  m_Name: Knight_Greeting
+  m_EditorClassIdentifier: Assembly-CSharp::ShotgunAndRun.UI.Dialogue.DialogueDataSO
+  _speakerName: "\uae30\uc0ac"
+  _speakerPortrait: {fileID: 0}
+  _guideImage: {fileID: 0}
+  _lines:
+  - SpeakerName: "\uae30\uc0ac"
+    SpeakerPortrait: {fileID: 0}
+    Text: "\uae38\ub4dc\uc7a5\ub2d8\uc758 \uba85\uc774 \uc788\uae30 \uc804\uae4c\uc9c0 \uc774 \uc790\ub9ac\ub294 \ub0b4\uac00 \uc9c0\ud0a8\ub2e4."
+  - SpeakerName: "\uae30\uc0ac"
+    SpeakerPortrait: {fileID: 0}
+    Text: "\uac80\uc774 \ubb34\ub38c\uc838\ub3c4 \ubc29\ud328\ub294 \ub0b4\ub824\ub193\uc9c0 \uc54a\ub294\ub2e4. \uadf8\uac8c \uae30\uc0ac\uc758 \uc77c\uc774\ub2c8\uae4c."
+  _choices: []
+  _pauseGame: 0

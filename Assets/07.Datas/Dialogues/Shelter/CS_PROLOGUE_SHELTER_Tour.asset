@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69986118a27719e4ba7412b3c747b23d, type: 3}
+  m_Name: CS_PROLOGUE_SHELTER_Tour
+  m_EditorClassIdentifier: Assembly-CSharp::ShotgunAndRun.UI.Dialogue.DialogueDataSO
+  _speakerName: 
+  _speakerPortrait: {fileID: 0}
+  _guideImage: {fileID: 0}
+  _lines:
+  - Speaker: {fileID: 11400000, guid: 3818475cc931b484face2032818805d0, type: 2}
+    Expression: 
+    SpeakerName: 
+    SpeakerPortrait: {fileID: 0}
+    Text: "\uC544\uD2F0\uD329\uD2B8\uB294 \uADF8\uB8EC\uC5D0\uAC8C \uD55C\uBC88 \uBCF4\uC5EC
+      \uC918 \uBD10. \uC720\uB2A5\uD55C \uB300\uC7A5\uC7A5\uC774\uB2C8\uAE4C \uBBFF\uACE0
+      \uB9E1\uACA8\uB3C4 \uC88B\uC744 \uAC70\uC57C."
+    Bubble: 0
+    Sfx: {fileID: 0}
+    Signal: 
+  - Speaker: {fileID: 11400000, guid: 3818475cc931b484face2032818805d0, type: 2}
+    Expression: 
+    SpeakerName: 
+    SpeakerPortrait: {fileID: 0}
+    Text: "\uC228 \uC880 \uB3CC\uB9AC\uBA74 \uACC4\uB2E8 \uC606\uC758 \uAC8C\uC2DC\uD310\uC73C\uB85C
+      \uC640. \uC55E\uC73C\uB85C \uC5B4\uB5BB\uAC8C \uD560\uC9C0 \uC774\uC57C\uAE30\uD574
+      \uBCF4\uC790\uACE0."
+    Bubble: 0
+    Sfx: {fileID: 0}
+    Signal: 
+  - Speaker: {fileID: 11400000, guid: 3818475cc931b484face2032818805d0, type: 2}
+    Expression: 
+    SpeakerName: 
+    SpeakerPortrait: {fileID: 0}
+    Text: "\uD639\uC2DC\uB098 \uCC59\uAE34 \uC9D0\uB4E4\uC774 \uC788\uB2E4\uBA74
+      \uCC3D\uACE0\uC5D0 \uB46C\uB3C4 \uB3FC. \uC548\uC804\uD558\uAC8C \uB9E1\uC544
+      \uC904\uAC8C."
+    Bubble: 0
+    Sfx: {fileID: 0}
+    Signal: 
+  - Speaker: {fileID: 11400000, guid: 3818475cc931b484face2032818805d0, type: 2}
+    Expression: 
+    SpeakerName: 
+    SpeakerPortrait: {fileID: 0}
+    Text: "\uADF8\uB7EC\uBA74 \uC870\uAE08 \uC788\uB2E4\uAC00 \uBCF4\uC790\uACE0."
+    Bubble: 0
+    Sfx: {fileID: 0}
+    Signal: 
+  _choices: []
+  _pauseGame: 0

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b11e5a813920fe5488cb2e53c4008168, type: 3}
+  m_Name: CS_RUN_DEATH
+  m_EditorClassIdentifier: ShotgunAndRun.Cutscene::ShotgunAndRun.Cutscene.RunDeathCutscene
+  _id: CS_RUN_DEATH
+  _requiredFlags: []
+  _blockedFlags: []
+  _completionFlags: []
+  _saveCompletionFlagsImmediately: 0
+  _autoPlay: 0
+  _priority: 0
+  _lockPlayer: 1
+  _hideHud: 1
+  _pauseGameplay: 1
+  _debugSpawnMarker: 
+  _zoomRatio: 0.7
+  _zoomSeconds: 1.2
+  _letterboxSeconds: 0.4
+  _holdSeconds: 1
+  _stinger: {fileID: 8300000, guid: 1495069fb58d409ba7966f965bee3b19, type: 3}

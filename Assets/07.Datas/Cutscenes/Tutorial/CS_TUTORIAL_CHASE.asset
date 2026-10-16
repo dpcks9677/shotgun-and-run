@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 227d32864bd5f264a9a237236dd65005, type: 3}
+  m_Name: CS_TUTORIAL_CHASE
+  m_EditorClassIdentifier: Assembly-CSharp::ShotgunAndRun.Sandbox.Cutscene.TutorialChaseCutscene
+  _id: CS_TUTORIAL_CHASE
+  _requiredFlags: []
+  _blockedFlags: []
+  _completionFlags: []
+  _saveCompletionFlagsImmediately: 0
+  _autoPlay: 0
+  _priority: 0
+  _lockPlayer: 1
+  _hideHud: 1
+  _pauseGameplay: 1
+  _debugSpawnMarker: 
+  _lines: {fileID: 11400000, guid: 6c112be074c5490abfd1c9e1e45c5b31, type: 2}
+  _opening: {fileID: 11400000, guid: 6db077a0fcdd4b7895c20e09289e86b2, type: 2}
+  _hordeRoar: {fileID: 8300000, guid: e97fad3c40d4a0b45b1305a3bf3b8828, type: 3}
+  _cameraToHordeBlend: 1.2
+  _hordeArriveSpeed: 10
+  _hordeGap: 1.8
+  _hordeCatchUpSpeed: 16
+  _hordeStartDelayStep: 0.02
+  _playerRunSpeed: 9.5
+  _cameraFollowBlend: 1
+  _fadeOutSeconds: 1.5
+  _exitMargin: 3

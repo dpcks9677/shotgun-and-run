@@ -1,0 +1,791 @@
+fileFormatVersion: 2
+guid: bcb936855c47e56cfafcbd9e86b9d4c7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LootChest_1_Closed
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -6}
+        - {x: -17, y: 10}
+        - {x: 15, y: 10}
+        - {x: 15, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9cb73893e63654a9725b5ca1b93165
+      internalID: 1811339358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LootChest_1_Opened
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 54
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -6}
+        - {x: -17, y: 10}
+        - {x: 15, y: 10}
+        - {x: 15, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32bd6c60df10e93b6039869001a152b
+      internalID: -1400052966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LootChest_2_Closed
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 54
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -6}
+        - {x: -17, y: 10}
+        - {x: 15, y: 10}
+        - {x: 15, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e7c9c192f81ef15d4e0e86276ec767
+      internalID: -1380212718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LootChest_2_Opened
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 54
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -6}
+        - {x: -17, y: 10}
+        - {x: 15, y: 10}
+        - {x: 15, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6684346408c6c91e728718aa2a42e56
+      internalID: -717514481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LootChest_3_Closed
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 54
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -6}
+        - {x: -17, y: 10}
+        - {x: 15, y: 10}
+        - {x: 15, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acd69188ed6ef2065c7d5e348285929
+      internalID: -1031656934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LootChest_3_Opened
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 54
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -6}
+        - {x: -17, y: 10}
+        - {x: 15, y: 10}
+        - {x: 15, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954053d8eafe0b81b001a6061ffdfe06
+      internalID: 978500315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LootChestSmall_1_Closed
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 54
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c07ecc09bf90e1d935111c702e1eb5c
+      internalID: -889545946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LootChestSmall_1_Opened
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 54
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1605f10ca051b63f1ce0478536823c6e
+      internalID: 590674849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LootChestSmall_2_Closed
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 54
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6055c011d53779afad4e8b9b9846f734
+      internalID: 752432819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LootChestSmall_2_Opened
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 54
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b7d333b92d93aa772eb3b833bc85c0
+      internalID: -1719023897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LootChestSmall_3_Closed
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 54
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7b2568ae778c243f724b7040401762
+      internalID: -719653334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LootChestSmall_3_Opened
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 54
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464382d90fb5bb9ca84290863249843c
+      internalID: -1517720101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LootChestTallE_1_Closed
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 38
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.55555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 18}
+        - {x: 7, y: 18}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5bafef7642c0bf1b5ce254d1b690e2
+      internalID: -644251496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LootChestTallE_1_Opened
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 38
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.55555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 18}
+        - {x: 7, y: 18}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e3fbb3e4e86ff15665e56bdb8775c4
+      internalID: 442900078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LootChestTallE_2_Closed
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 38
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.55555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 18}
+        - {x: 7, y: 18}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e84eebb7dfbf0a28fcc65f2c190f755
+      internalID: -1347942719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LootChestTallE_2_Opened
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 38
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.55555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 18}
+        - {x: 7, y: 18}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5d65bc4883e407a1ed666c77b39199
+      internalID: -594356692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LootChestTallE_3_Closed
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 38
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.55555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 18}
+        - {x: 7, y: 18}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba1bc44e55107f0abfc229107ca3e33
+      internalID: 1900755709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LootChestTallE_3_Opened
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 38
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.55555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 18}
+        - {x: 7, y: 18}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8d0ed69c7912b4650680219219f00b
+      internalID: -1020686406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LootChestTallW_1_Closed
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 38
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.55555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 18}
+        - {x: 7, y: 18}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122963669edcce60bdcc85abac1a816f
+      internalID: -1000940240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LootChestTallW_1_Opened
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 38
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.55555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 18}
+        - {x: 7, y: 18}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02373198b721b8102c9dd23b9c32c51e
+      internalID: -2072771199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LootChestTallW_2_Closed
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.55555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 18}
+        - {x: 7, y: 18}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7023b9905fe4ffe41bb267880cab3c8
+      internalID: 645569769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LootChestTallW_2_Opened
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.55555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 18}
+        - {x: 7, y: 18}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020b5d4bc881b1e0acce516c1380b476
+      internalID: -1736537011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LootChestTallW_3_Closed
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.55555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 18}
+        - {x: 7, y: 18}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8649bd582c52fe8c8ab87a55d248aec2
+      internalID: -1432559039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LootChestTallW_3_Opened
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.55555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 18}
+        - {x: 7, y: 18}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57669c7b6ea7a2dc560f4d168cacf090
+      internalID: 1189178478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0a16633272047706a6e4ab8657439c2c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LootChestSmall_1_Closed: -889545946
+      LootChestSmall_1_Opened: 590674849
+      LootChestSmall_2_Closed: 752432819
+      LootChestSmall_2_Opened: -1719023897
+      LootChestSmall_3_Closed: -719653334
+      LootChestSmall_3_Opened: -1517720101
+      LootChestTallE_1_Closed: -644251496
+      LootChestTallE_1_Opened: 442900078
+      LootChestTallE_2_Closed: -1347942719
+      LootChestTallE_2_Opened: -594356692
+      LootChestTallE_3_Closed: 1900755709
+      LootChestTallE_3_Opened: -1020686406
+      LootChestTallW_1_Closed: -1000940240
+      LootChestTallW_1_Opened: -2072771199
+      LootChestTallW_2_Closed: 645569769
+      LootChestTallW_2_Opened: -1736537011
+      LootChestTallW_3_Closed: -1432559039
+      LootChestTallW_3_Opened: 1189178478
+      LootChest_1_Closed: 1811339358
+      LootChest_1_Opened: -1400052966
+      LootChest_2_Closed: -1380212718
+      LootChest_2_Opened: -717514481
+      LootChest_3_Closed: -1031656934
+      LootChest_3_Opened: 978500315
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

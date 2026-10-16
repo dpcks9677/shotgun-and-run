@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 51126991ddc823d47af956df9a56a2fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5270196538404615815
+    second: Bat_Attack02_0
+  - first:
+      213: 7170357536268923622
+    second: Bat_Attack02_1
+  - first:
+      213: 352805453951773675
+    second: Bat_Attack02_2
+  - first:
+      213: -2249945280254743946
+    second: Bat_Attack02_3
+  - first:
+      213: 8339301775241804484
+    second: Bat_Attack02_4
+  - first:
+      213: -1761550317270853122
+    second: Bat_Attack02_5
+  - first:
+      213: 6543314263245995341
+    second: Bat_Attack02_6
+  - first:
+      213: -6275860873155862981
+    second: Bat_Attack02_7
+  - first:
+      213: 1228199161948477334
+    second: Bat_Attack02_8
+  - first:
+      213: -2167256047914211944
+    second: Bat_Attack02_9
+  - first:
+      213: -2947290777262942804
+    second: Bat_Attack02_10
+  - first:
+      213: 5859755478705635212
+    second: Bat_Attack02_11
+  - first:
+      213: -8780246458138358132
+    second: Bat_Attack02_12
+  - first:
+      213: 4285952182158735582
+    second: Bat_Attack02_13
+  - first:
+      213: -6182132908543101676
+    second: Bat_Attack02_14
+  - first:
+      213: 7528191556803764375
+    second: Bat_Attack02_15
+  - first:
+      213: -8400886691255723227
+    second: Bat_Attack02_16
+  - first:
+      213: 5067011375965253841
+    second: Bat_Attack02_17
+  - first:
+      213: 1695893995749796820
+    second: Bat_Attack02_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bat_Attack02_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 49
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97946e7cb208cd6b0800000000000000
+      internalID: -5270196538404615815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat_Attack02_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 51
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2bad5603a328360800000000000000
+      internalID: 7170357536268923622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat_Attack02_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 52
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bebad9de0ba65e400800000000000000
+      internalID: 352805453951773675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat_Attack02_3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 52
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a695630b696c0e0800000000000000
+      internalID: -2249945280254743946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat_Attack02_4
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 41
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca7214f7c62bb370800000000000000
+      internalID: 8339301775241804484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat_Attack02_5
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 44
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9181dc157bd87e0800000000000000
+      internalID: -1761550317270853122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat_Attack02_6
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 47
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d368a87a58eca50800000000000000
+      internalID: 6543314263245995341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat_Attack02_7
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 41
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e95cb69c9a7e8a0800000000000000
+      internalID: -6275860873155862981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat_Attack02_8
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 42
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6971f5961a07b0110800000000000000
+      internalID: 1228199161948477334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat_Attack02_9
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 46
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895a1c66b1c5ce1e0800000000000000
+      internalID: -2167256047914211944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat_Attack02_10
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 46
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5157b47ae1917d0800000000000000
+      internalID: -2947290777262942804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat_Attack02_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 39
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ff5e2cf88025150800000000000000
+      internalID: 5859755478705635212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat_Attack02_12
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 39
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e0846bd5c462680800000000000000
+      internalID: -8780246458138358132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat_Attack02_13
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 39
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8b1ed3dc2ca7b30800000000000000
+      internalID: 4285952182158735582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat_Attack02_14
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 39
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4153900cfd6a43aa0800000000000000
+      internalID: -6182132908543101676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat_Attack02_15
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 39
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7902268b552897860800000000000000
+      internalID: 7528191556803764375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat_Attack02_16
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 37
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b5569601e0a6b80800000000000000
+      internalID: -8400886691255723227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat_Attack02_17
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 38
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0b5411004a15640800000000000000
+      internalID: 5067011375965253841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat_Attack02_18
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 39
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db62699a96098710800000000000000
+      internalID: 1695893995749796820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bat_Attack02_0: -5270196538404615815
+      Bat_Attack02_1: 7170357536268923622
+      Bat_Attack02_10: -2947290777262942804
+      Bat_Attack02_11: 5859755478705635212
+      Bat_Attack02_12: -8780246458138358132
+      Bat_Attack02_13: 4285952182158735582
+      Bat_Attack02_14: -6182132908543101676
+      Bat_Attack02_15: 7528191556803764375
+      Bat_Attack02_16: -8400886691255723227
+      Bat_Attack02_17: 5067011375965253841
+      Bat_Attack02_18: 1695893995749796820
+      Bat_Attack02_2: 352805453951773675
+      Bat_Attack02_3: -2249945280254743946
+      Bat_Attack02_4: 8339301775241804484
+      Bat_Attack02_5: -1761550317270853122
+      Bat_Attack02_6: 6543314263245995341
+      Bat_Attack02_7: -6275860873155862981
+      Bat_Attack02_8: 1228199161948477334
+      Bat_Attack02_9: -2167256047914211944
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,17 @@
+{
+    "name": "ShotgunAndRun.Quest",
+    "rootNamespace": "ShotgunAndRun.Quest",
+    "references": [
+        "ShotgunAndRun.Inventory.Data",
+        "ShotgunAndRun.Loot"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

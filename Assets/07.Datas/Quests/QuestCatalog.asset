@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8ade3a1b82589b47bac47227f9b2a25, type: 3}
+  m_Name: QuestCatalog
+  m_EditorClassIdentifier: ShotgunAndRun.Quest::ShotgunAndRun.Quest.QuestCatalogSO
+  _quests:
+  - {fileID: 11400000, guid: 080b2885ad74c794e8ecb8f1268c9f07, type: 2}
+  - {fileID: 11400000, guid: e62854d49ac8e9046b8486487b716be1, type: 2}
+  - {fileID: 11400000, guid: 135cbc9f821c4d99bb66fe6d31f91d9b, type: 2}
+  - {fileID: 11400000, guid: b85fb9a2a79d4ae482e66f0321eaf674, type: 2}
+  - {fileID: 11400000, guid: 4513ba0897334cba9282c5dae93a07cf, type: 2}
+  - {fileID: 11400000, guid: d785e2271aa149aa9191dcccab10c65c, type: 2}
+  - {fileID: 11400000, guid: c76e37439ff24928aee01784af9bcece, type: 2}
+  - {fileID: 11400000, guid: b2f49f74c3ae4585b248bd2222bbb051, type: 2}
+  - {fileID: 11400000, guid: e8195d759dbb42f6b4df8eba2ba701b8, type: 2}
+  - {fileID: 11400000, guid: 5c97527b73b84741975517a14c0f25a7, type: 2}
+  - {fileID: 11400000, guid: e1dfe3cc567143c49fac5341a66e764b, type: 2}
+  - {fileID: 11400000, guid: 1529e49dd81142ec9ee975835349ce95, type: 2}
+  - {fileID: 11400000, guid: e3a9425189ba40cab1fa50d13adde00b, type: 2}

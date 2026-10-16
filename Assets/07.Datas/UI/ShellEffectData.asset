@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9650cf1571435fb4493265ba7f389b76, type: 3}
+  m_Name: ShellEffectData
+  m_EditorClassIdentifier: Assembly-CSharp::ShotgunAndRun.UI.ShellEffectData
+  CriticalShell: {fileID: -339091484, guid: 6d0bf6ba86b1e5144aa5440c06afc25a, type: 3}
+  Sparks:
+  - {fileID: -915712696, guid: 6d0bf6ba86b1e5144aa5440c06afc25a, type: 3}
+  - {fileID: -2095480004, guid: 6d0bf6ba86b1e5144aa5440c06afc25a, type: 3}
+  - {fileID: 120868443, guid: 6d0bf6ba86b1e5144aa5440c06afc25a, type: 3}
+  - {fileID: 2092657569, guid: 6d0bf6ba86b1e5144aa5440c06afc25a, type: 3}
+  - {fileID: -1097898626, guid: 6d0bf6ba86b1e5144aa5440c06afc25a, type: 3}
+  - {fileID: 999579489, guid: 6d0bf6ba86b1e5144aa5440c06afc25a, type: 3}
+  - {fileID: -556983731, guid: 6d0bf6ba86b1e5144aa5440c06afc25a, type: 3}
+  - {fileID: -1957973508, guid: 6d0bf6ba86b1e5144aa5440c06afc25a, type: 3}
+  - {fileID: 1633761138, guid: 6d0bf6ba86b1e5144aa5440c06afc25a, type: 3}
+  SparkInterval: {x: 0.3, y: 1.4}
+  SparkDuration: 0.06
+  MaxSparks: 3
+  FireFrames:
+  - Sprite: {fileID: 942385424, guid: 2c5299d3cbef3e64f86bf05e86ca6301, type: 3}
+    Duration: 0.04
+    Shake: {x: 0, y: 0}
+    Empty: 0
+  - Sprite: {fileID: 95529997, guid: 2c5299d3cbef3e64f86bf05e86ca6301, type: 3}
+    Duration: 0.03
+    Shake: {x: 0, y: 0}
+    Empty: 0
+  - Sprite: {fileID: 1180220579, guid: 2c5299d3cbef3e64f86bf05e86ca6301, type: 3}
+    Duration: 0.04
+    Shake: {x: 2, y: 0}
+    Empty: 0
+  - Sprite: {fileID: 2088851498, guid: 2c5299d3cbef3e64f86bf05e86ca6301, type: 3}
+    Duration: 0.035
+    Shake: {x: -1, y: 0}
+    Empty: 0
+  - Sprite: {fileID: 367459268, guid: 2c5299d3cbef3e64f86bf05e86ca6301, type: 3}
+    Duration: 0.035
+    Shake: {x: 1, y: -1}
+    Empty: 0
+  - Sprite: {fileID: -902455952, guid: 2c5299d3cbef3e64f86bf05e86ca6301, type: 3}
+    Duration: 0.035
+    Shake: {x: -1, y: 1}
+    Empty: 0
+  - Sprite: {fileID: -44791953, guid: 2c5299d3cbef3e64f86bf05e86ca6301, type: 3}
+    Duration: 0.04
+    Shake: {x: 1, y: 0}
+    Empty: 1
+  - Sprite: {fileID: -1894257095, guid: 2c5299d3cbef3e64f86bf05e86ca6301, type: 3}
+    Duration: 0.045
+    Shake: {x: -1, y: 0}
+    Empty: 1
+  - Sprite: {fileID: -1155531328, guid: 2c5299d3cbef3e64f86bf05e86ca6301, type: 3}
+    Duration: 0.05
+    Shake: {x: 0, y: 1}
+    Empty: 1
+  - Sprite: {fileID: 1971775438, guid: 2c5299d3cbef3e64f86bf05e86ca6301, type: 3}
+    Duration: 0.06
+    Shake: {x: 0, y: 0}
+    Empty: 1
+  FirePlaybackSpeed: 4

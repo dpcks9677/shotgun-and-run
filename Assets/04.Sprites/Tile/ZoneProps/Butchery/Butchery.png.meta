@@ -1,0 +1,2073 @@
+fileFormatVersion: 2
+guid: bacf63c8a16adbb567cde14076792a40
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Butcher_Table
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 50
+        height: 36
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -25, y: -14}
+        - {x: -25, y: 18}
+        - {x: 23, y: 18}
+        - {x: 23, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910ba5f40cc299f605ad6609d267337f
+      internalID: 617929831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChoppingBlock
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 76
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cfdd31de33eaf5eb95e64077893668
+      internalID: 2146640979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeatRack
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 60
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 2}
+        - {x: 15, y: 2}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f51c2d50a3565b0d00a8eba06dcf150
+      internalID: 361931305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel_Salt
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 76
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59653755886f88e49d01999b2d678669
+      internalID: 1572881608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel_Blood
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 76
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67376da1ef6d202ae1ade54dc85c5a5d
+      internalID: 1471852145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barrel_Lid
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 76
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8175a36201c14745ec8871fb3e394505
+      internalID: 1707365640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crate
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 76
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba0f71e830df4f5de74c870fa623470
+      internalID: -951091877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crate_Large
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 76
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -6}
+        - {x: -17, y: 10}
+        - {x: 15, y: 10}
+        - {x: 15, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6e133cc5dc1591be74506433deb2f4
+      internalID: 192776808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sack
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 76
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea3fac52562725646e6e676873d1a80
+      internalID: 237269465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sack_Pile
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 76
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -6}
+        - {x: -17, y: 10}
+        - {x: 15, y: 10}
+        - {x: 15, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b38d61a5294043a89b4baf7e475e59
+      internalID: -453487118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firewood
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 76
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -6}
+        - {x: -17, y: 10}
+        - {x: 15, y: 10}
+        - {x: 15, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878b2677032df3e6b38373bb43fd9cce
+      internalID: 140853077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bucket
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 76
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573f9a1743a7629ba6c8c28f57cc67a3
+      internalID: 1005451466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cauldron_0
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 60
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7c42c85cea436622f33fcc1116f4da
+      internalID: 1931882876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cauldron_1
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 60
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4612851dd1480a9d760ecf71d699577c
+      internalID: -1063391153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cauldron_2
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 60
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05347dff19c00690bcb841ca277c1d4
+      internalID: -773697950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cauldron_3
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 60
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79b8a6fe11ab0d7bb8ac5f4b09565d2
+      internalID: -871162876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonePile
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 76
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a8c35145df9d9adf2fa9b42aa32b3d
+      internalID: -1976759079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkullPile
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -6}
+        - {x: -17, y: 10}
+        - {x: 15, y: 10}
+        - {x: 15, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b54dbbc08ffa065ef2b915eb256f405
+      internalID: -464673624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_A_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 38
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d195a1d545b55049b1dfd8f12e3f251
+      internalID: 1724046554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_A_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 38
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62448c2163131c571553619baa8ae251
+      internalID: 2020309318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_B_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 38
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9b288755bbfc344bee0cecd8d424c1
+      internalID: -384411756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_B_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 38
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f5418505ecd6c5c0a0e24658e88afe
+      internalID: 1460293693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarp
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 22
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7870cdf7cebc51f2e244e7a0105d6458
+      internalID: -1657154826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Carcass
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 22
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311561fe86f0c1419e9a1d9b8bfcaab4
+      internalID: -1415356175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_MeatRail
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 22
+        width: 50
+        height: 36
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef07242dc5edf031306446ff5e97ade
+      internalID: 1598349733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_ToolRack
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 38
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96594c0ea76cb8bdc434247d84ec5e29
+      internalID: 1791649729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Sausages
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 22
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4b2955ddca5eaba6f9d8337c83e621
+      internalID: -1742659439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Herbs
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 22
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e769ed649d7f1ce7d3f098d55538cb
+      internalID: 1865193510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Notice
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 38
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2986484608816be8e4fe62a97d41b258
+      internalID: 878904523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Web_Corner
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 38
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a6cc06c4037b7f598b04c216acdf0f
+      internalID: -710174613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Web_Corner_R
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 38
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094081e98f223f17365e36c7d1446973
+      internalID: -1147601129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Web_Drape
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 38
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d0a6f7ca84f7876fe13d8a2bd48eed
+      internalID: 129707915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_Pool
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 38
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2a14e1cfe468ff690072213c0b15ba
+      internalID: 1269360345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_Pool_B
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 38
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96f24d173ef2d3f1dd3d8af2f0c7c89
+      internalID: 1704028651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_Pool_Large
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 38
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbe79488881a7626c9231c5758df1b6
+      internalID: 113475228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_Splat
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 38
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a838897f1ecdd237aae1e5ace0d0a3bf
+      internalID: 1945174321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_Drag
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 38
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d269894a5ff4d1747bcf269500d78077
+      internalID: -1861964281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_Drops
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7377db59de1c51b38778ed766585cb89
+      internalID: -643022525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Drain
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cd27a2df756b8e8015cf2a6a078878
+      internalID: 1902204938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cauldron_a1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c871ba802e160809db18cc4937d4ee9
+      internalID: 696458965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cauldron_a2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 120
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e723a9d2ff8fd6bcf3f93bc0f0f2b804
+      internalID: 1733298899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cauldron_a3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 120
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e9408656615a23c9d93d7390a11a8c
+      internalID: -1207815491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cauldron_a4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 120
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be37fdec2639b37ccceca1e4cd4b835
+      internalID: 1298668216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cauldron_a5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 120
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe0b78b96547097766c352e875501c0
+      internalID: 1173548661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cauldron_a6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd092fcc13c8765536ee78d4e273778
+      internalID: 1849545550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cauldron_a7
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 120
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce772a2871b8bcf539a09b74848ab24c
+      internalID: -1441273180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cauldron_a8
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 120
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ccbabfa4b87b8e311cd65555c91f23
+      internalID: 1256160970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cauldron_a9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 120
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f31c0bfecccd948187a8b73ec7a89db
+      internalID: -758939782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cauldron_a10
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 120
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b732ae1a54316de5c2984207b74464
+      internalID: 833942916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cauldron_a11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 120
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6af7537aee1baf3918dbbb7dac1327
+      internalID: 1837164445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cauldron_a12
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 120
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6ff65e35e54e985a68b94781f14a70
+      internalID: 1080657660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_A_a1
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 136
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64847ec590bcaca61261efa8924eeaa9
+      internalID: -1290690571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_A_a2
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 136
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937d23e80101969768939cc18305f2e7
+      internalID: 199517664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_A_a3
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 136
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fdb99f142f2a3735d9d406f2110769
+      internalID: 902833557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_A_a4
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 136
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24facb81c2bf498b2abecd9925019f2a
+      internalID: -640083067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_A_a5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a9c44033225537fe4740857067a3d7
+      internalID: 1492058347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_A_a6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 98
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e890fa602661c35f62e75d5d0d4564b3
+      internalID: -128544550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_A_a7
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 98
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c643fd35b3923537bad1f99bf58c4e1
+      internalID: 1393850114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_A_a8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 98
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0deb89a483e157a90cd8a625cf84399d
+      internalID: -629209875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_A_a9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 98
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a61b169fe43596a1e2dc8d34323f6ed
+      internalID: -915888725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_A_a10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 98
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b25be6fed1cd90a7a919bb35ca629c5
+      internalID: -907918233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_A_a11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 98
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed41919d28965282144a98bd4034a91
+      internalID: -175103616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_B_a1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 98
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa663ca5c6b11396efc4df1cc4571f4
+      internalID: 2067786816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_B_a2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 98
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edc2593b77d456aa1d5c514d3c24bdd
+      internalID: -903922114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_B_a3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 98
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3488d5195d6882582b2b97c7dd69822
+      internalID: 2125553366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_B_a4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 98
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84be7a4c2813d2f3a91bac63e8e25314
+      internalID: -1873244312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_B_a5
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 98
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05521db31cd0172dfa1caaa69a1cb665
+      internalID: 686725162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_B_a6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 98
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac918f9252386f5645a6047d3e34e0e2
+      internalID: -1284036040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_B_a7
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 98
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d80dde48c5928c2ee6892fd87adbe47
+      internalID: -434313206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_B_a8
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 98
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73a97077ef14f5c8f35536054a4cac1
+      internalID: -705463624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_B_a9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 98
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300e9dfb86db39cbffe633a149684cbf
+      internalID: 1720247180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_B_a10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 98
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a28cf3e6ef57523cad6d21113c543d
+      internalID: 1451319641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_B_a11
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 98
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2883974fb50f4912070ad74a95911366
+      internalID: -1222779654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_B_a12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 98
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7c4422221b59b9934ce574061dca95
+      internalID: -1765937257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a3ccd14e4ec07f85acc137cd38ea4b5b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Barrel_Blood: 1471852145
+      Barrel_Lid: 1707365640
+      Barrel_Salt: 1572881608
+      Blood_Drag: -1861964281
+      Blood_Drops: -643022525
+      Blood_Pool: 1269360345
+      Blood_Pool_B: 1704028651
+      Blood_Pool_Large: 113475228
+      Blood_Splat: 1945174321
+      BonePile: -1976759079
+      Bucket: 1005451466
+      Butcher_Table: 617929831
+      Candles_A_0: 1724046554
+      Candles_A_1: 2020309318
+      Candles_B_0: -384411756
+      Candles_B_1: 1460293693
+      Cauldron_0: 1931882876
+      Cauldron_1: -1063391153
+      Cauldron_2: -773697950
+      Cauldron_3: -871162876
+      ChoppingBlock: 2146640979
+      Crate: -951091877
+      Crate_Large: 192776808
+      Firewood: 140853077
+      Floor_Drain: 1902204938
+      MeatRack: 361931305
+      Sack: 237269465
+      Sack_Pile: -453487118
+      SkullPile: -464673624
+      Tarp: -1657154826
+      Wall_Carcass: -1415356175
+      Wall_Herbs: 1865193510
+      Wall_MeatRail: 1598349733
+      Wall_Notice: 878904523
+      Wall_Sausages: -1742659439
+      Wall_ToolRack: 1791649729
+      Web_Corner: -710174613
+      Web_Corner_R: -1147601129
+      Web_Drape: 129707915
+      Cauldron_a1: 696458965
+      Cauldron_a2: 1733298899
+      Cauldron_a3: -1207815491
+      Cauldron_a4: 1298668216
+      Cauldron_a5: 1173548661
+      Cauldron_a6: 1849545550
+      Cauldron_a7: -1441273180
+      Cauldron_a8: 1256160970
+      Cauldron_a9: -758939782
+      Cauldron_a10: 833942916
+      Cauldron_a11: 1837164445
+      Cauldron_a12: 1080657660
+      Candles_A_a1: -1290690571
+      Candles_A_a2: 199517664
+      Candles_A_a3: 902833557
+      Candles_A_a4: -640083067
+      Candles_A_a5: 1492058347
+      Candles_A_a6: -128544550
+      Candles_A_a7: 1393850114
+      Candles_A_a8: -629209875
+      Candles_A_a9: -915888725
+      Candles_A_a10: -907918233
+      Candles_A_a11: -175103616
+      Candles_B_a1: 2067786816
+      Candles_B_a2: -903922114
+      Candles_B_a3: 2125553366
+      Candles_B_a4: -1873244312
+      Candles_B_a5: 686725162
+      Candles_B_a6: -1284036040
+      Candles_B_a7: -434313206
+      Candles_B_a8: -705463624
+      Candles_B_a9: 1720247180
+      Candles_B_a10: 1451319641
+      Candles_B_a11: -1222779654
+      Candles_B_a12: -1765937257
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

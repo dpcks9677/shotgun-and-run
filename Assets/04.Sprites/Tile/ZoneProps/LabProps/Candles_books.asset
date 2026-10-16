@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Candles_books
+  m_EditorClassIdentifier: Unity.2D.Tilemap.Extras::UnityEngine.Tilemaps.AnimatedTile
+  m_AnimatedSprites:
+  - {fileID: 1132506527, guid: a96d700fc298014f7de17c5a9bdfe806, type: 3}
+  - {fileID: -1753867586, guid: a96d700fc298014f7de17c5a9bdfe806, type: 3}
+  - {fileID: -902301382, guid: a96d700fc298014f7de17c5a9bdfe806, type: 3}
+  - {fileID: 529859833, guid: a96d700fc298014f7de17c5a9bdfe806, type: 3}
+  - {fileID: 1462812961, guid: a96d700fc298014f7de17c5a9bdfe806, type: 3}
+  - {fileID: -182068097, guid: a96d700fc298014f7de17c5a9bdfe806, type: 3}
+  - {fileID: -699363286, guid: a96d700fc298014f7de17c5a9bdfe806, type: 3}
+  - {fileID: -182068097, guid: a96d700fc298014f7de17c5a9bdfe806, type: 3}
+  - {fileID: 1462812961, guid: a96d700fc298014f7de17c5a9bdfe806, type: 3}
+  - {fileID: -955345895, guid: a96d700fc298014f7de17c5a9bdfe806, type: 3}
+  - {fileID: -1310215739, guid: a96d700fc298014f7de17c5a9bdfe806, type: 3}
+  - {fileID: 614082626, guid: a96d700fc298014f7de17c5a9bdfe806, type: 3}
+  m_MinSpeed: 5.5
+  m_MaxSpeed: 6.5
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 1
+  m_TileAnimationFlags: 0

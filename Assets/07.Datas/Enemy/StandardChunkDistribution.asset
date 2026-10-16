@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf7c8b2eb5ba624593278769bf8d553, type: 3}
+  m_Name: StandardChunkDistribution
+  m_EditorClassIdentifier: ShotgunAndRun.Enemy::EnemyChunkDistributionSO
+  _presets:
+  - {fileID: 11400000, guid: 23ca760472564ac4bc797aefb3e99ef9, type: 2}
+  - {fileID: 11400000, guid: da1d44a49ee04ae7b0d682393f180b18, type: 2}
+  - {fileID: 11400000, guid: 7438896b4b844837982c7d8825bd0e9c, type: 2}
+  - {fileID: 11400000, guid: 5574eb12b79947db9cfa1ae25bd7a2ef, type: 2}
+  - {fileID: 11400000, guid: 5d61394272e94ac784c15ab268971b6d, type: 2}
+  - {fileID: 11400000, guid: f04027a33a0c4936a7f2051e33d9032a, type: 2}
+  - {fileID: 11400000, guid: 4ac54ea2e32e41ed8cbbc02bfdb247a8, type: 2}
+  - {fileID: 11400000, guid: 40cd09d265624d5e858381226df5fd0f, type: 2}
+  - {fileID: 11400000, guid: 23a942983dc649698265014ce3ffe33b, type: 2}
+  - {fileID: 11400000, guid: ad9eab65bec54bd695494dd27335ec82, type: 2}
+  - {fileID: 11400000, guid: 2ce1cdf165364b2bac5c6f0a7fb5a4ac, type: 2}
+  - {fileID: 11400000, guid: 238ce0602a9c75045be31bd3e9967c3a, type: 2}
+  - {fileID: 11400000, guid: 73b598b4b6b947cf98b09876f7621ba4, type: 2}
+  - {fileID: 11400000, guid: bf2d18eacc3b4dce8acd1f0d94388c25, type: 2}
+  - {fileID: 11400000, guid: b7576d919f004b2bb547a29a294828f8, type: 2}
+  - {fileID: 11400000, guid: 1b8bf0c6fa1c402cb1cfd9f4ff7ae643, type: 2}
+  - {fileID: 11400000, guid: 686d1933875248bd99a5e865cb60cb09, type: 2}
+  - {fileID: 11400000, guid: a70f9d184cf64d129870173ab7306bc0, type: 2}
+  - {fileID: 11400000, guid: e97d1801fa36479485b28484aa11ed39, type: 2}
+  - {fileID: 11400000, guid: 8eea02afc474414d86c05c59cedbd1a9, type: 2}
+  - {fileID: 11400000, guid: 51c3ce393a034096a62795417e66c9b0, type: 2}
+  - {fileID: 11400000, guid: 349b89035fd84f7dbb4b826f64fecce2, type: 2}
+  - {fileID: 11400000, guid: 0d5d139906ab40b7a8cccb2e87f3aab7, type: 2}
+  - {fileID: 11400000, guid: 384700114a6d4192a6364ba7b3fd93c3, type: 2}
+  - {fileID: 11400000, guid: f7d254bc07454c1fb61aebdf9055b8c9, type: 2}
+  - {fileID: 11400000, guid: 00e4146e32a44fe4a4de8b0bd4024396, type: 2}
+  - {fileID: 11400000, guid: f2b8466b548149c1a6c77e4bec054ddd, type: 2}
+  - {fileID: 11400000, guid: e2e9d1b38e314c209f8dd2987639f6df, type: 2}
+  - {fileID: 11400000, guid: 7b16aecefa8246259629c0490d90ffd5, type: 2}
+  - {fileID: 11400000, guid: a4155051d4034153b0eb6adeb3346729, type: 2}
+  _easyPercent: 50
+  _normalPercent: 30
+  _hardPercent: 15
+  _veryHardPercent: 5

@@ -1,0 +1,8 @@
+{
+    "name": "ShotgunAndRun.Enemy.EditModeTests",
+    "references": ["ShotgunAndRun.Enemy"],
+    "includePlatforms": ["Editor"],
+    "autoReferenced": false,
+    "defineConstraints": ["UNITY_INCLUDE_TESTS"],
+    "optionalUnityReferences": ["TestAssemblies"]
+}

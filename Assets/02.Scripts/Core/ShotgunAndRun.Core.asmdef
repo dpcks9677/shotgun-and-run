@@ -1,0 +1,22 @@
+{
+    "name": "ShotgunAndRun.Core",
+    "rootNamespace": "ShotgunAndRun.Core",
+    "references": [
+        "ShotgunAndRun.Player",
+        "ShotgunAndRun.Weapon",
+        "ShotgunAndRun.Combat",
+        "ShotgunAndRun.UI",
+        "ShotgunAndRun.Inventory.Data",
+        "ShotgunAndRun.Quest",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

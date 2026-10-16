@@ -1,0 +1,3251 @@
+fileFormatVersion: 2
+guid: a96d700fc298014f7de17c5a9bdfe806
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LabTable_flask
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 50
+        height: 36
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -25, y: -14}
+        - {x: -25, y: 18}
+        - {x: 23, y: 18}
+        - {x: 23, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84c37b58234373421d47b5260ade4ae
+      internalID: 293610356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTable_herb
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 92
+        width: 50
+        height: 36
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -25, y: -14}
+        - {x: -25, y: 18}
+        - {x: 23, y: 18}
+        - {x: 23, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c42175eb089dae96e0adf6e9c1df6bb
+      internalID: 2008015890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabTable_study
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 92
+        width: 50
+        height: 36
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -25, y: -14}
+        - {x: -25, y: 18}
+        - {x: 23, y: 18}
+        - {x: 23, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c62871ce8022c50941a20e4ff931772
+      internalID: 955474602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_write
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 92
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7909f8077eabc715721f5f673422508c
+      internalID: -1176385671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_papers
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 92
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5c203b855ad7f8d89c08fc78f86490
+      internalID: 1494569658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk_map
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 92
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9b80230fb9e17aaff9c6e68beb0185
+      internalID: -1183499181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair_chair
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 108
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598f36415b6dcbc08099fa76bb462ad6
+      internalID: -802541949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair_stool
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 108
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37099542cc716f052b52a127cd4d525
+      internalID: 1148510179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair_fallen
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 108
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd28b56d48a1a5aed5aef4db749ee8f5
+      internalID: 202850738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bookshelf_full_1
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 92
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 2}
+        - {x: 7, y: 2}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ed1a4f3f8a559677425d0554d8b630
+      internalID: -809588004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bookshelf_full_2
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 92
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 2}
+        - {x: 15, y: 2}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2ce66f85f4d803e9273abcf4196d33
+      internalID: -1808139733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bookshelf_full_3
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 92
+        width: 50
+        height: 36
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -25, y: -14}
+        - {x: -25, y: 2}
+        - {x: 23, y: 2}
+        - {x: 23, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2341771332fa18ebfc5e2aba806aa9
+      internalID: 1308743106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bookshelf_jars_2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 92
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 2}
+        - {x: 15, y: 2}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa2069800367c9976531ad5ecf83fe7
+      internalID: -2083235124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bookshelf_jars_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 50
+        height: 36
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -25, y: -14}
+        - {x: -25, y: 2}
+        - {x: 23, y: 2}
+        - {x: 23, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d87a65feb19ba5a803188eb04a09584
+      internalID: -2054044761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bookshelf_broken_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 54
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 2}
+        - {x: 15, y: 2}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843efad72fa1c191dcd351a05be67a7a
+      internalID: 105834364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bookshelf_scrolls_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 54
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 2}
+        - {x: 15, y: 2}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1501b2256871c519cd1c739d358f87d6
+      internalID: 529542089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bookshelf_curio_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 54
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 2}
+        - {x: 15, y: 2}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82a7d5af68765631264e8d8d28f399f
+      internalID: -289627755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bookshelf_ladder_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 54
+        width: 50
+        height: 36
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -25, y: -14}
+        - {x: -25, y: 2}
+        - {x: 23, y: 2}
+        - {x: 23, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64eb7977acd0249577ff9c9bb0bb7185
+      internalID: 1888352014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bookshelf_tall_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 38
+        width: 34
+        height: 52
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -22}
+        - {x: -17, y: -6}
+        - {x: 15, y: -6}
+        - {x: 15, y: -22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d3032a5ec8db1af04d902468ef6473
+      internalID: -1568300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books_stack
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 70
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30a5661cdacd921e6ed12fe9eec92fe
+      internalID: 184642723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books_two
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 70
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4f7e4083ac1c4db20e59dd039e4cc1
+      internalID: 1216603575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books_open
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 70
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964d10ac913e18666be65b7bc2c55670
+      internalID: -48617443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_pool_f0
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 70
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a85760b30a3ee0b91aa85bfc002a632
+      internalID: 1828852998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_pool_f1
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 70
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae080190f0401f09fe6e661ec46455e7
+      internalID: -2146574499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_skull_f0
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 70
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4690787f3479e2e61a1c3e8a48d62296
+      internalID: -102294223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_skull_f1
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 70
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50adb6f3ffe2008207049cfafba8e050
+      internalID: 1651819783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_books_f0
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 70
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90bb76525e88fca3c4750e1cfe3d431
+      internalID: 529859833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_books_f1
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 70
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9cdff9a19cfbc59dd075d051e06587
+      internalID: -1053789192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candelabra_iron3_f0
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 54
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 2}
+        - {x: 7, y: 2}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09452c39a444f1a07f8f7d515428e14e
+      internalID: 1173048115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candelabra_iron3_f1
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 54
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 2}
+        - {x: 7, y: 2}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10a15056d3f15382ef5c6f0eb31d4b6
+      internalID: -921592403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candelabra_brass_f0
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 54
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 2}
+        - {x: 7, y: 2}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e057e87141c4d45138de96ee58cd445d
+      internalID: -1065009392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candelabra_brass_f1
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 54
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 2}
+        - {x: 7, y: 2}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82407d017683ac9c5e1c95df02b76e5
+      internalID: 480965245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candelabra_fallen
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -6}
+        - {x: -17, y: 10}
+        - {x: 15, y: 10}
+        - {x: 15, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4716e5fff6194ffebc9ec806c388973
+      internalID: 916667188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallShelf_potions
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 16
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e2203ce31dfe5c4c0ac75132cdbc0b
+      internalID: -1406164086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallShelf_jars
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 16
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011b194eb06279254fc2bae8bf5d3b72
+      internalID: -251704408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallShelf_books
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 16
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757a3592dca6adbe1fa98aa6dedc8a0e
+      internalID: 6195292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallShelf_double
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c44e937a6e6d530ea65c8084f5a554
+      internalID: -279350484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sconce_single_f0
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 16
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f843f25ef069222c99f61fe28c3548
+      internalID: -535547291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sconce_single_f1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 16
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78805a1869a4715cd2a2d830860d62a6
+      internalID: 832067450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sconce_double_f0
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 16
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415e34ca49273b9d994b29c8c7ab05a1
+      internalID: -702658775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sconce_double_f1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb1459813f382fafee5ab5ade32db03
+      internalID: -619168513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sconce_out
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 16
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbbe64c5e4a8223e63c1c5096746fd2
+      internalID: -1896378991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decal_paper
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 16
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7726c4bf7ef4d52a6eb12103f6e9c946
+      internalID: 1515002196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decal_ink
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 16
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5165fbd84b5c1344cdd11d900629a35
+      internalID: -676129736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decal_wax
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 16
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc06649dec85261018aaefb66ab01c03
+      internalID: -604233518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_books_a1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a1c8d1ab800f8d78c1a5197ea8662f
+      internalID: 1132506527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_books_a2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 152
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d260c63b55981c9627098845aa0ea9f
+      internalID: -1753867586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_books_a3
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 152
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6a58a3e3bdbd1c777b69d42be76f2a
+      internalID: -902301382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_books_a4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 152
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9806904f40cc7f9b13e038858c2510
+      internalID: 1462812961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_books_a5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 152
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abd6116b66abaf9a43750e14581554c
+      internalID: -182068097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_books_a6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 152
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee00ea352e5bfdccfef210b04df4a8c
+      internalID: -699363286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_books_a7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 152
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd589a98833f3ad5c9e7dad999b6e64b
+      internalID: -955345895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_books_a8
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 152
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cb81e06a24f92336182db392568432
+      internalID: -1310215739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_books_a9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 152
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfabb4bb098f6911b59f5da39009022
+      internalID: 614082626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_pool_a1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 152
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8319bbe024b40bf1c457ca170d6b626b
+      internalID: 1632000661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_pool_a2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 152
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f0b0a59e2a0017fac03a6c4c65dbd3
+      internalID: 774521205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_pool_a3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 152
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d49dc30370dcf7f934ac55b1cae0f48
+      internalID: 1120908627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_pool_a4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 152
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe678832b7f19ad82fd23036fca9632f
+      internalID: -421860784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_pool_a5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 152
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f80cd8b9b178a0d18ab1afa9d2c41cd
+      internalID: -687188967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_pool_a6
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 152
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678231a06513b2d8be6f71b00a1adb46
+      internalID: -1533880954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_pool_a7
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 152
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7bfae9a43f594e30ed53c6aaa92958
+      internalID: -614434939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_pool_a8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 152
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526f34ad2a52279a128bb6aebc3c0ae6
+      internalID: 1865726122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_pool_a9
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 152
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea54241120701d48ab11a38773ab1cc7
+      internalID: -1047604045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_pool_a10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 152
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd93ed9c31c8a841a3bb8b501457023
+      internalID: -1769066675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_pool_a11
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 152
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b28028684b632d2fd9c2fec120c3ea1
+      internalID: 1177578460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_pool_a12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 152
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4b081fff8c75fb917d80ef8e6de04f
+      internalID: 1372621197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_skull_a1
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 152
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40c84bd9e46d065b26914b6cda1b09a
+      internalID: -222948922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_skull_a2
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 152
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b248f248ceb41a385f224a758a8e76c
+      internalID: 2079716508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_skull_a3
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 152
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b27d9eff54c430ed6a530b90a8815d8
+      internalID: -322150226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_skull_a4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 152
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24065d37fc37b956dba5177706d3122c
+      internalID: -993186573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_skull_a5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50fe0b92bea74cc3a3f2d11593cb6d4
+      internalID: 574349648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_skull_a6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 130
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb8ec69b0e9f20bde0316b0701a78a1
+      internalID: -1960626380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_skull_a7
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 130
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59013545f8907b9e7f109b11dc0d9c60
+      internalID: -849325176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_skull_a8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 130
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d8058fd13817f53bb2f8cd155a5abb
+      internalID: -746105285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_skull_a9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 130
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63120eb194182bdf48908a1fd93360e
+      internalID: 1629894320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_skull_a10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 130
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e58c9e5210f658ad9b3d7e5212e33b
+      internalID: -1584967615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_skull_a11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 130
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5d86d4340abe797decda397d865844
+      internalID: -2036104581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles_skull_a12
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 130
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9042ab6cf8a8f631fbcb227d559fb2f5
+      internalID: 1367499439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candelabra_brass_a1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 2}
+        - {x: 7, y: 2}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bc07646a893ed0cb5e6a6187d74d4d
+      internalID: -737925699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candelabra_brass_a2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 196
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 2}
+        - {x: 7, y: 2}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19207f9b97c2a088364aafee7e8fe57a
+      internalID: -1248521355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candelabra_brass_a3
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 196
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 2}
+        - {x: 7, y: 2}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9738684fdf093702689573177ee09a
+      internalID: 1948585842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candelabra_brass_a4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 196
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 2}
+        - {x: 7, y: 2}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c269345541e0ec244aaca4e1deaec5eb
+      internalID: 1677475197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candelabra_brass_a5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 196
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 2}
+        - {x: 7, y: 2}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118ffa3ab553e9cf6e02cc006f6c2ffb
+      internalID: 1635997902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candelabra_brass_a6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 196
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 2}
+        - {x: 7, y: 2}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696b5a5cf45dede13933d769826b60d3
+      internalID: -261525098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candelabra_brass_a7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 196
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 2}
+        - {x: 7, y: 2}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06018c5c854fe8a0ec1d63cb5e32b0dd
+      internalID: -1228782352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candelabra_brass_a8
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 196
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 2}
+        - {x: 7, y: 2}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc890197fa4a2072be3974e5e4ec3f6
+      internalID: -49762379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candelabra_brass_a9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 196
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 2}
+        - {x: 7, y: 2}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca264f482e2d9efebe08f11bf5ffcdd7
+      internalID: 22385354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candelabra_iron3_a1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 196
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 2}
+        - {x: 7, y: 2}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c651327b4bf21d37998103c688214693
+      internalID: -2057705312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candelabra_iron3_a2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 196
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 2}
+        - {x: 7, y: 2}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7566cc1f00b51031c206d41014e0c929
+      internalID: 516706553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candelabra_iron3_a3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 196
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 2}
+        - {x: 7, y: 2}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a85557b7a97e2a088848c1b619c9ae
+      internalID: -1997448700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candelabra_iron3_a4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 196
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 2}
+        - {x: 7, y: 2}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5581e67c79f98ac4bbb7a8337f3c22de
+      internalID: -602082841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candelabra_iron3_a5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 196
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 2}
+        - {x: 7, y: 2}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394c29737404fe3734eb13ed582c3788
+      internalID: 702831731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candelabra_iron3_a6
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 196
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 2}
+        - {x: 7, y: 2}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80c1d8ca7e768ecf530709e372d0119
+      internalID: 363528888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candelabra_iron3_a7
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 196
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 2}
+        - {x: 7, y: 2}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675980967a602dcec046d340f56f8677
+      internalID: -403746673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candelabra_iron3_a8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 196
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 2}
+        - {x: 7, y: 2}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ccf3966ac9865fa8c6428cb9924492
+      internalID: 1298308390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candelabra_iron3_a9
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 196
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 2}
+        - {x: 7, y: 2}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230bbe0f0a258c5d78c072bb84196cf5
+      internalID: -1965287415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candelabra_iron3_a10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 196
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 2}
+        - {x: 7, y: 2}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f9749558b745d99c477924832f6933
+      internalID: 1218344515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candelabra_iron3_a11
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 196
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 2}
+        - {x: 7, y: 2}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eac1c69394ed43532f34ced1e89b9c0
+      internalID: 654618442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candelabra_iron3_a12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 196
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 2}
+        - {x: 7, y: 2}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5795575e49b91344d2a3e38ce3dd2061
+      internalID: 1245598572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sconce_single_a1
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 212
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024b4f07b920e3e61278bb52448b2606
+      internalID: 644916705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sconce_single_a2
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 212
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4def8167676e61ffe31c92843f6b1ab
+      internalID: -150097785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sconce_single_a3
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 212
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44a3924a3b077dc1589c3fcb8a64f41
+      internalID: 257267475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sconce_single_a4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 212
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae5ff67e9d8c8dec5302bdc3d3a92a5
+      internalID: 1485973638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sconce_single_a5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bb7bc6adc35de27c4d5c7e326fa866
+      internalID: 1638142620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sconce_single_a6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 174
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3597d437f905d06dc3850aaa33eb59
+      internalID: 510565018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sconce_single_a7
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 174
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce6f71680fe7d05298788a5dbb6778d
+      internalID: -1619134886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sconce_single_a8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 174
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02881fb65418c45a4b8f321e69eb88eb
+      internalID: 2008535113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sconce_single_a9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 174
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa51cd8aec967f5173ccd9d028dbc11
+      internalID: -2102803030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sconce_double_a1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 174
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6ca08d0e0f35ecd28a59ed71ee8dd7
+      internalID: 480117723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sconce_double_a2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 174
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465c067e36c1624fa1722ce81c6e4d57
+      internalID: -327256660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sconce_double_a3
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 174
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe8c74594caf938a974fb9e551a3c31
+      internalID: 1036497189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sconce_double_a4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 174
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22b935cdcb75894523f8a0060770e55
+      internalID: 1842154200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sconce_double_a5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 174
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be3cf54cf7a7ca1f5334918f6c9e9a7
+      internalID: 2088509026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sconce_double_a6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 174
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff27ffc40b83a893271c8fc22e70725e
+      internalID: 1720435164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sconce_double_a7
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 174
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3377fd01536ecfef8a97bbf46bd51bc
+      internalID: 906010488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sconce_double_a8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 174
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d93cea3a2aa80ef2adcf16a3baaa27
+      internalID: 1481343336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sconce_double_a9
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 174
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5faa9a3be6ef11ced36206e72251a2c6
+      internalID: -757532723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sconce_double_a10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 174
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d1cd0b390ebafa9acd152ec42093b6
+      internalID: -1714333755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sconce_double_a11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 174
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed5b7b894ed8ecfc855f7fb3b7fba84
+      internalID: 1888567953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sconce_double_a12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 174
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6850995ae72e122d9bc41e693620a5e2
+      internalID: -114516998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ad6f8b11432a98b7c16d2f43c82de475
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Books_open: -48617443
+      Books_stack: 184642723
+      Books_two: 1216603575
+      Bookshelf_broken_2: 105834364
+      Bookshelf_curio_2: -289627755
+      Bookshelf_full_1: -809588004
+      Bookshelf_full_2: -1808139733
+      Bookshelf_full_3: 1308743106
+      Bookshelf_jars_2: -2083235124
+      Bookshelf_jars_3: -2054044761
+      Bookshelf_ladder_3: 1888352014
+      Bookshelf_scrolls_2: 529542089
+      Bookshelf_tall_2: -1568300300
+      Candelabra_brass_f0: -1065009392
+      Candelabra_brass_f1: 480965245
+      Candelabra_fallen: 916667188
+      Candelabra_iron3_f0: 1173048115
+      Candelabra_iron3_f1: -921592403
+      Candles_books_f0: 529859833
+      Candles_books_f1: -1053789192
+      Candles_pool_f0: 1828852998
+      Candles_pool_f1: -2146574499
+      Candles_skull_f0: -102294223
+      Candles_skull_f1: 1651819783
+      Chair_chair: -802541949
+      Chair_fallen: 202850738
+      Chair_stool: 1148510179
+      Decal_ink: -676129736
+      Decal_paper: 1515002196
+      Decal_wax: -604233518
+      Desk_map: -1183499181
+      Desk_papers: 1494569658
+      Desk_write: -1176385671
+      LabTable_flask: 293610356
+      LabTable_herb: 2008015890
+      LabTable_study: 955474602
+      Sconce_double_f0: -702658775
+      Sconce_double_f1: -619168513
+      Sconce_out: -1896378991
+      Sconce_single_f0: -535547291
+      Sconce_single_f1: 832067450
+      WallShelf_books: 6195292
+      WallShelf_double: -279350484
+      WallShelf_jars: -251704408
+      WallShelf_potions: -1406164086
+      Candles_books_a1: 1132506527
+      Candles_books_a2: -1753867586
+      Candles_books_a3: -902301382
+      Candles_books_a4: 1462812961
+      Candles_books_a5: -182068097
+      Candles_books_a6: -699363286
+      Candles_books_a7: -955345895
+      Candles_books_a8: -1310215739
+      Candles_books_a9: 614082626
+      Candles_pool_a1: 1632000661
+      Candles_pool_a2: 774521205
+      Candles_pool_a3: 1120908627
+      Candles_pool_a4: -421860784
+      Candles_pool_a5: -687188967
+      Candles_pool_a6: -1533880954
+      Candles_pool_a7: -614434939
+      Candles_pool_a8: 1865726122
+      Candles_pool_a9: -1047604045
+      Candles_pool_a10: -1769066675
+      Candles_pool_a11: 1177578460
+      Candles_pool_a12: 1372621197
+      Candles_skull_a1: -222948922
+      Candles_skull_a2: 2079716508
+      Candles_skull_a3: -322150226
+      Candles_skull_a4: -993186573
+      Candles_skull_a5: 574349648
+      Candles_skull_a6: -1960626380
+      Candles_skull_a7: -849325176
+      Candles_skull_a8: -746105285
+      Candles_skull_a9: 1629894320
+      Candles_skull_a10: -1584967615
+      Candles_skull_a11: -2036104581
+      Candles_skull_a12: 1367499439
+      Candelabra_brass_a1: -737925699
+      Candelabra_brass_a2: -1248521355
+      Candelabra_brass_a3: 1948585842
+      Candelabra_brass_a4: 1677475197
+      Candelabra_brass_a5: 1635997902
+      Candelabra_brass_a6: -261525098
+      Candelabra_brass_a7: -1228782352
+      Candelabra_brass_a8: -49762379
+      Candelabra_brass_a9: 22385354
+      Candelabra_iron3_a1: -2057705312
+      Candelabra_iron3_a2: 516706553
+      Candelabra_iron3_a3: -1997448700
+      Candelabra_iron3_a4: -602082841
+      Candelabra_iron3_a5: 702831731
+      Candelabra_iron3_a6: 363528888
+      Candelabra_iron3_a7: -403746673
+      Candelabra_iron3_a8: 1298308390
+      Candelabra_iron3_a9: -1965287415
+      Candelabra_iron3_a10: 1218344515
+      Candelabra_iron3_a11: 654618442
+      Candelabra_iron3_a12: 1245598572
+      Sconce_single_a1: 644916705
+      Sconce_single_a2: -150097785
+      Sconce_single_a3: 257267475
+      Sconce_single_a4: 1485973638
+      Sconce_single_a5: 1638142620
+      Sconce_single_a6: 510565018
+      Sconce_single_a7: -1619134886
+      Sconce_single_a8: 2008535113
+      Sconce_single_a9: -2102803030
+      Sconce_double_a1: 480117723
+      Sconce_double_a2: -327256660
+      Sconce_double_a3: 1036497189
+      Sconce_double_a4: 1842154200
+      Sconce_double_a5: 2088509026
+      Sconce_double_a6: 1720435164
+      Sconce_double_a7: 906010488
+      Sconce_double_a8: 1481343336
+      Sconce_double_a9: -757532723
+      Sconce_double_a10: -1714333755
+      Sconce_double_a11: 1888567953
+      Sconce_double_a12: -114516998
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

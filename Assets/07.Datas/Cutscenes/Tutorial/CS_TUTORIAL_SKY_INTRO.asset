@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ca576ebf159a5e4998917a7a13c5a43, type: 3}
+  m_Name: CS_TUTORIAL_SKY_INTRO
+  m_EditorClassIdentifier: Assembly-CSharp::ShotgunAndRun.Sandbox.Cutscene.TutorialSkyIntroCutscene
+  _id: CS_TUTORIAL_SKY_INTRO
+  _requiredFlags: []
+  _blockedFlags: []
+  _completionFlags: []
+  _saveCompletionFlagsImmediately: 0
+  _autoPlay: 0
+  _priority: 0
+  _lockPlayer: 1
+  _hideHud: 1
+  _pauseGameplay: 1
+  _debugSpawnMarker: 
+  _lines: {fileID: 11400000, guid: 810b0d1d80c24fbdae579631cb220b4c, type: 2}
+  _alertSfx: {fileID: 8300000, guid: 960bd45067e64bafb0db5fb066eeb301, type: 3}
+  _walkSpeed: 2.5
+  _focusBlend: 1.2
+  _focusHold: 0.6
+  _returnBlend: 0.8

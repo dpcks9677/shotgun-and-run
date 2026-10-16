@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69986118a27719e4ba7412b3c747b23d, type: 3}
+  m_Name: CS_ELENA_TELEPORT_Lines
+  m_EditorClassIdentifier: ShotgunAndRun.Dialogue::ShotgunAndRun.UI.Dialogue.DialogueDataSO
+  _speakerName: 
+  _speakerPortrait: {fileID: 0}
+  _guideImage: {fileID: 0}
+  _lines:
+  - Speaker: {fileID: 11400000, guid: d3e193e7ce3d5ae409e8380e5ac26da3, type: 2}
+    Expression: 
+    SpeakerName: 
+    SpeakerPortrait: {fileID: 0}
+    Text: "\uC815\uB9D0 \uACE0\uB9C8\uC6CC\uC694! \uB358\uC804\uC5D0\uC11C \uC601\uC601
+      \uBABB \uB098\uAC00\uB294 \uC904 \uC54C\uC558\uB124\uC694."
+    Bubble: 6
+    Sfx: {fileID: 0}
+    Signal: 
+  - Speaker: {fileID: 11400000, guid: d3e193e7ce3d5ae409e8380e5ac26da3, type: 2}
+    Expression: 
+    SpeakerName: 
+    SpeakerPortrait: {fileID: 0}
+    Text: "\uC5BC\uB978 \uC5EC\uAE30\uC11C \uB098\uAC00\uC57C \uD574\uC694. \uACE0\uBE14\uB9B0
+      \uBB34\uB9AC\uAC00 \uB354 \uCAD3\uC544\uC62C \uAC70\uC608\uC694."
+    Bubble: 5
+    Sfx: {fileID: 0}
+    Signal: 
+  - Speaker: {fileID: 11400000, guid: d3e193e7ce3d5ae409e8380e5ac26da3, type: 2}
+    Expression: 
+    SpeakerName: 
+    SpeakerPortrait: {fileID: 0}
+    Text: "\uADF8\uB7F0\uB370 \uC544\uC9C1 \uB9C8\uB825\uC774 \uB2E4 \uB3CC\uC544\uC624\uC9C0
+      \uC54A\uC544\uC11C \uAC19\uC774 \uD154\uB808\uD3EC\uD2B8\uB97C \uD560 \uC218\uB294
+      \uC5C6\uC744 \uAC83 \uAC19\uC544\uC694... \uC5B4\uCA4C\uBA74 \uC88B\uC8E0?"
+    Bubble: 5
+    Sfx: {fileID: 0}
+    Signal: 
+  - Speaker: {fileID: 11400000, guid: 3e96ec43bf27def45a8e154a18b0e6de, type: 2}
+    Expression: 
+    SpeakerName:
+    SpeakerPortrait: {fileID: 0}
+    Text: "\uC800\uBC88\uC5D0 \uBD10\uB454 \uD0C8\uCD9C\uAD6C\uAC00 \uC788\uC5B4\uC694.
+      \uC800\uB294 \uAC70\uAE30\uB85C \uAC00 \uBCFC\uAC8C\uC694."
+    Bubble: 0
+    Sfx: {fileID: 0}
+    Signal: 
+  - Speaker: {fileID: 11400000, guid: d3e193e7ce3d5ae409e8380e5ac26da3, type: 2}
+    Expression: 
+    SpeakerName: 
+    SpeakerPortrait: {fileID: 0}
+    Text: "\uC54C\uACA0\uC5B4\uC694. \uADF8\uB7FC \uBA3C\uC800 \uC258\uD130\uB85C
+      \uAC00 \uC788\uC744\uAC8C\uC694. \uBB34\uC0AC\uD788 \uB3CC\uC544\uC624\uC154\uC57C
+      \uD574\uC694!"
+    Bubble: 10
+    Sfx: {fileID: 0}
+    Signal: 
+  _choices: []
+  _pauseGame: 0

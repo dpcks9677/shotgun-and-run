@@ -1,0 +1,22 @@
+{
+    "name": "ShotgunAndRun.Player.PlayModeTests",
+    "rootNamespace": "ShotgunAndRun.Player.Tests",
+    "references": [
+        "ShotgunAndRun.Player",
+        "ShotgunAndRun.Combat"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false,
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ]
+}

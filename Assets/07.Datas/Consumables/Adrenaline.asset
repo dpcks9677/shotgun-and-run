@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d3e754375f5fcd41957a959e6bbe233, type: 3}
+  m_Name: Adrenaline
+  m_EditorClassIdentifier: ShotgunAndRun.Inventory.Data::InventorySystem.ConsumableData
+  _id: 
+  _consumableName: "\uC544\uB4DC\uB808\uB0A0\uB9B0"
+  _icon: {fileID: 722350195, guid: 5d8158c467c974bb0bf7153af526d0a3, type: 3}
+  _consumableEffectData:
+    value: 1.3
+    duration: 10
+  _consumableType: 4
+  _consumableCategory: 2
+  _description: "10\uCD08 \uB3D9\uC548 \uC774\uB3D9\uC18D\uB3C4 +30% \uC99D\uAC00"
+  _maxStack: 3

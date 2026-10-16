@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a30f57d537d3c6345870356b55c44130, type: 3}
+  m_Name: CS_TUTORIAL_SKY_CLEAR
+  m_EditorClassIdentifier: Assembly-CSharp::ShotgunAndRun.Sandbox.Cutscene.TutorialSkyClearCutscene
+  _id: CS_TUTORIAL_SKY_CLEAR
+  _requiredFlags: []
+  _blockedFlags: []
+  _completionFlags: []
+  _saveCompletionFlagsImmediately: 0
+  _autoPlay: 0
+  _priority: 0
+  _lockPlayer: 1
+  _hideHud: 1
+  _pauseGameplay: 1
+  _debugSpawnMarker: 
+  _lines: {fileID: 11400000, guid: ef4051ad95dd7df4081d1d86bfb3b701, type: 2}
+  _focusBlend: 0.8
+  _zoomSize: 5.5
+  _zoomSeconds: 1
+  _focusHold: 0.4
+  _unzoomSeconds: 0.6

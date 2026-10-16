@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4d44afd9470d754ba7d202877267397, type: 3}
+  m_Name: ItemCatalog
+  m_EditorClassIdentifier: ShotgunAndRun.Inventory.Data::InventorySystem.ItemCatalogSO
+  _items:
+  - {fileID: 11400000, guid: 41fa8c5d312d7d74b9da73296df64cfa, type: 2}
+  - {fileID: 11400000, guid: 9c7e14c6a826f6f41a3f1d58a1e6ff9e, type: 2}
+  - {fileID: 11400000, guid: ca897adb18cd9114683d786daf0ebb83, type: 2}
+  - {fileID: 11400000, guid: d6114b2431d46574a8559ea87107439d, type: 2}
+  - {fileID: 11400000, guid: ea7cea7ba908acd46b55e1ec96dcedd6, type: 2}
+  - {fileID: 11400000, guid: c00227beb3600694e8e811582980ca71, type: 2}
+  - {fileID: 11400000, guid: b11683385e7934740b1854523e1048f6, type: 2}
+  - {fileID: 11400000, guid: 050586a25b055ca46a7c35062c6d80d6, type: 2}
+  - {fileID: 11400000, guid: cc08deaa94038624bb8e9959d3a7764d, type: 2}
+  - {fileID: 11400000, guid: aa1cc788af80ab5448788478ec804b9d, type: 2}
+  - {fileID: 11400000, guid: f97f583193dd3ea42bbfb4f8d1a20c18, type: 2}
+  - {fileID: 11400000, guid: 8aa45476beb6417a83d8c67b7e5c088e, type: 2}
+  - {fileID: 11400000, guid: fa88b4a9adcb4009a26b169f2d9a46bb, type: 2}
+  - {fileID: 11400000, guid: c53442110d354a0587fae449f7e8654c, type: 2}
+  - {fileID: 11400000, guid: f51b34ee8ffb41a8b38ab3b0fdc067b4, type: 2}
+  - {fileID: 11400000, guid: f595e8bbc6e64ab9a79d5e85a8c33dbe, type: 2}
+  - {fileID: 11400000, guid: 89e6e6873fad418b89601fe43f7bc3e4, type: 2}
+  - {fileID: 11400000, guid: a52744e360ae49af812da84ba5d2a51c, type: 2}
+  - {fileID: 11400000, guid: 2ab7894ed7264a39b1c3b53e4b0de2dc, type: 2}

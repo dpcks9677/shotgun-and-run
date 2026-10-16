@@ -1,0 +1,822 @@
+fileFormatVersion: 2
+guid: 6d56e12c8da7371977e94289516529f7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wall_QuestBoard
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 66
+        height: 52
+      alignment: 9
+      pivot: {x: 0.12121212, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13410f34b3f93724ea2d4b67b41d6205
+      internalID: 1879699080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestBoard_Stand
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 70
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -25, y: -22}
+        - {x: -25, y: -6}
+        - {x: 23, y: -6}
+        - {x: 23, y: -22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a10cad2d195c7006a69c88efd19fae1
+      internalID: -1435907389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StorageChest
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 86
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f892a0b80eb2f9e9c48e5eb14336892b
+      internalID: -1628301094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShelterArch_5
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 102
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865e7255f91d4aa031611ccd79a39867
+      internalID: -1428216664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShelterArch_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 102
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e14a203e07a7a01ef760170bf4aaeed
+      internalID: -1924956593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShelterArch_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 102
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7ddf6f1ae8db08d7b4c3931b65b608
+      internalID: 383919902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShelterArch_8
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 102
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61885060395d22ba4c7b7a670a1acdff
+      internalID: 1159360154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShelterArch_30
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 102
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400a4116290e47b2718fe3ab4e711fac
+      internalID: -1675181150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShelterArch_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 102
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd32c2c1d2d32b5bea0b7f2e0cbf066
+      internalID: -1121317539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShelterArch_32
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 102
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a58d0d0f107f53f26d880e5b8e0000
+      internalID: 1920777037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShelterArch_33
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 102
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8319ada2808073021ab18d47c51ee9d6
+      internalID: -1535157530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShelterArch_55
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 102
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82437522f3ba424d6a2089705bacde76
+      internalID: 419495192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShelterArch_56
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 102
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c730514929c7315d048e011e590d0a
+      internalID: -1263784882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShelterArch_57
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 102
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be77f4c6ada3b5a71aac3d6a65cfe360
+      internalID: 1044897803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShelterArch_58
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 102
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb98da16840d61a8e1f253bb2f4fb719
+      internalID: 67615332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShelterArch_86
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 102
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bb83154ab54a51314b491e177fb2e4
+      internalID: 1952413445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShelterArch_96
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 102
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c40b21c71954d4cab88c7127ebd6caf
+      internalID: -133791098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShelterArch_99
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 102
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdb03cb866dab72e5462ade2769eec5
+      internalID: -587753958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShelterArch_129
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 102
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0fa1edf6f93d138006289fdf9fb35b
+      internalID: -106568986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShelterArch_141
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 102
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec66f7d8fc95ef0d5aa3b6f180875e1
+      internalID: 1284989569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShelterArch_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c96fb1166fa3206964331bd21a468d
+      internalID: -655300940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShelterArch_176
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 48
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0645f1f4312f3aa2850b4c83c778692
+      internalID: 316327250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShelterArch_188
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 48
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76e12d78679058555127d3bf36dd687
+      internalID: 1965416681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShelterArch_191
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 48
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a1453de882def1382fc37b3e51a05a
+      internalID: 1247492117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShelterArch_231
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9bdc02d0a2f027e5f13b032e09b9e9
+      internalID: -1158871469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShelterArch_234
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 48
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf78f2d93e6b9a31103d88abd2c7c246
+      internalID: 75967115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GateLintel
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 18
+        height: 68
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.17647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc760fef679ea9c83986395070bc8576
+      internalID: -1513663347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GateSill
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 16
+        width: 18
+        height: 52
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37046572bbde375a2e4ebea5bab59af9
+      internalID: -1929396705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anvil_S
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a4fcf7ce0152f2f13ab879eda9629c
+      internalID: -1799567212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f2661c145919d7836e6a826cb13be343
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Anvil_S: -1799567212
+      GateLintel: -1513663347
+      GateSill: -1929396705
+      QuestBoard_Stand: -1435907389
+      ShelterArch_129: -106568986
+      ShelterArch_141: 1284989569
+      ShelterArch_144: -655300940
+      ShelterArch_176: 316327250
+      ShelterArch_188: 1965416681
+      ShelterArch_191: 1247492117
+      ShelterArch_231: -1158871469
+      ShelterArch_234: 75967115
+      ShelterArch_30: -1675181150
+      ShelterArch_31: -1121317539
+      ShelterArch_32: 1920777037
+      ShelterArch_33: -1535157530
+      ShelterArch_5: -1428216664
+      ShelterArch_55: 419495192
+      ShelterArch_56: -1263784882
+      ShelterArch_57: 1044897803
+      ShelterArch_58: 67615332
+      ShelterArch_6: -1924956593
+      ShelterArch_7: 383919902
+      ShelterArch_8: 1159360154
+      ShelterArch_86: 1952413445
+      ShelterArch_96: -133791098
+      ShelterArch_99: -587753958
+      StorageChest: -1628301094
+      Wall_QuestBoard: 1879699080
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4eef1cb467a6cc440b4dca0c09ced78e, type: 3}
+  m_Name: CS_TUTORIAL_ESCAPE
+  m_EditorClassIdentifier: Assembly-CSharp::ShotgunAndRun.Sandbox.Cutscene.TutorialEscapeCutscene
+  _id: CS_TUTORIAL_ESCAPE
+  _requiredFlags: []
+  _blockedFlags: []
+  _completionFlags: []
+  _saveCompletionFlagsImmediately: 0
+  _autoPlay: 0
+  _priority: 0
+  _lockPlayer: 1
+  _hideHud: 1
+  _pauseGameplay: 1
+  _debugSpawnMarker: 
+  _lines: {fileID: 11400000, guid: f35b2f3dd9dc4663aed73f6d023acf42, type: 2}
+  _scream: {fileID: 11400000, guid: af2594abc9804e76b085c7df40b81e58, type: 2}
+  _rumble: {fileID: 0}
+  _blackoutSfx:
+  - {fileID: 8300000, guid: 4af2ab34d762f4b4993897502d2bf0ff, type: 3}
+  - {fileID: 8300000, guid: 605458f1600627e41a26328092dbc9f2, type: 3}
+  - {fileID: 8300000, guid: 4af2ab34d762f4b4993897502d2bf0ff, type: 3}
+  _startHealth: 3
+  _runSpeed: 7
+  _walkSpeed: 3
+  _collapseSeconds: 2
+  _fadeInSeconds: 1
+  _blackoutSfxGap: 0.5
+  _screamAtHit: 1

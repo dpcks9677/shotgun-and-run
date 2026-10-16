@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69986118a27719e4ba7412b3c747b23d, type: 3}
+  m_Name: CS_PROLOGUE_SHELTER_Elevator
+  m_EditorClassIdentifier: Assembly-CSharp::ShotgunAndRun.UI.Dialogue.DialogueDataSO
+  _speakerName: 
+  _speakerPortrait: {fileID: 0}
+  _guideImage: {fileID: 0}
+  _lines:
+  - Speaker: {fileID: 11400000, guid: 3818475cc931b484face2032818805d0, type: 2}
+    Expression: 
+    SpeakerName: 
+    SpeakerPortrait: {fileID: 0}
+    Text: "\uAE30\uAD00\uC2E4 \uC911\uC559 \uC2B9\uAC15\uAE30\uC758 \uB3D9\uB825\uC774
+      \uB04A\uACBC\uAC70\uB4E0. \uB2E4\uB978 \uC785\uAD6C\uB294 \uBAA8\uB450 \uBD95\uAD34\uB41C
+      \uAC83 \uAC19\uC544."
+    Bubble: 0
+    Sfx: {fileID: 0}
+    Signal: 
+  - Speaker: {fileID: 11400000, guid: 3818475cc931b484face2032818805d0, type: 2}
+    Expression: 
+    SpeakerName: 
+    SpeakerPortrait: {fileID: 0}
+    Text: "\uADF8\uAC74 \uADF8\uB807\uACE0... \uD569\uB958\uD560 \uC0DD\uAC01\uC740
+      \uC788\uC5B4?"
+    Bubble: 0
+    Sfx: {fileID: 0}
+    Signal: 
+  _choices:
+  - ChoiceText: "\uB3D5\uACA0\uC2B5\uB2C8\uB2E4."
+    ChoiceId: JOIN_ACCEPT
+  _pauseGame: 0

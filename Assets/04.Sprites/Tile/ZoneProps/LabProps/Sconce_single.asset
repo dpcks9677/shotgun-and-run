@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Sconce_single
+  m_EditorClassIdentifier: Unity.2D.Tilemap.Extras::UnityEngine.Tilemaps.AnimatedTile
+  m_AnimatedSprites:
+  - {fileID: 644916705, guid: a96d700fc298014f7de17c5a9bdfe806, type: 3}
+  - {fileID: -150097785, guid: a96d700fc298014f7de17c5a9bdfe806, type: 3}
+  - {fileID: 257267475, guid: a96d700fc298014f7de17c5a9bdfe806, type: 3}
+  - {fileID: 1485973638, guid: a96d700fc298014f7de17c5a9bdfe806, type: 3}
+  - {fileID: 1638142620, guid: a96d700fc298014f7de17c5a9bdfe806, type: 3}
+  - {fileID: 510565018, guid: a96d700fc298014f7de17c5a9bdfe806, type: 3}
+  - {fileID: -1619134886, guid: a96d700fc298014f7de17c5a9bdfe806, type: 3}
+  - {fileID: 2008535113, guid: a96d700fc298014f7de17c5a9bdfe806, type: 3}
+  - {fileID: -2102803030, guid: a96d700fc298014f7de17c5a9bdfe806, type: 3}
+  - {fileID: -535547291, guid: a96d700fc298014f7de17c5a9bdfe806, type: 3}
+  - {fileID: 257267475, guid: a96d700fc298014f7de17c5a9bdfe806, type: 3}
+  - {fileID: -150097785, guid: a96d700fc298014f7de17c5a9bdfe806, type: 3}
+  m_MinSpeed: 5.5
+  m_MaxSpeed: 6.5
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

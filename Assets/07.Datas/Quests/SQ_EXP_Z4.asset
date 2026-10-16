@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a48ab43ae7b41e40974d59636fac4d6, type: 3}
+  m_Name: SQ_EXP_Z4
+  m_EditorClassIdentifier: ShotgunAndRun.Quest::ShotgunAndRun.Quest.QuestDefinitionSO
+  _id: SQ_EXP_Z4
+  _title: "\uad6c\uc5ed \ud0d0\uc0ac : \uae30\uad00\uc2e4"
+  _giver: "\ub85c\ub098"
+  _description: "\uae30\uad00\uc2e4\uc744 \ubc29\ubb38\ud558\uace0 \uc2b9\uac15\uae30 \uc124\uacc4\ub3c4\ub97c \uc18c\uc9c0\ud55c \ucc44\ub85c \ud0c8\ucd9c\ud558\uc138\uc694."
+  _type: 1
+  _zoneA: Z4
+  _zoneB: 
+  _fixedSpawnId: 
+  _prerequisiteQuests:
+  - {fileID: 11400000, guid: e62854d49ac8e9046b8486487b716be1, type: 2}
+  _prerequisiteMinCount: 0
+  _requiredFlags: []
+  _requiresZoneVisitAfterUnlock: 0
+  _questItem: {fileID: 11400000, guid: fa88b4a9adcb4009a26b169f2d9a46bb, type: 2}
+  _itemSource: 1
+  _requiredRunFlags: []
+  _rewardXp: 300
+  _rewardItems:
+  - Item: {fileID: 11400000, guid: 050586a25b055ca46a7c35062c6d80d6, type: 2}
+    Amount: 1
+  - Item: {fileID: 11400000, guid: ca897adb18cd9114683d786daf0ebb83, type: 2}
+    Amount: 3
+  _unlockFlags: []

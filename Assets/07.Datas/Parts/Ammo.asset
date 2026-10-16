@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad080a1e33d124488cb6725446a640a, type: 3}
+  m_Name: Ammo
+  m_EditorClassIdentifier: ShotgunAndRun.Weapon::ShotgunAndRun.Weapon.PartsDataSO
+  _id: weapon.parts.ammo
+  _partsName: "\uD2B9\uC218 \uD0C4\uC57D"
+  _icon: {fileID: -1014490908, guid: e13656e4b267d9981cfc3ff636e7596c, type: 3}
+  _partsType: 4
+  _stepUpgradeDescription:
+  - "\u2022 \uD3A0\uB9BF \uACF5\uACA9\uB825: 100% -> <color=#55FF55>109%</color>
+    (+9%)\t\t\t"
+  - "\u2022 \uD3A0\uB9BF \uACF5\uACA9\uB825: 109% -> <color=#55FF55>120%</color> (+11%)\n<color=#FFD700>\u2605 [\uD2B9\uC218] 4\uBC1C\uC774 \uC7A5\uC804\uB420 \uB54C\uB9C8\uB2E4 \uD06C\uB9AC\uD2F0\uCEEC \uD0C4\uD658 1\uBC1C \uD574\uAE08!</color>"
+  - "\u2022 \uD3A0\uB9BF \uACF5\uACA9\uB825: 120% -> <color=#55FF55>133%</color>
+    (+13%)"
+  - "\u2022 \uD3A0\uB9BF \uACF5\uACA9\uB825: 133% -> <color=#55FF55>150%</color>
+    (+17%)"

@@ -1,0 +1,22 @@
+{
+  "name": "ShotgunAndRun.Player",
+  "rootNamespace": "ShotgunAndRun.Player",
+  "references": [
+    "Unity.InputSystem",
+    "ShotgunAndRun.Weapon",
+    "ShotgunAndRun.Combat",
+    "ShotgunAndRun.UI",
+    "ShotgunAndRun.Inventory.Data",
+    "ShotgunAndRun.Consumable",
+    "Unity.RenderPipelines.Universal.2D.Runtime"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

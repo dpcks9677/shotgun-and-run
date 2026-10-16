@@ -1,0 +1,3320 @@
+fileFormatVersion: 2
+guid: 5358de01e48f959af64fa8e4963491fb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OilBarrel_Sealed
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d1d538964d635976e1722aace3ecb7
+      internalID: 241076620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilBarrel_Open
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 146
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22aafae3408f54bb75ca2e406f400d9
+      internalID: 997337885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilBarrel_Leak
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 146
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003edf3a9bc94c8db6eb472900436dec
+      internalID: -923437560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilBarrels_Pair
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 146
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -6}
+        - {x: -17, y: 10}
+        - {x: 15, y: 10}
+        - {x: 15, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492b60f03f1639d3ce894e39d84a37d4
+      internalID: -742929439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilBarrels_Cluster
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 130
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1878f2d6b770bcd98ae7d665f78a6b1c
+      internalID: 1315833635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilBarrel_Rack
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 146
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -6}
+        - {x: -17, y: 10}
+        - {x: 15, y: 10}
+        - {x: 15, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203a8fef53c4b83578015073261b5c4c
+      internalID: 164043761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilBarrel_Tipped
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 146
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -6}
+        - {x: -17, y: 10}
+        - {x: 15, y: 10}
+        - {x: 15, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d480ef854c425cc5331904f6e631f77c
+      internalID: -558416329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilBarrel_Broken
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 146
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153e77abb9892c22630e7982af6d3bcc
+      internalID: -2054254617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilBarrel_Lids
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 146
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4dbbfb5b5abb4cf7e0b4ebad5a44bd
+      internalID: 1464049014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilPump_1
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 130
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 2}
+        - {x: 7, y: 2}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78574bea20d7fa27420a794052f3e8db
+      internalID: 891137917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilPump_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 130
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 2}
+        - {x: 7, y: 2}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddef720fa76421e6e0bd582323c3c370
+      internalID: 1466545554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilPump_3
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 130
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -14}
+        - {x: -9, y: 2}
+        - {x: 7, y: 2}
+        - {x: 7, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04499bf51b83c36ad73cb370deeee3e3
+      internalID: 506883362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilTank_1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 130
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f4a1752e86f2309e897f6b7154ffca
+      internalID: 654156234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilTank_2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 130
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78823d6097c8af578b3dd9d6e8e72ef7
+      internalID: -1947954268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilTank_3
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 130
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b59f0b25257038a822a7e38dc79e8c
+      internalID: -2097971558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilSpill_S
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 146
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6489bc6012cd88356e1627abaa6066
+      internalID: 371463317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilSpill_M
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 146
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4066c484b76e9db009265c369811a8b
+      internalID: -1207492084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilSpill_L
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 130
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e80e81e444abcd7efaa8cda6a90db37
+      internalID: 1690845225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outflow_Pipe_f0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 18
+        height: 68
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.17647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40eaffefaba7832f2e6e02f8ae279210
+      internalID: -33485670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outflow_Pipe_f1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 60
+        width: 18
+        height: 68
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.17647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fce84c278f7b3c80eec5db59c7a6a98
+      internalID: -860270422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outflow_Pipe_f2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 60
+        width: 18
+        height: 68
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.17647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1394cc2a674b1563eb7552478c09c8
+      internalID: 1739469566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outflow_Culvert_f0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 34
+        height: 68
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.17647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7147118046c582856f312881652fae
+      internalID: 1106310025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outflow_Culvert_f1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 60
+        width: 34
+        height: 68
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.17647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d03b23ec02b86d3b630c5034a3aac8b
+      internalID: -953715821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outflow_Culvert_f2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 60
+        width: 34
+        height: 68
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.17647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02987469eaa87116e1a8d77d13202c5
+      internalID: -1634928462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outflow_Sludge_f0
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 60
+        width: 18
+        height: 68
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.17647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f750447a1bcc2bda9c27c5d31bb149e8
+      internalID: -409236684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outflow_Sludge_f1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 60
+        width: 18
+        height: 68
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.17647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f79d151e9dde97d40dfb4b72ff5f74
+      internalID: -1646280001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outflow_Sludge_f2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 60
+        width: 18
+        height: 68
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.17647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163bd40bedf4a224bd33fd3d84f40a4c
+      internalID: -9284455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Grate_1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 92
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808cc5b7b2cbcdc3872e9e2e8cf06a68
+      internalID: -1570143576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Grate_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 92
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1526290c1fd3567e071ed86ad5c26bc9
+      internalID: -599554134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Grate_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 92
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdefad90e473fbd77c62dc6ec3218c96
+      internalID: -1791770415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Stain_1
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 76
+        width: 18
+        height: 52
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee3489ec55fc26539a213139d708df3
+      internalID: 1515988533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Stain_2
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 76
+        width: 18
+        height: 52
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f613d50fbce5502f5bcb8fbeb49ddc
+      internalID: -1332299105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Stain_3
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 76
+        width: 18
+        height: 52
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5395e041180c3c2f3af835762542cbee
+      internalID: 371082185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Slick_S
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 108
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80616da8da01996ce23e8c45f77eeab
+      internalID: -380221320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Slick_M
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 108
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eac85ab720dde90d075578586337259
+      internalID: -1278794523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Slick_L
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 92
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e31fe53f79672d311cf8a5ed128767
+      internalID: 2115029399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Debris_1
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 108
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46cd028108c900265d354118f4767b0
+      internalID: -764628436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Debris_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bba3c7436c8f343d0915886cfd4e05
+      internalID: 241742526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Debris_3
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 38
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d975ea80570b2ae5f4794fe7f9138c3c
+      internalID: -1831853272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Bubbles_f0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 38
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce963977b5d06f0f280e85ed5aad39c
+      internalID: -1581625469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Bubbles_f1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 38
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6887f5e76da3e169cf7069d5bcf22ba4
+      internalID: -1684775946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Bubbles_f2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 38
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701ab08e896b0d644826d4ac2e96d351
+      internalID: 550772089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Foam_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 38
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438357ab4d460209cf72275f4c4516be
+      internalID: -1845313418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Foam_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 38
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfee19058fcd9b8271a6606cc3b2234
+      internalID: -1625713427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_SunkenBarrel
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 38
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c567a318133c3d8f1c4cfad8a97ed628
+      internalID: -1037845914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Curb_N
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 38
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f6adeb0d26e3dfca2c834e5429b88e
+      internalID: 846348343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Curb_S
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 38
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a09d2d855a9947d4b2bd86f0426407f
+      internalID: 796296928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Curb_W
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 38
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c78d92da338b5a5c8ed8ac1c2b8b1c
+      internalID: -1338519903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Curb_E
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 38
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cb41f14d027f8c54f8cea203632c37
+      internalID: 1224130671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Curb_NW
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 38
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012d136c71f77514a6eaa5221d0c4287
+      internalID: 803202043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Curb_NE
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 38
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba30d9bd57fc4731bf0542f42cfd82be
+      internalID: -85275307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Curb_SW
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 38
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0b1e9fdda273906926f35a74004f30
+      internalID: -375594203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Curb_SE
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 38
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9be5197e124678dc5b8af93ffe27aee
+      internalID: -1416043317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slab_N
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 38
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd52dc1f30aa49f6860dbd07247f917e
+      internalID: -832617077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slab_S
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 38
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49be7ad42155243a3e9293a283f40d3
+      internalID: 491924740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slab_W
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 38
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efafd7079a3a5980e0b75d5848bb4594
+      internalID: -792698290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slab_E
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 38
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1aac9a2c1a4d43a629f5f0d87b50671
+      internalID: 272597736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slab_NW
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 38
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0784bac93675d7e365aeab5bc51b0a
+      internalID: -1207992639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slab_NE
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 38
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50694392d86b2b3dc9dd0d57b39e53cf
+      internalID: -1965253517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slab_SW
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 38
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cd91d1b8beed417f8845f937e1f74e
+      internalID: -1275880557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slab_SE
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 38
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc5bf3900291c2aaa031a2d70761699
+      internalID: -225937953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slab_iNW
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6e34ac9f27361a3c130cba8086fe49
+      internalID: 2034261003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slab_iNE
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 16
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a04a1649c7658b2095039b68207a2dd
+      internalID: -1985629697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slab_iSW
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641acd21b83e502fb69b40c11b7da45a
+      internalID: -750888514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slab_iSE
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 16
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd6716c509fa135a8c815113bfacf76
+      internalID: -1360205565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrateEdge_S
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad17bfbef423efaec64cd762af01ef4d
+      internalID: 1282453039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrateEdge_E
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 16
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ad7a7ad85f984c9d1374720bed892d
+      internalID: 1825635454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrateEdge_SE
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 16
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d819ee9e4c0e6d9d17963eefe44aceb
+      internalID: 9511455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterShade_N
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 16
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac45b0b5d3d06c81f1eecaf1cd79a6a
+      internalID: -903076510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterShade_W
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2726a4e16a676c3f7f13d81707387b0e
+      internalID: -90430883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterShade_E
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 16
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e6ffadcfc748119e405cae7f87a38c
+      internalID: 1492350630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterShade_NW
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 16
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1c5c276f19bb246898cdaff8f1864a
+      internalID: 444806578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterShade_NE
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 16
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf40cd20c7f1f882ecb8c7789c66e6b
+      internalID: -1356739147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterShade_WE
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dda2d4e6a2a906aef758fe6bfe9749
+      internalID: 1791794052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterShade_NWE
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 16
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7569de08009fbfee0191e619aff18f18
+      internalID: 773324052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puddle_3
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 50
+        height: 36
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcba99dff4fec2fdea2a59bccc67b97
+      internalID: -1380631751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puddle_4
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 0
+        width: 66
+        height: 36
+      alignment: 9
+      pivot: {x: 0.12121212, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42289f42e96d5bd130aa203159c6da5e
+      internalID: -1354895435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puddle_Oil
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 50
+        height: 36
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866053b33482df7c7317788693ec86bb
+      internalID: 422719222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Foam_1_f1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6482541347e40828fc2a5692bd1c1b7
+      internalID: -872881641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Foam_2_f1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 282
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37afc8d26bcd97428aaa414c78cd8803
+      internalID: -1769897181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Foam_2_f2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 282
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c9313c8a5f7cca18798677b689089a
+      internalID: -1141945424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Slick_L_f1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 266
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cec5fdabde3f4f7bc854fb53ecbb82b
+      internalID: -1127275386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Slick_L_f2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 266
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cbe20c25c2b239a3135f30477c7579
+      internalID: -624883877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Slick_M_f1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 282
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273a7299a689f0086b977a243bd0e3ea
+      internalID: 295970627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Slick_M_f2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 282
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b297c218c09eba7611f0b6ba4ee8a50b
+      internalID: -2087370102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Slick_S_f1
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 282
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1d1651a29862f655c800c631382ac6
+      internalID: 2058901624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puddle_3_f1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 266
+        width: 50
+        height: 36
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7c63b3cd72df3b3a37ed5b364e804b
+      internalID: 1532129807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puddle_3_f2
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 266
+        width: 50
+        height: 36
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e94567e2c8b98623b474818196eb72f
+      internalID: 1675747964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puddle_3_f3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 266
+        width: 50
+        height: 36
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d9632daf283ba21efeb06f0c79e4b0
+      internalID: -787406253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puddle_3_f4
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 266
+        width: 50
+        height: 36
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45b9dfd83b174e9cc0ea4a29b14dc36
+      internalID: 152530043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puddle_3_f5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 50
+        height: 36
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a60f8bb38686fdf1261ff668514f6d
+      internalID: -872433245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puddle_3_f6
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 228
+        width: 50
+        height: 36
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51f9f5d1392a252cc2c463d8a5ce181
+      internalID: 1057563733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puddle_3_f7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 228
+        width: 50
+        height: 36
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce860c528c36222639df15419e38dc1a
+      internalID: 231282178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puddle_4_f1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 228
+        width: 66
+        height: 36
+      alignment: 9
+      pivot: {x: 0.12121212, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023fd48921f73b6b34172fc827e76f2a
+      internalID: 1092512681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puddle_4_f2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 228
+        width: 66
+        height: 36
+      alignment: 9
+      pivot: {x: 0.12121212, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c703321e249d0399aea93ac01d2e97b6
+      internalID: 463268402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puddle_4_f3
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 228
+        width: 66
+        height: 36
+      alignment: 9
+      pivot: {x: 0.12121212, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e0a9a5e3f2f8dc0cf0c0c930ba3b2c
+      internalID: -774049624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puddle_4_f4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 228
+        width: 66
+        height: 36
+      alignment: 9
+      pivot: {x: 0.12121212, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659e38427676423dde3f02e3ff45e46d
+      internalID: -1079822908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puddle_4_f5
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 228
+        width: 66
+        height: 36
+      alignment: 9
+      pivot: {x: 0.12121212, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fce5da4c3836db213968d26bf5916d2
+      internalID: 264899700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puddle_4_f6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 66
+        height: 36
+      alignment: 9
+      pivot: {x: 0.12121212, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4663f0a7f13ff5379140420f4133be
+      internalID: -1764073179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puddle_4_f7
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 190
+        width: 66
+        height: 36
+      alignment: 9
+      pivot: {x: 0.12121212, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92760046678ca7190114cf0cbdb47d4a
+      internalID: -1504639409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puddle_Oil_f1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 190
+        width: 50
+        height: 36
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8538bbd150d9e3febd3c1d53aa89d27
+      internalID: 1917982436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puddle_Oil_f2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 190
+        width: 50
+        height: 36
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a46dcd685b1ff3205903edce3c1d0be
+      internalID: -418776168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puddle_Oil_f3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 190
+        width: 50
+        height: 36
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cf31ba6809b207aa80855788351c8d
+      internalID: 118754346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puddle_Oil_f4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 190
+        width: 50
+        height: 36
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9684bea0170253ea3361128d01aba6b
+      internalID: -865905777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puddle_Oil_f5
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 190
+        width: 50
+        height: 36
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11320e9d90bd8d6ff60319e7a918c09
+      internalID: 1760337528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puddle_Oil_f6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 190
+        width: 50
+        height: 36
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780319668aecba08d3030dab390e4f49
+      internalID: -1376767219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puddle_Oil_f7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 190
+        width: 50
+        height: 36
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a0b09a6d85847027f1ac202c1edf78
+      internalID: -940562728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_SunkenBarrel_f1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3654c47969f41742532e3b4163eb255f
+      internalID: -1812590194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_SunkenBarrel_f2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 168
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f6cdba28bb78d345a1cc3c6942a059
+      internalID: 1977660368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_SunkenBarrel_f3
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 168
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d847bd933b3ab44e40fcb6baded83e8c
+      internalID: 1344381525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_SunkenBarrel_f4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 168
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3807690022af4c6cf560f7b0eabe9e
+      internalID: -278067901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_SunkenBarrel_f5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 168
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa36c9d223b3e58d23e31c53cee8955
+      internalID: -685585615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_SunkenBarrel_f6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 168
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6f9f862eeea66dd165acab93064eb4
+      internalID: -3912716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_SunkenBarrel_f7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 168
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd08a86b2d22341122c2c3e6e52b208
+      internalID: -1461281963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Debris_1_f1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 168
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a64f04813c1a1f279926a38919912c
+      internalID: 1825701895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Debris_1_f2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 168
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cceddb10e2082a972d1bf6d33ebbf14f
+      internalID: -1850157645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Debris_1_f3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 168
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604305436eacedba7ebe3aff66badfa5
+      internalID: -96280032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Debris_2_f1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 168
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d698b05ca167789d0ffdd210c7acb618
+      internalID: 1305527913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Debris_2_f2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 168
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec542140df0b053a1caf10af660da32
+      internalID: -1934650614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Debris_2_f3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 168
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa1dc22c6373d282431ad639e694178
+      internalID: -1029045304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Debris_2_f4
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 168
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fb037c12efbf970eae6d909e0224bc
+      internalID: 476522172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Debris_2_f5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 168
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5e5bc22c5b3499b9a71c6191c7e663
+      internalID: 2054902415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Debris_2_f6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 168
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c85d6e60d7f2531f8c9b79e63ff5cf
+      internalID: -1470963161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Debris_2_f7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 168
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00dcd820adb625f2a44ad7d178ba98a6
+      internalID: -528574037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Debris_3_f1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 168
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ceab5ff6bfa5be86b5260b0a1dae7f
+      internalID: 221692880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Debris_3_f2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 168
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a9d1373c8ff2e6db6521dea7b798a6
+      internalID: 1220247899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Debris_3_f3
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 168
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbade0aba8bd4d46cbf6da3854e87aa1
+      internalID: -643833524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Debris_3_f4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 168
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbe5f17ac958ede9c6af97deb4f41a0
+      internalID: 1455454464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Debris_3_f5
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 168
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb4cd34bba1208ff30451f835852d93
+      internalID: -638058782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilBarrel_Leak_f1
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 168
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3aeee57c3acec1fc4e41eedcae4282a
+      internalID: 1965138353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilBarrel_Leak_f2
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 168
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c1a32230df4b2c44652de281a78d86
+      internalID: 1907700311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilBarrel_Leak_f3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 168
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f74204c27b8d48a4008cfd13d0a19b
+      internalID: -2002418648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outflow_Arch_f0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 98
+        height: 84
+      alignment: 9
+      pivot: {x: 0.08163265, y: 0.14285714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c138b0f45db87130e7e12123de6200
+      internalID: -1579890121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outflow_Arch_f1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 304
+        width: 98
+        height: 84
+      alignment: 9
+      pivot: {x: 0.08163265, y: 0.14285714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32802f6029e8b919c408c9d1ac8a3948
+      internalID: -404036680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outflow_Arch_f2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 304
+        width: 98
+        height: 84
+      alignment: 9
+      pivot: {x: 0.08163265, y: 0.14285714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9946c72702167d072271a2106697f782
+      internalID: 1353752694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ab779edab0b1c982ba9059ce7aae0941
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Curb_E: 1224130671
+      Curb_N: 846348343
+      Curb_NE: -85275307
+      Curb_NW: 803202043
+      Curb_S: 796296928
+      Curb_SE: -1416043317
+      Curb_SW: -375594203
+      Curb_W: -1338519903
+      GrateEdge_E: 1825635454
+      GrateEdge_S: 1282453039
+      GrateEdge_SE: 9511455
+      OilBarrel_Broken: -2054254617
+      OilBarrel_Leak: -923437560
+      OilBarrel_Lids: 1464049014
+      OilBarrel_Open: 997337885
+      OilBarrel_Rack: 164043761
+      OilBarrel_Sealed: 241076620
+      OilBarrel_Tipped: -558416329
+      OilBarrels_Cluster: 1315833635
+      OilBarrels_Pair: -742929439
+      OilPump_1: 891137917
+      OilPump_2: 1466545554
+      OilPump_3: 506883362
+      OilSpill_L: 1690845225
+      OilSpill_M: -1207492084
+      OilSpill_S: 371463317
+      OilTank_1: 654156234
+      OilTank_2: -1947954268
+      OilTank_3: -2097971558
+      Outflow_Culvert_f0: 1106310025
+      Outflow_Culvert_f1: -953715821
+      Outflow_Culvert_f2: -1634928462
+      Outflow_Pipe_f0: -33485670
+      Outflow_Pipe_f1: -860270422
+      Outflow_Pipe_f2: 1739469566
+      Outflow_Sludge_f0: -409236684
+      Outflow_Sludge_f1: -1646280001
+      Outflow_Sludge_f2: -9284455
+      Puddle_3: -1380631751
+      Puddle_4: -1354895435
+      Puddle_Oil: 422719222
+      Slab_E: 272597736
+      Slab_N: -832617077
+      Slab_NE: -1965253517
+      Slab_NW: -1207992639
+      Slab_S: 491924740
+      Slab_SE: -225937953
+      Slab_SW: -1275880557
+      Slab_W: -792698290
+      Slab_iNE: -1985629697
+      Slab_iNW: 2034261003
+      Slab_iSE: -1360205565
+      Slab_iSW: -750888514
+      Wall_Grate_1: -1570143576
+      Wall_Grate_2: -599554134
+      Wall_Grate_3: -1791770415
+      Wall_Stain_1: 1515988533
+      Wall_Stain_2: -1332299105
+      Wall_Stain_3: 371082185
+      WaterShade_E: 1492350630
+      WaterShade_N: -903076510
+      WaterShade_NE: -1356739147
+      WaterShade_NW: 444806578
+      WaterShade_NWE: 773324052
+      WaterShade_W: -90430883
+      WaterShade_WE: 1791794052
+      Water_Bubbles_f0: -1581625469
+      Water_Bubbles_f1: -1684775946
+      Water_Bubbles_f2: 550772089
+      Water_Debris_1: -764628436
+      Water_Debris_2: 241742526
+      Water_Debris_3: -1831853272
+      Water_Foam_1: -1845313418
+      Water_Foam_2: -1625713427
+      Water_Slick_L: 2115029399
+      Water_Slick_M: -1278794523
+      Water_Slick_S: -380221320
+      Water_SunkenBarrel: -1037845914
+      Water_Foam_1_f1: -872881641
+      Water_Foam_2_f1: -1769897181
+      Water_Foam_2_f2: -1141945424
+      Water_Slick_L_f1: -1127275386
+      Water_Slick_L_f2: -624883877
+      Water_Slick_M_f1: 295970627
+      Water_Slick_M_f2: -2087370102
+      Water_Slick_S_f1: 2058901624
+      Puddle_3_f1: 1532129807
+      Puddle_3_f2: 1675747964
+      Puddle_3_f3: -787406253
+      Puddle_3_f4: 152530043
+      Puddle_3_f5: -872433245
+      Puddle_3_f6: 1057563733
+      Puddle_3_f7: 231282178
+      Puddle_4_f1: 1092512681
+      Puddle_4_f2: 463268402
+      Puddle_4_f3: -774049624
+      Puddle_4_f4: -1079822908
+      Puddle_4_f5: 264899700
+      Puddle_4_f6: -1764073179
+      Puddle_4_f7: -1504639409
+      Puddle_Oil_f1: 1917982436
+      Puddle_Oil_f2: -418776168
+      Puddle_Oil_f3: 118754346
+      Puddle_Oil_f4: -865905777
+      Puddle_Oil_f5: 1760337528
+      Puddle_Oil_f6: -1376767219
+      Puddle_Oil_f7: -940562728
+      Water_SunkenBarrel_f1: -1812590194
+      Water_SunkenBarrel_f2: 1977660368
+      Water_SunkenBarrel_f3: 1344381525
+      Water_SunkenBarrel_f4: -278067901
+      Water_SunkenBarrel_f5: -685585615
+      Water_SunkenBarrel_f6: -3912716
+      Water_SunkenBarrel_f7: -1461281963
+      Water_Debris_1_f1: 1825701895
+      Water_Debris_1_f2: -1850157645
+      Water_Debris_1_f3: -96280032
+      Water_Debris_2_f1: 1305527913
+      Water_Debris_2_f2: -1934650614
+      Water_Debris_2_f3: -1029045304
+      Water_Debris_2_f4: 476522172
+      Water_Debris_2_f5: 2054902415
+      Water_Debris_2_f6: -1470963161
+      Water_Debris_2_f7: -528574037
+      Water_Debris_3_f1: 221692880
+      Water_Debris_3_f2: 1220247899
+      Water_Debris_3_f3: -643833524
+      Water_Debris_3_f4: 1455454464
+      Water_Debris_3_f5: -638058782
+      OilBarrel_Leak_f1: 1965138353
+      OilBarrel_Leak_f2: 1907700311
+      OilBarrel_Leak_f3: -2002418648
+      Outflow_Arch_f0: -1579890121
+      Outflow_Arch_f1: -404036680
+      Outflow_Arch_f2: 1353752694
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

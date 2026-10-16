@@ -1,0 +1,5 @@
+{
+    "name": "ShotgunAndRun.Enemy.Editor",
+    "references": ["ShotgunAndRun.Enemy"],
+    "includePlatforms": ["Editor"]
+}

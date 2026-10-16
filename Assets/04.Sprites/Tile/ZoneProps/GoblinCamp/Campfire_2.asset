@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Campfire_2
+  m_EditorClassIdentifier: Unity.2D.Tilemap.Extras::UnityEngine.Tilemaps.AnimatedTile
+  m_AnimatedSprites:
+  - {fileID: -906627256, guid: a4aad7d63a96fce541c724b6752bae2c, type: 3}
+  - {fileID: 768595598, guid: a4aad7d63a96fce541c724b6752bae2c, type: 3}
+  - {fileID: 977036471, guid: a4aad7d63a96fce541c724b6752bae2c, type: 3}
+  - {fileID: 1991469160, guid: a4aad7d63a96fce541c724b6752bae2c, type: 3}
+  - {fileID: 1066213241, guid: a4aad7d63a96fce541c724b6752bae2c, type: 3}
+  - {fileID: 1996937927, guid: a4aad7d63a96fce541c724b6752bae2c, type: 3}
+  - {fileID: -830534560, guid: a4aad7d63a96fce541c724b6752bae2c, type: 3}
+  - {fileID: 1396076784, guid: a4aad7d63a96fce541c724b6752bae2c, type: 3}
+  - {fileID: -275026206, guid: a4aad7d63a96fce541c724b6752bae2c, type: 3}
+  - {fileID: -709404809, guid: a4aad7d63a96fce541c724b6752bae2c, type: 3}
+  - {fileID: 2139460085, guid: a4aad7d63a96fce541c724b6752bae2c, type: 3}
+  - {fileID: 759898654, guid: a4aad7d63a96fce541c724b6752bae2c, type: 3}
+  m_MinSpeed: 5.5
+  m_MaxSpeed: 6.5
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 1
+  m_TileAnimationFlags: 0

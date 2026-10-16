@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Brazier_Stone
+  m_EditorClassIdentifier: Unity.2D.Tilemap.Extras::UnityEngine.Tilemaps.AnimatedTile
+  m_AnimatedSprites:
+  - {fileID: -118929797, guid: 701c9e83da1b0ab46ce0d3daf8540868, type: 3}
+  - {fileID: -59886193, guid: 701c9e83da1b0ab46ce0d3daf8540868, type: 3}
+  - {fileID: -647671684, guid: 701c9e83da1b0ab46ce0d3daf8540868, type: 3}
+  - {fileID: 819712386, guid: 701c9e83da1b0ab46ce0d3daf8540868, type: 3}
+  - {fileID: 2035055205, guid: 701c9e83da1b0ab46ce0d3daf8540868, type: 3}
+  - {fileID: -401963446, guid: 701c9e83da1b0ab46ce0d3daf8540868, type: 3}
+  - {fileID: 1248589563, guid: 701c9e83da1b0ab46ce0d3daf8540868, type: 3}
+  - {fileID: 785742494, guid: 701c9e83da1b0ab46ce0d3daf8540868, type: 3}
+  - {fileID: -1785073064, guid: 701c9e83da1b0ab46ce0d3daf8540868, type: 3}
+  - {fileID: -2056946341, guid: 701c9e83da1b0ab46ce0d3daf8540868, type: 3}
+  - {fileID: 529856897, guid: 701c9e83da1b0ab46ce0d3daf8540868, type: 3}
+  - {fileID: 1434010996, guid: 701c9e83da1b0ab46ce0d3daf8540868, type: 3}
+  m_MinSpeed: 5.5
+  m_MaxSpeed: 6.5
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 1
+  m_TileAnimationFlags: 0

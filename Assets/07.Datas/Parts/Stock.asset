@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad080a1e33d124488cb6725446a640a, type: 3}
+  m_Name: Stock
+  m_EditorClassIdentifier: ShotgunAndRun.Weapon::ShotgunAndRun.Weapon.PartsDataSO
+  _id: weapon.parts.stock
+  _partsName: "\uAC1C\uBA38\uB9AC\uD310"
+  _icon: {fileID: 1890295770, guid: e13656e4b267d9981cfc3ff636e7596c, type: 3}
+  _partsType: 3
+  _stepUpgradeDescription:
+  - "\u2022 \uBC18\uB3D9 \uC644\uD654: 0% -> <color=#55FF55>10%</color> (+10%)\n\u2022
+    \uCE58\uBA85\uD0C0 \uD655\uB960: +0% -> <color=#55FF55>+3%</color> (+3%)"
+  - "\u2022 \uBC18\uB3D9 \uC644\uD654: 10% -> <color=#55FF55>20%</color> (+10%)\n\u2022
+    \uCE58\uBA85\uD0C0 \uD655\uB960: +3% -> <color=#55FF55>+6%</color> (+3%)"
+  - "\u2022 \uBC18\uB3D9 \uC644\uD654: 20% -> <color=#55FF55>30%</color> (+10%)\n\u2022
+    \uCE58\uBA85\uD0C0 \uD655\uB960: +6% -> <color=#55FF55>+9%</color> (+3%)"
+  - "\u2022 \uBC18\uB3D9 \uC644\uD654: 30% -> <color=#55FF55>40%</color> (+10%)\n\u2022
+    \uCE58\uBA85\uD0C0 \uD655\uB960: +9% -> <color=#55FF55>+12%</color> (+3%)"

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a48ab43ae7b41e40974d59636fac4d6, type: 3}
+  m_Name: SQ_DEF_Z7
+  m_EditorClassIdentifier: ShotgunAndRun.Quest::ShotgunAndRun.Quest.QuestDefinitionSO
+  _id: SQ_DEF_Z7
+  _title: "\uace0\ube14\ub9b0 \ucea0\ud504 \uc18c\ud0d5"
+  _giver: "\ub85c\ub098"
+  _description: "\uace0\ube14\ub9b0 \ucea0\ud504\uc758 \ud018\uc2a4\ud2b8 \uc7a5\uce58\ub97c \uc791\ub3d9\ud558\uace0 \ubab0\ub824\uc624\ub294 \uc801\uc744 \ubaa8\ub450 \ub9c9\uc544 \ub0b8 \ub4a4 \ud0c8\ucd9c\ud558\uc138\uc694."
+  _type: 2
+  _zoneA: Z7
+  _zoneB: 
+  _fixedSpawnId: 
+  _prerequisiteQuests:
+  - {fileID: 11400000, guid: c76e37439ff24928aee01784af9bcece, type: 2}
+  _prerequisiteMinCount: 0
+  _requiredFlags: []
+  _requiresZoneVisitAfterUnlock: 0
+  _questItem: {fileID: 0}
+  _itemSource: 0
+  _requiredRunFlags:
+  - Z7_DEFENSE_CLEARED
+  _rewardXp: 500
+  _rewardItems:
+  - Item: {fileID: 11400000, guid: 9c7e14c6a826f6f41a3f1d58a1e6ff9e, type: 2}
+    Amount: 1
+  - Item: {fileID: 11400000, guid: b11683385e7934740b1854523e1048f6, type: 2}
+    Amount: 1
+  - Item: {fileID: 11400000, guid: ca897adb18cd9114683d786daf0ebb83, type: 2}
+    Amount: 1
+  _unlockFlags: []

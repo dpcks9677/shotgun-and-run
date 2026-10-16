@@ -1,0 +1,126 @@
+﻿# root = true
+# 
+# # 게임 코드에만 적용한다. (Unity 생성 코드와 외부 에셋 코드는 제외)
+# # ⚠️ {*.cs,**/*.cs} 문법은 에디터에 따라 오작동하므로 표준 glob 패턴으로 수정했습니다.
+# [Assets/02.Scripts/**/*.cs]
+# 
+# #### 기본 파일 형식 ####
+# charset = utf-8
+# end_of_line = crlf
+# insert_final_newline = true
+# trim_trailing_whitespace = true
+# 
+# #### using 정렬 규칙 (추가됨) ####
+# # using을 알파벳 순으로 정렬하고, System을 맨 위로 올리며, 그룹 간 빈 줄을 없앱니다.
+# dotnet_style_import_directive_order = alphabetical:warning
+# dotnet_sort_system_directives_first = true
+# dotnet_separate_import_directive_groups = false
+# 
+# #### 들여쓰기 / 중괄호 ####
+# indent_style = space
+# indent_size = 4
+# tab_width = 4
+# 
+# # 여는 중괄호는 다음 줄에 작성한다.
+# csharp_new_line_before_open_brace = all
+# 
+# # case 블록 중괄호 안의 내용은 한 단계 더 들여쓴다.
+# # 중괄호는 case 레이블과 같은 열에 배치한다.
+# csharp_indent_case_contents_when_block = true
+# 
+# # 여러 줄 제어문에는 중괄호를 사용하지만, 한 줄짜리 제어문에서는 중괄호 생략을 허용한다.
+# csharp_prefer_braces = when_multiline:warning
+# 
+# # 한 줄짜리 코드 블록은 여러 줄로 정리한다.
+# csharp_preserve_single_line_blocks = false
+# 
+# # 제어문과 실행문을 같은 줄에 작성하는 것을 허용한다.
+# csharp_style_allow_embedded_statements_on_same_line_experimental = true
+# 
+# # 한 줄 문장을 그대로 유지한다.
+# csharp_preserve_single_line_statements = true
+# 
+# # 실행문을 별도의 줄로 분리하라는 규칙을 비활성화한다.
+# dotnet_diagnostic.IDE2001.severity = none
+# 
+# #### 접근 제한자 / 한정자 ####
+# # 모든 멤버에 접근 제한자를 명시한다.
+# dotnet_style_require_accessibility_modifiers = always:warning
+# 
+# # 한정자의 작성 순서를 통일한다.
+# csharp_preferred_modifier_order = public, private, protected, internal, file, new, static, abstract, virtual, sealed, override, readonly, unsafe, required, volatile, async:suggestion
+# 
+# #### 이름 스타일 ####
+# dotnet_naming_style.pascal_case.capitalization = pascal_case
+# dotnet_naming_style.camel_case.capitalization = camel_case
+# dotnet_naming_style.underscore_camel_case.required_prefix = _
+# dotnet_naming_style.underscore_camel_case.capitalization = camel_case
+# dotnet_naming_style.interface_pascal_case.required_prefix = I
+# dotnet_naming_style.interface_pascal_case.capitalization = pascal_case
+# dotnet_naming_style.type_parameter_style.required_prefix = T
+# dotnet_naming_style.type_parameter_style.capitalization = pascal_case
+# 
+# #### private 필드 → _camelCase ####
+# dotnet_naming_symbols.private_fields.applicable_kinds = field
+# dotnet_naming_symbols.private_fields.applicable_accessibilities = private
+# dotnet_naming_rule.private_fields_underscore.symbols = private_fields
+# dotnet_naming_rule.private_fields_underscore.style = underscore_camel_case
+# dotnet_naming_rule.private_fields_underscore.severity = warning
+# 
+# #### 모든 const 필드 → PascalCase ####
+# dotnet_naming_symbols.constants.applicable_kinds = field
+# dotnet_naming_symbols.constants.applicable_accessibilities = *
+# dotnet_naming_symbols.constants.required_modifiers = const
+# dotnet_naming_rule.constants_pascal.symbols = constants
+# dotnet_naming_rule.constants_pascal.style = pascal_case
+# dotnet_naming_rule.constants_pascal.severity = warning
+# 
+# #### private static readonly 필드 → PascalCase ####
+# dotnet_naming_symbols.private_static_readonly.applicable_kinds = field
+# dotnet_naming_symbols.private_static_readonly.applicable_accessibilities = private
+# dotnet_naming_symbols.private_static_readonly.required_modifiers = static, readonly
+# dotnet_naming_rule.private_static_readonly_pascal.symbols = private_static_readonly
+# dotnet_naming_rule.private_static_readonly_pascal.style = pascal_case
+# dotnet_naming_rule.private_static_readonly_pascal.severity = warning
+# 
+# #### 클래스, 구조체, 열거형 → PascalCase ####
+# dotnet_naming_symbols.types.applicable_kinds = class, struct, enum
+# dotnet_naming_symbols.types.applicable_accessibilities = *
+# dotnet_naming_rule.types_pascal.symbols = types
+# dotnet_naming_rule.types_pascal.style = pascal_case
+# dotnet_naming_rule.types_pascal.severity = warning
+# 
+# #### 인터페이스 → I + PascalCase ####
+# dotnet_naming_symbols.interfaces.applicable_kinds = interface
+# dotnet_naming_symbols.interfaces.applicable_accessibilities = *
+# dotnet_naming_rule.interfaces_i_pascal.symbols = interfaces
+# dotnet_naming_rule.interfaces_i_pascal.style = interface_pascal_case
+# dotnet_naming_rule.interfaces_i_pascal.severity = warning
+# 
+# #### 메서드, 프로퍼티, 이벤트 → PascalCase ####
+# dotnet_naming_symbols.members.applicable_kinds = method, property, event
+# dotnet_naming_symbols.members.applicable_accessibilities = *
+# dotnet_naming_rule.members_pascal.symbols = members
+# dotnet_naming_rule.members_pascal.style = pascal_case
+# dotnet_naming_rule.members_pascal.severity = warning
+# 
+# #### 지역 변수 → camelCase ####
+# dotnet_naming_symbols.local_variables.applicable_kinds = local
+# dotnet_naming_symbols.local_variables.applicable_accessibilities = *
+# dotnet_naming_rule.local_variables_camel.symbols = local_variables
+# dotnet_naming_rule.local_variables_camel.style = camel_case
+# dotnet_naming_rule.local_variables_camel.severity = warning
+# 
+# #### 매개변수 → camelCase ####
+# dotnet_naming_symbols.parameters.applicable_kinds = parameter
+# dotnet_naming_symbols.parameters.applicable_accessibilities = *
+# dotnet_naming_rule.parameters_camel.symbols = parameters
+# dotnet_naming_rule.parameters_camel.style = camel_case
+# dotnet_naming_rule.parameters_camel.severity = warning
+# 
+# #### 제네릭 타입 매개변수 → T + PascalCase ####
+# dotnet_naming_symbols.type_parameters.applicable_kinds = type_parameter
+# dotnet_naming_symbols.type_parameters.applicable_accessibilities = *
+# dotnet_naming_rule.type_parameters_t_pascal.symbols = type_parameters
+# dotnet_naming_rule.type_parameters_t_pascal.style = type_parameter_style
+# dotnet_naming_rule.type_parameters_t_pascal.severity = warning

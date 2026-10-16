@@ -1,0 +1,26 @@
+{
+    "name": "ShotgunAndRun.Cutscene",
+    "rootNamespace": "ShotgunAndRun.Cutscene",
+    "references": [
+        "ShotgunAndRun.Dialogue",
+        "ShotgunAndRun.Core",
+        "ShotgunAndRun.Quest",
+        "ShotgunAndRun.NPC",
+        "ShotgunAndRun.Player",
+        "ShotgunAndRun.Consumable",
+        "ShotgunAndRun.Enemy",
+        "ShotgunAndRun.Combat",
+        "ShotgunAndRun.UI",
+        "Unity.InputSystem",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

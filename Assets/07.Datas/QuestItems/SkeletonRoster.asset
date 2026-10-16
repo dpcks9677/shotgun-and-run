@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 163d8b679267827498df461c83dd08b2, type: 3}
+  m_Name: SkeletonRoster
+  m_EditorClassIdentifier: ShotgunAndRun.Inventory.Data::InventorySystem.ItemData
+  _id: quest.skeleton_roster
+  _itemName: "\uD574\uACE8 \uBCD1\uC0AC \uBA85\uBD80"
+  _icon: {fileID: -2072091718, guid: 03afe29165a40bb918e83a879178b333, type: 3}
+  _itemType: 2
+  _materialCategory: 0
+  _materialType: 0
+  _description: "\uC9C0\uD558 \uBB18\uC9C0\uC5D0 \uC788\uB358 \uC2A4\uCF08\uB808\uD1A4
+    \uBCD1\uB825 \uBA85\uBD80. \uC5D8\uB808\uB098\uC5D0\uAC8C \uAC00\uC838\uAC00\uC57C
+    \uD55C\uB2E4."
+  _maxStack: 1

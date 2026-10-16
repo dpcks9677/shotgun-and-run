@@ -1,0 +1,96 @@
+Assets/04.Sprites/Consumable/grenades_by_mtk.png
+Assets/04.Sprites/Enemy/Armored Orc with shadows/Armored Orc.png
+Assets/04.Sprites/Enemy/Armored Orc with shadows/Armored Orc_Attack01.png
+Assets/04.Sprites/Enemy/Armored Orc with shadows/Armored Orc_Attack02.png
+Assets/04.Sprites/Enemy/Armored Orc with shadows/Armored Orc_Attack03.png
+Assets/04.Sprites/Enemy/Armored Orc with shadows/Armored Orc_Block.png
+Assets/04.Sprites/Enemy/Armored Orc with shadows/Armored Orc_Death.png
+Assets/04.Sprites/Enemy/Armored Orc with shadows/Armored Orc_Hurt.png
+Assets/04.Sprites/Enemy/Armored Orc with shadows/Armored Orc_Idle.png
+Assets/04.Sprites/Enemy/Armored Orc with shadows/Armored Orc_Walk.png
+Assets/04.Sprites/Enemy/Bat with shadows/Bat.png
+Assets/04.Sprites/Enemy/Bat with shadows/Bat_Attack01.png
+Assets/04.Sprites/Enemy/Bat with shadows/Bat_Attack02.png
+Assets/04.Sprites/Enemy/Bat with shadows/Bat_Death.png
+Assets/04.Sprites/Enemy/Bat with shadows/Bat_Flying.png
+Assets/04.Sprites/Enemy/Bat with shadows/Bat_Hurt.png
+Assets/04.Sprites/Enemy/Dummy/Dummy-hit-Sheet.png
+Assets/04.Sprites/Enemy/Orc with shadows/Goblin Thrower.png
+Assets/04.Sprites/Enemy/Orc with shadows/Orc.png
+Assets/04.Sprites/Enemy/Orc with shadows/Orc_Attack01.png
+Assets/04.Sprites/Enemy/Orc with shadows/Orc_Attack02.png
+Assets/04.Sprites/Enemy/Orc with shadows/Orc_Death.png
+Assets/04.Sprites/Enemy/Orc with shadows/Orc_Hurt.png
+Assets/04.Sprites/Enemy/Orc with shadows/Orc_Idle.png
+Assets/04.Sprites/Enemy/Orc with shadows/Orc_Walk.png
+Assets/04.Sprites/Enemy/Skeleton Archer with shadows/Elite Skeleton Archer.png
+Assets/04.Sprites/Enemy/Skeleton Archer with shadows/Skeleton Archer.png
+Assets/04.Sprites/Enemy/Skeleton Archer with shadows/Skeleton Archer_Attack.png
+Assets/04.Sprites/Enemy/Skeleton Archer with shadows/Skeleton Archer_Death.png
+Assets/04.Sprites/Enemy/Skeleton Archer with shadows/Skeleton Archer_Hurt.png
+Assets/04.Sprites/Enemy/Skeleton Archer with shadows/Skeleton Archer_Idle.png
+Assets/04.Sprites/Enemy/Skeleton Archer with shadows/Skeleton Archer_Summon.png
+Assets/04.Sprites/Enemy/Skeleton Archer with shadows/Skeleton Archer_Walk.png
+Assets/04.Sprites/Enemy/Slime with shadows/Slime.png
+Assets/04.Sprites/Enemy/Slime with shadows/Slime_Attack01.png
+Assets/04.Sprites/Enemy/Slime with shadows/Slime_Attack02.png
+Assets/04.Sprites/Enemy/Slime with shadows/Slime_Death.png
+Assets/04.Sprites/Enemy/Slime with shadows/Slime_Hurt.png
+Assets/04.Sprites/Enemy/Slime with shadows/Slime_Idle.png
+Assets/04.Sprites/Enemy/Slime with shadows/Slime_Walk.png
+Assets/04.Sprites/Enemy/Werebear with shadows/Werebear.png
+Assets/04.Sprites/Enemy/Werebear with shadows/Werebear_Attack01.png
+Assets/04.Sprites/Enemy/Werebear with shadows/Werebear_Attack02.png
+Assets/04.Sprites/Enemy/Werebear with shadows/Werebear_Attack03.png
+Assets/04.Sprites/Enemy/Werebear with shadows/Werebear_Death.png
+Assets/04.Sprites/Enemy/Werebear with shadows/Werebear_Hurt.png
+Assets/04.Sprites/Enemy/Werebear with shadows/Werebear_Idle.png
+Assets/04.Sprites/Enemy/Werebear with shadows/Werebear_Walk.png
+Assets/04.Sprites/Enemy/Werewolf with shadows/Werewolf.png
+Assets/04.Sprites/Enemy/Werewolf with shadows/Werewolf_Attack01.png
+Assets/04.Sprites/Enemy/Werewolf with shadows/Werewolf_Attack02.png
+Assets/04.Sprites/Enemy/Werewolf with shadows/Werewolf_Death.png
+Assets/04.Sprites/Enemy/Werewolf with shadows/Werewolf_Hurt.png
+Assets/04.Sprites/Enemy/Werewolf with shadows/Werewolf_Idle.png
+Assets/04.Sprites/Enemy/Werewolf with shadows/Werewolf_Walk.png
+Assets/04.Sprites/NPC/NPC_Axeman/Axeman_Attack.png
+Assets/04.Sprites/NPC/NPC_Axeman/Axeman_Idle.png
+Assets/04.Sprites/NPC/NPC_Axeman/Axeman_Walk.png
+Assets/04.Sprites/NPC/NPC_Blacksmith_Grun/Grun_Idle.png
+Assets/04.Sprites/NPC/NPC_Blacksmith_Grun/Grun_Reinforce.png
+Assets/04.Sprites/NPC/NPC_Blacksmith_Grun/Grun_Walk.png
+Assets/04.Sprites/NPC/NPC_Guard/Guard_Attack.png
+Assets/04.Sprites/NPC/NPC_Guard/Guard_Idle.png
+Assets/04.Sprites/NPC/NPC_Guard/Guard_Walk.png
+Assets/04.Sprites/NPC/NPC_GuildLeader_Lona/Lona_Idle.png
+Assets/04.Sprites/NPC/NPC_GuildLeader_Lona/Lona_Walk.png
+Assets/04.Sprites/NPC/NPC_Knight/Knight_Attack.png
+Assets/04.Sprites/NPC/NPC_Knight/Knight_Idle.png
+Assets/04.Sprites/NPC/NPC_Knight/Knight_Walk.png
+Assets/04.Sprites/NPC/NPC_Mage_Elena/Elena_Cast.png
+Assets/04.Sprites/NPC/NPC_Mage_Elena/Elena_GetUp.png
+Assets/04.Sprites/NPC/NPC_Mage_Elena/Elena_Idle.png
+Assets/04.Sprites/NPC/NPC_Mage_Elena/Elena_Kidnapped.png
+Assets/04.Sprites/NPC/NPC_Mage_Elena/Elena_Walk.png
+Assets/04.Sprites/NPC/NPC_Priest/Priest_Heal.png
+Assets/04.Sprites/NPC/NPC_Priest/Priest_Idle.png
+Assets/04.Sprites/NPC/NPC_Priest/Priest_Walk.png
+Assets/04.Sprites/NPC/NPC_Soldier/Soldier_Attack.png
+Assets/04.Sprites/NPC/NPC_Soldier/Soldier_Idle.png
+Assets/04.Sprites/NPC/NPC_Soldier/Soldier_Walk.png
+Assets/04.Sprites/Player/Dash/Swordsman_shotgun1.png
+Assets/04.Sprites/Player/Reload/96x32 UISlidersPack.png
+Assets/04.Sprites/Player/Swordsman with shadows/Swordsman.png
+Assets/04.Sprites/Player/Swordsman with shadows/Swordsman_Attack01.png
+Assets/04.Sprites/Player/Swordsman with shadows/Swordsman_Attack02.png
+Assets/04.Sprites/Player/Swordsman with shadows/Swordsman_Attack3.png
+Assets/04.Sprites/Player/Swordsman with shadows/Swordsman_Death.png
+Assets/04.Sprites/Player/Swordsman with shadows/Swordsman_Hurt.png
+Assets/04.Sprites/Player/Swordsman with shadows/Swordsman_Idle.png
+Assets/04.Sprites/Player/Swordsman with shadows/Swordsman_Walk.png
+Assets/04.Sprites/Player/Swordsman with shadows/Swordsman_hands.png
+Assets/04.Sprites/Tile/Dungeon/Dungeon.png
+Assets/04.Sprites/Tile/Dungeon/DungeonAnimations.png
+Assets/04.Sprites/Tile/Dungeon/DungeonDark.png
+Assets/04.Sprites/Tile/Dungeon/DungeonDarkStain.png
+Assets/04.Sprites/Tile/Dungeon/DungeonWallMid.png

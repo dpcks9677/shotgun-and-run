@@ -1,0 +1,17 @@
+{
+  "name": "ShotgunAndRun.Weapon",
+  "rootNamespace": "ShotgunAndRun.Weapon",
+  "references": [
+    "ShotgunAndRun.Combat",
+    "ShotgunAndRun.Inventory.Data"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 163d8b679267827498df461c83dd08b2, type: 3}
+  m_Name: SulfurPowder
+  m_EditorClassIdentifier: ShotgunAndRun.Inventory.Data::InventorySystem.ItemData
+  _id: material.sulfur_powder
+  _itemName: "\uC720\uD669 \uAC00\uB8E8"
+  _icon: {fileID: -733924937, guid: 8b37b27062e668f4683ab60b889c5552, type: 3}
+  _itemType: 0
+  _materialCategory: 1
+  _materialType: 6
+  _description: "\uD0C4\uC57D \uAC1C\uC870 \uBC0F \uD654\uC57D\uB958 \uD569\uC131\uC5D0
+    \uC0AC\uC6A9\uB418\uB294 \uD718\uBC1C\uC131 \uC720\uD669 \uAC00\uB8E8"
+  _maxStack: 99

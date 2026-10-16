@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f7d1f16b0d2d8648b4542d0080e3625, type: 3}
+  m_Name: EnemyDataTableSO
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyDataTableSO
+  datas:
+  - enemyType: 6
+    prefab: {fileID: 742408338204054615, guid: 771ea776170e9cb47957905e1f7c96a5, type: 3}
+    moveSpeed: 0
+    maxHp: 999
+    power: 0
+    detectionRange: 0
+    attackRange: 0
+    isImmortal: 1
+    knockbackDistance: 0
+    knockbackDuration: 0
+    attackTimeout: 5
+  - enemyType: 0
+    prefab: {fileID: -8635667352602041550, guid: bede1f3b1a1b8154890fbf02d9ad29e1, type: 3}
+    moveSpeed: 3.5
+    maxHp: 300
+    power: 1
+    detectionRange: 9
+    attackRange: 0.6
+    isImmortal: 0
+    knockbackDistance: 0.35
+    knockbackDuration: 0.12
+    attackTimeout: 5
+  - enemyType: 1
+    prefab: {fileID: -8635667352602041550, guid: 1a1ec9028ce74b26973437a041c27afd, type: 3}
+    moveSpeed: 4
+    maxHp: 200
+    power: 1
+    detectionRange: 9
+    attackRange: 9
+    isImmortal: 0
+    knockbackDistance: 0.35
+    knockbackDuration: 0.12
+    attackTimeout: 5
+  - enemyType: 4
+    prefab: {fileID: -8635667352602041550, guid: 4d40fa35bf094421b137cb8c0f1890cc, type: 3}
+    moveSpeed: 2
+    maxHp: 1800
+    power: 1
+    detectionRange: 9
+    attackRange: 1
+    isImmortal: 0
+    knockbackDistance: 0.2
+    knockbackDuration: 0.12
+    attackTimeout: 4
+  - enemyType: 2
+    prefab: {fileID: -8635667352602041550, guid: 2b2ed8139df7421f8f15a96aed967eaa, type: 3}
+    moveSpeed: 1.5
+    maxHp: 500
+    power: 2
+    detectionRange: 11
+    attackRange: 9
+    isImmortal: 0
+    knockbackDistance: 0.35
+    knockbackDuration: 0.12
+    attackTimeout: 5
+  - enemyType: 3
+    prefab: {fileID: -8635667352602041550, guid: 3c3fe924aef84320a026ba7bfe078fbb, type: 3}
+    moveSpeed: 3.5
+    maxHp: 500
+    power: 1
+    detectionRange: 9
+    attackRange: 6
+    isImmortal: 0
+    knockbackDistance: 0.35
+    knockbackDuration: 0.12
+    attackTimeout: 5
+  - enemyType: 5
+    prefab: {fileID: -8635667352602041550, guid: 9b0b9b0b2e184248a3a17fdfb3a58c1c, type: 3}
+    moveSpeed: 0
+    maxHp: 1500
+    power: 2
+    detectionRange: 100
+    attackRange: 100
+    isImmortal: 0
+    knockbackDistance: 0.2
+    knockbackDuration: 0.12
+    attackTimeout: 6

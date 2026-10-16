@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 163d8b679267827498df461c83dd08b2, type: 3}
+  m_Name: SampleAmmo
+  m_EditorClassIdentifier: ShotgunAndRun.Inventory.Data::InventorySystem.ItemData
+  _id: 1
+  _itemName: "샘플 탄약"
+  _description: "기본 테스트용 산탄총 탄약입니다."
+  _icon: {fileID: 0}
+  _itemType: 1
+  _maxStack: 99

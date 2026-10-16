@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26d52b92a6d5f2c42880dc0a0bd1c243, type: 3}
+  m_Name: CS_TELEPORT_EXIT
+  m_EditorClassIdentifier: ShotgunAndRun.Cutscene::ShotgunAndRun.Cutscene.TeleportOutCutscene
+  _id: CS_TELEPORT_EXIT
+  _requiredFlags: []
+  _blockedFlags: []
+  _completionFlags: []
+  _saveCompletionFlagsImmediately: 0
+  _autoPlay: 0
+  _priority: 0
+  _lockPlayer: 1
+  _hideHud: 1
+  _pauseGameplay: 1
+  _debugSpawnMarker: 
+  _silhouette: {fileID: 2100000, guid: f143c4b5022466b4e9af6dd3e66df20e, type: 2}
+  _effect: {fileID: 8796876606369259742, guid: 0ea7d92290c87df45956b32868b2b25a, type: 3}
+  _effectOffset: {x: 0, y: -0.5625}
+  _sfx: {fileID: 8300000, guid: 89b8f67a9ed743f18e2393524de03dde, type: 3}
+  _whiteSeconds: 1
+  _effectDelay: 0.05
+  _afterEffectSeconds: 0.8

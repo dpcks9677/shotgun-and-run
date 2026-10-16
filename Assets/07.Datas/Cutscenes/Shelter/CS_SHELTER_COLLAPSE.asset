@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56d462ef8b9bc104d8db90411ffa7f13, type: 3}
+  m_Name: CS_SHELTER_COLLAPSE
+  m_EditorClassIdentifier: ShotgunAndRun.Cutscene::ShotgunAndRun.Cutscene.ShelterCollapseCutscene
+  _id: CS_SHELTER_COLLAPSE
+  _requiredFlags:
+  - FLAG_Q1_CLEARED
+  _blockedFlags:
+  - FLAG_SHELTER_COLLAPSE_DONE
+  _completionFlags:
+  - FLAG_SHELTER_COLLAPSE_DONE
+  _saveCompletionFlagsImmediately: 0
+  _autoPlay: 1
+  _priority: 10
+  _lockPlayer: 1
+  _hideHud: 1
+  _pauseGameplay: 1
+  _debugSpawnMarker: 
+  _lona: {fileID: 11400000, guid: 3818475cc931b484face2032818805d0, type: 2}
+  _guard1: {fileID: 11400000, guid: f7960f862a3a40dea3cb4dd3c2c9d62b, type: 2}
+  _guard2: {fileID: 11400000, guid: 68634118c59746febf87163cd0e847d1, type: 2}
+  _guard3: {fileID: 11400000, guid: 7266314d9f3a48b899cf1f519145045a, type: 2}
+  _warning: {fileID: 11400000, guid: fbe1e0fcdbad9474bbacb4edadb86236, type: 2}
+  _aftermath: {fileID: 11400000, guid: 594805754912ffc4a93dcea92ba6961c, type: 2}
+  _reunion: {fileID: 11400000, guid: e740ba610b014c98a36cadd092310edc, type: 2}
+  _arrival: {fileID: 11400000, guid: 1095031b3f6146e49a2c6f6a13f0aaf5, type: 2}
+  _rumble: {fileID: 0}
+  _explosion: {fileID: 0}
+  _fadeSeconds: 1
+  _openingHold: 0.6
+  _rumblePower: 0.05
+  _rumbleSeconds: 1.2
+  _collapsePower: 0.25
+  _collapseSeconds: 1.6
+  _dustSettleSeconds: 0.8
+  _alertSeconds: 1
+  _cameraPanSeconds: 1.5
+  _rushSpeed: 8

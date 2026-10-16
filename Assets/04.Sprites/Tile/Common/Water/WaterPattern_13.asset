@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: WaterPattern_13
+  m_EditorClassIdentifier: Unity.2D.Tilemap.Extras::UnityEngine.Tilemaps.AnimatedTile
+  m_AnimatedSprites:
+  - {fileID: 707013464808220317, guid: bd977a28f726be14c283e912ae9a2475, type: 3}
+  - {fileID: -3194240572584274415, guid: bd977a28f726be14c283e912ae9a2475, type: 3}
+  - {fileID: -3081183722400412623, guid: bd977a28f726be14c283e912ae9a2475, type: 3}
+  - {fileID: -267053810663068974, guid: bd977a28f726be14c283e912ae9a2475, type: 3}
+  - {fileID: 1027962085169603032, guid: bd977a28f726be14c283e912ae9a2475, type: 3}
+  - {fileID: 2092465736402715857, guid: bd977a28f726be14c283e912ae9a2475, type: 3}
+  - {fileID: 1770004414194981138, guid: bd977a28f726be14c283e912ae9a2475, type: 3}
+  - {fileID: -228402805091840006, guid: bd977a28f726be14c283e912ae9a2475, type: 3}
+  m_MinSpeed: 4
+  m_MaxSpeed: 4
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 1
+  m_TileAnimationFlags: 0

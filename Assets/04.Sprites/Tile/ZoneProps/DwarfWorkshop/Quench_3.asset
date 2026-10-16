@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Quench_3
+  m_EditorClassIdentifier: Unity.2D.Tilemap.Extras::UnityEngine.Tilemaps.AnimatedTile
+  m_AnimatedSprites:
+  - {fileID: -1681185969, guid: 8b054ba1ff2e62069a80dfc8a010e083, type: 3}
+  - {fileID: -280138743, guid: 8b054ba1ff2e62069a80dfc8a010e083, type: 3}
+  - {fileID: 650869238, guid: 8b054ba1ff2e62069a80dfc8a010e083, type: 3}
+  - {fileID: 155714395, guid: 8b054ba1ff2e62069a80dfc8a010e083, type: 3}
+  - {fileID: 1815407787, guid: 8b054ba1ff2e62069a80dfc8a010e083, type: 3}
+  - {fileID: -768776951, guid: 8b054ba1ff2e62069a80dfc8a010e083, type: 3}
+  - {fileID: 99405273, guid: 8b054ba1ff2e62069a80dfc8a010e083, type: 3}
+  - {fileID: 1994485457, guid: 8b054ba1ff2e62069a80dfc8a010e083, type: 3}
+  - {fileID: 949001596, guid: 8b054ba1ff2e62069a80dfc8a010e083, type: 3}
+  - {fileID: 1674375845, guid: 8b054ba1ff2e62069a80dfc8a010e083, type: 3}
+  - {fileID: 47332287, guid: 8b054ba1ff2e62069a80dfc8a010e083, type: 3}
+  - {fileID: -1039344893, guid: 8b054ba1ff2e62069a80dfc8a010e083, type: 3}
+  m_MinSpeed: 5.5
+  m_MaxSpeed: 6.5
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 1
+  m_TileAnimationFlags: 0

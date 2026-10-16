@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 163d8b679267827498df461c83dd08b2, type: 3}
+  m_Name: ElvenSilk
+  m_EditorClassIdentifier: ShotgunAndRun.Inventory.Data::InventorySystem.ItemData
+  _id: material.elven_silk
+  _itemName: "\uC5D8\uD504 \uBE44\uB2E8"
+  _icon: {fileID: -348119864, guid: 8b37b27062e668f4683ab60b889c5552, type: 3}
+  _itemType: 0
+  _materialCategory: 1
+  _materialType: 5
+  _description: "\uAC00\uBCCD\uACE0 \uC9C8\uAE30\uBA70 \uB6F0\uC5B4\uB09C \uAC15\uB3C4\uB97C
+    \uC9C0\uB2CC \uACE0\uAE09 \uC7A5\uBE44\uC6A9 \uD2B9\uC218 \uBE44\uB2E8"
+  _maxStack: 99

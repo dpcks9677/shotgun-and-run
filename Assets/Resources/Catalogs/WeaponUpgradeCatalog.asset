@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae9cc33528b95d74da342cffe6913c33, type: 3}
+  m_Name: WeaponUpgradeCatalog
+  m_EditorClassIdentifier: ShotgunAndRun.Weapon::ShotgunAndRun.Weapon.WeaponUpgradeCatalogSO
+  _coreMaterial: {fileID: 11400000, guid: c00227beb3600694e8e811582980ca71, type: 2}
+  _stepCosts:
+  - _mainAmount: 3
+    _sub1Amount: 2
+    _sub2Amount: 2
+    _sub3Amount: 0
+    _coreAmount: 0
+  - _mainAmount: 5
+    _sub1Amount: 4
+    _sub2Amount: 3
+    _sub3Amount: 0
+    _coreAmount: 0
+  - _mainAmount: 8
+    _sub1Amount: 6
+    _sub2Amount: 5
+    _sub3Amount: 2
+    _coreAmount: 1
+  - _mainAmount: 12
+    _sub1Amount: 9
+    _sub2Amount: 7
+    _sub3Amount: 3
+    _coreAmount: 3
+  _partRecipes:
+  - _parts: 0
+    _main: {fileID: 11400000, guid: d6114b2431d46574a8559ea87107439d, type: 2}
+    _sub1: {fileID: 11400000, guid: 41fa8c5d312d7d74b9da73296df64cfa, type: 2}
+    _sub2: {fileID: 11400000, guid: aa1cc788af80ab5448788478ec804b9d, type: 2}
+    _sub3: {fileID: 11400000, guid: b11683385e7934740b1854523e1048f6, type: 2}
+  - _parts: 1
+    _main: {fileID: 11400000, guid: cc08deaa94038624bb8e9959d3a7764d, type: 2}
+    _sub1: {fileID: 11400000, guid: d6114b2431d46574a8559ea87107439d, type: 2}
+    _sub2: {fileID: 11400000, guid: aa1cc788af80ab5448788478ec804b9d, type: 2}
+    _sub3: {fileID: 11400000, guid: ea7cea7ba908acd46b55e1ec96dcedd6, type: 2}
+  - _parts: 2
+    _main: {fileID: 11400000, guid: 050586a25b055ca46a7c35062c6d80d6, type: 2}
+    _sub1: {fileID: 11400000, guid: 9c7e14c6a826f6f41a3f1d58a1e6ff9e, type: 2}
+    _sub2: {fileID: 11400000, guid: cc08deaa94038624bb8e9959d3a7764d, type: 2}
+    _sub3: {fileID: 11400000, guid: d6114b2431d46574a8559ea87107439d, type: 2}
+  - _parts: 3
+    _main: {fileID: 11400000, guid: 9c7e14c6a826f6f41a3f1d58a1e6ff9e, type: 2}
+    _sub1: {fileID: 11400000, guid: 050586a25b055ca46a7c35062c6d80d6, type: 2}
+    _sub2: {fileID: 11400000, guid: 41fa8c5d312d7d74b9da73296df64cfa, type: 2}
+    _sub3: {fileID: 11400000, guid: aa1cc788af80ab5448788478ec804b9d, type: 2}
+  - _parts: 4
+    _main: {fileID: 11400000, guid: b11683385e7934740b1854523e1048f6, type: 2}
+    _sub1: {fileID: 11400000, guid: ea7cea7ba908acd46b55e1ec96dcedd6, type: 2}
+    _sub2: {fileID: 11400000, guid: 9c7e14c6a826f6f41a3f1d58a1e6ff9e, type: 2}
+    _sub3: {fileID: 11400000, guid: cc08deaa94038624bb8e9959d3a7764d, type: 2}
+  _partsData:
+  - {fileID: 11400000, guid: c7c19795f5761f44a846f1fd8b81c37c, type: 2}
+  - {fileID: 11400000, guid: 6805eccf597bda54ca7536141faeccaa, type: 2}
+  - {fileID: 11400000, guid: 7dcd692edce62384f8be2cd840ec713b, type: 2}
+  - {fileID: 11400000, guid: 1971664533e21f547b58cc33bf4dce8f, type: 2}
+  - {fileID: 11400000, guid: 276015d757951784598198d8b68ffc53, type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 163d8b679267827498df461c83dd08b2, type: 3}
+  m_Name: DwarvenMechanism
+  m_EditorClassIdentifier: ShotgunAndRun.Inventory.Data::InventorySystem.ItemData
+  _id: material.dwarven_mechanism
+  _itemName: "\uB4DC\uC6CC\uD504 \uD0DC\uC5FD \uC7A5\uCE58"
+  _icon: {fileID: -1435046784, guid: 8b37b27062e668f4683ab60b889c5552, type: 3}
+  _itemType: 0
+  _materialCategory: 1
+  _materialType: 1
+  _description: "\uC815\uBC00\uD55C \uBB34\uAE30 \uAC1C\uC870\uC5D0 \uC0AC\uC6A9\uB418\uB294
+    \uC815\uAD50\uD55C \uB4DC\uC6CC\uD504 \uAE30\uC5B4 \uC7A5\uCE58"
+  _maxStack: 99

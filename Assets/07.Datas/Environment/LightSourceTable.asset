@@ -1,0 +1,435 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 628e58bfa8a293c49a13e16b418bb1b5, type: 3}
+  m_Name: LightSourceTable
+  m_EditorClassIdentifier: ShotgunAndRun.Environment::ShotgunAndRun.Environment.LightSourceTable
+  _entries:
+  - Tiles:
+    - {fileID: 11400000, guid: 13a8a83724fa64443402db16ccb4a52e, type: 2}
+    Offset: {x: 0, y: 0.0625}
+    Ring: {fileID: 21300000, guid: 54c5ffa26f212ed43b700b58334e67ec, type: 3}
+    Color: {r: 1, g: 0.533, b: 0.188, a: 1}
+    LightIntensity: 1.05
+    GlowIntensity: 0
+    Animation: 1
+    Period: 0.45
+    Amount: 0.15
+  - Tiles:
+    - {fileID: 11400000, guid: 1963011bf0b79713687421751c6e963b, type: 2}
+    Offset: {x: -0.0625, y: 0.125}
+    Ring: {fileID: 21300000, guid: 54c5ffa26f212ed43b700b58334e67ec, type: 3}
+    Color: {r: 1, g: 0.533, b: 0.188, a: 1}
+    LightIntensity: 1.05
+    GlowIntensity: 0
+    Animation: 1
+    Period: 0.45
+    Amount: 0.15
+  - Tiles:
+    - {fileID: 11400000, guid: 99384d1c0c969b1333840d73fb3b8914, type: 2}
+    Offset: {x: -0.0625, y: 0.25}
+    Ring: {fileID: 21300000, guid: 54c5ffa26f212ed43b700b58334e67ec, type: 3}
+    Color: {r: 1, g: 0.533, b: 0.188, a: 1}
+    LightIntensity: 1.05
+    GlowIntensity: 0
+    Animation: 1
+    Period: 0.45
+    Amount: 0.15
+  - Tiles:
+    - {fileID: 11400000, guid: 330865dee039e797dc686afd410ffec1, type: 2}
+    Offset: {x: 0, y: 0.125}
+    Ring: {fileID: 21300000, guid: 54c5ffa26f212ed43b700b58334e67ec, type: 3}
+    Color: {r: 1, g: 0.533, b: 0.188, a: 1}
+    LightIntensity: 1.05
+    GlowIntensity: 0
+    Animation: 1
+    Period: 0.45
+    Amount: 0.15
+  - Tiles:
+    - {fileID: 11400000, guid: 2cd9392ce31d42294ebce4840b7f3214, type: 2}
+    Offset: {x: 0.125, y: 0.125}
+    Ring: {fileID: 21300000, guid: 54c5ffa26f212ed43b700b58334e67ec, type: 3}
+    Color: {r: 1, g: 0.533, b: 0.188, a: 1}
+    LightIntensity: 1.05
+    GlowIntensity: 0
+    Animation: 1
+    Period: 0.45
+    Amount: 0.15
+  - Tiles:
+    - {fileID: 11400000, guid: 154305dcf96cd921818699b12a15d2f8, type: 2}
+    Offset: {x: -0.0625, y: 0.6875}
+    Ring: {fileID: 21300000, guid: 54c5ffa26f212ed43b700b58334e67ec, type: 3}
+    Color: {r: 1, g: 0.533, b: 0.188, a: 1}
+    LightIntensity: 1.05
+    GlowIntensity: 0
+    Animation: 1
+    Period: 0.45
+    Amount: 0.15
+  - Tiles:
+    - {fileID: 11400000, guid: e92cbf4bb8e01e78fd4ebe7138c62a59, type: 2}
+    Offset: {x: 0, y: 1.3125}
+    Ring: {fileID: 21300000, guid: 54c5ffa26f212ed43b700b58334e67ec, type: 3}
+    Color: {r: 1, g: 0.533, b: 0.188, a: 1}
+    LightIntensity: 1.05
+    GlowIntensity: 0
+    Animation: 1
+    Period: 0.45
+    Amount: 0.15
+  - Tiles:
+    - {fileID: 11400000, guid: db46521aa3c965d640f67952ff2104d5, type: 2}
+    Offset: {x: -0.0625, y: 0.3125}
+    Ring: {fileID: 21300000, guid: 54c5ffa26f212ed43b700b58334e67ec, type: 3}
+    Color: {r: 1, g: 0.533, b: 0.188, a: 1}
+    LightIntensity: 1.05
+    GlowIntensity: 0
+    Animation: 1
+    Period: 0.45
+    Amount: 0.15
+  - Tiles:
+    - {fileID: 11400000, guid: 2bf7b391b0d834d795a4f759761531d9, type: 2}
+    Offset: {x: -0.0625, y: 0.3125}
+    Ring: {fileID: 21300000, guid: 54c5ffa26f212ed43b700b58334e67ec, type: 3}
+    Color: {r: 1, g: 0.533, b: 0.188, a: 1}
+    LightIntensity: 1.05
+    GlowIntensity: 0
+    Animation: 1
+    Period: 0.45
+    Amount: 0.15
+  - Tiles:
+    - {fileID: 11400000, guid: 008339a64e9ddd591a6b625e67b02eba, type: 2}
+    Offset: {x: 0, y: 0.25}
+    Ring: {fileID: 21300000, guid: 54c5ffa26f212ed43b700b58334e67ec, type: 3}
+    Color: {r: 0.82, g: 1, b: 0.4, a: 1}
+    LightIntensity: 1.05
+    GlowIntensity: 0
+    Animation: 1
+    Period: 0.6
+    Amount: 0.15
+  - Tiles:
+    - {fileID: 11400000, guid: be82ec69a535602f1f1601e79a9da6e3, type: 2}
+    Offset: {x: -0.0625, y: 0.1875}
+    Ring: {fileID: 21300000, guid: c1c6c7c14cc1ad246b3283be26873c97, type: 3}
+    Color: {r: 1, g: 0.533, b: 0.188, a: 1}
+    LightIntensity: 1.15
+    GlowIntensity: 0
+    Animation: 1
+    Period: 0.5
+    Amount: 0.16
+  - Tiles:
+    - {fileID: 11400000, guid: 189caaccbac27e0e1d3e2f3ee15eb01e, type: 2}
+    Offset: {x: 0.0625, y: 0.125}
+    Ring: {fileID: 21300000, guid: 70b929686e4b15242a1ceb9047410f38, type: 3}
+    Color: {r: 1, g: 0.533, b: 0.188, a: 1}
+    LightIntensity: 1.25
+    GlowIntensity: 0
+    Animation: 1
+    Period: 0.55
+    Amount: 0.18
+  - Tiles:
+    - {fileID: 11400000, guid: a564e3f0160693196c87a91b04f000bb, type: 2}
+    Offset: {x: -0.0625, y: 0.1875}
+    Ring: {fileID: 21300000, guid: 70b929686e4b15242a1ceb9047410f38, type: 3}
+    Color: {r: 1, g: 0.533, b: 0.188, a: 1}
+    LightIntensity: 1.25
+    GlowIntensity: 0
+    Animation: 1
+    Period: 0.55
+    Amount: 0.18
+  - Tiles:
+    - {fileID: 11400000, guid: b2f9489484efea194e4656a93db8c941, type: 2}
+    Offset: {x: 0, y: 0.125}
+    Ring: {fileID: 21300000, guid: 70b929686e4b15242a1ceb9047410f38, type: 3}
+    Color: {r: 1, g: 0.533, b: 0.188, a: 1}
+    LightIntensity: 1.25
+    GlowIntensity: 0
+    Animation: 1
+    Period: 0.55
+    Amount: 0.18
+  - Tiles:
+    - {fileID: 11400000, guid: 06b911c9292b08943a754abee2410523, type: 2}
+    Offset: {x: 1, y: 1.375}
+    Ring: {fileID: 21300000, guid: 70b929686e4b15242a1ceb9047410f38, type: 3}
+    Color: {r: 1, g: 0.533, b: 0.188, a: 1}
+    LightIntensity: 1.25
+    GlowIntensity: 0
+    Animation: 1
+    Period: 0.55
+    Amount: 0.18
+  - Tiles:
+    - {fileID: 11400000, guid: f8aae02cb6c676fca344d6d8b5bf6a7a, type: 2}
+    Offset: {x: 1, y: 1}
+    Ring: {fileID: 21300000, guid: 70b929686e4b15242a1ceb9047410f38, type: 3}
+    Color: {r: 1, g: 0.533, b: 0.188, a: 1}
+    LightIntensity: 1.25
+    GlowIntensity: 0
+    Animation: 1
+    Period: 0.7
+    Amount: 0.15
+  - Tiles:
+    - {fileID: 11400000, guid: 2244bb777c70641e01d96b71c18e8b60, type: 2}
+    Offset: {x: 0.5, y: 0.5625}
+    Ring: {fileID: 21300000, guid: 70b929686e4b15242a1ceb9047410f38, type: 3}
+    Color: {r: 1, g: 0.533, b: 0.188, a: 1}
+    LightIntensity: 1.25
+    GlowIntensity: 0
+    Animation: 1
+    Period: 0.7
+    Amount: 0.15
+  - Tiles:
+    - {fileID: 11400000, guid: bf342dbf434827a5436cc6df569ca265, type: 2}
+    Offset: {x: 1.25, y: 0.125}
+    Ring: {fileID: 21300000, guid: 70b929686e4b15242a1ceb9047410f38, type: 3}
+    Color: {r: 1, g: 0.533, b: 0.188, a: 1}
+    LightIntensity: 1.25
+    GlowIntensity: 0
+    Animation: 1
+    Period: 0.7
+    Amount: 0.15
+  - Tiles:
+    - {fileID: 11400000, guid: bc5fed6f6b163aa8f31800ca2251370e, type: 2}
+    Offset: {x: 1.0625, y: 0.5}
+    Ring: {fileID: 21300000, guid: 70b929686e4b15242a1ceb9047410f38, type: 3}
+    Color: {r: 1, g: 0.533, b: 0.188, a: 1}
+    LightIntensity: 1.25
+    GlowIntensity: 0
+    Animation: 1
+    Period: 0.7
+    Amount: 0.15
+  - Tiles:
+    - {fileID: 11400000, guid: f7e268db2260aae4048ef39c8386904c, type: 2}
+    Offset: {x: 0, y: 0.4375}
+    Ring: {fileID: 21300000, guid: c1c6c7c14cc1ad246b3283be26873c97, type: 3}
+    Color: {r: 1, g: 0.667, b: 0.314, a: 1}
+    LightIntensity: 1.05
+    GlowIntensity: 0
+    Animation: 1
+    Period: 0.8
+    Amount: 0.08
+  - Tiles:
+    - {fileID: 11400000, guid: bf89b0ec7048e84091753439db8cfc10, type: 2}
+    Offset: {x: 0, y: 0.5}
+    Ring: {fileID: 21300000, guid: c1c6c7c14cc1ad246b3283be26873c97, type: 3}
+    Color: {r: 1, g: 0.667, b: 0.314, a: 1}
+    LightIntensity: 1.05
+    GlowIntensity: 0
+    Animation: 1
+    Period: 0.8
+    Amount: 0.08
+  - Tiles:
+    - {fileID: 11400000, guid: 437d0b31f621157a35f79471f10f2ed3, type: 2}
+    Offset: {x: 0.5, y: 0.5}
+    Ring: {fileID: 21300000, guid: 54c5ffa26f212ed43b700b58334e67ec, type: 3}
+    Color: {r: 0.4, g: 0.408, b: 1, a: 1}
+    LightIntensity: 0.8
+    GlowIntensity: 0
+    Animation: 2
+    Period: 6
+    Amount: 0.25
+  - Tiles:
+    - {fileID: 11400000, guid: 8dc91c294847fc38bdc320629b47d4b2, type: 2}
+    Offset: {x: 0.5, y: 0.1875}
+    Ring: {fileID: 21300000, guid: 54c5ffa26f212ed43b700b58334e67ec, type: 3}
+    Color: {r: 0.729, g: 0.4, b: 1, a: 1}
+    LightIntensity: 0.8
+    GlowIntensity: 0
+    Animation: 2
+    Period: 6
+    Amount: 0.25
+  - Tiles:
+    - {fileID: 11400000, guid: 9939ad0a7e7deeaa61afdb729279ed2e, type: 2}
+    Offset: {x: 0.5625, y: 0.3125}
+    Ring: {fileID: 21300000, guid: 54c5ffa26f212ed43b700b58334e67ec, type: 3}
+    Color: {r: 0.851, g: 0.4, b: 1, a: 1}
+    LightIntensity: 0.8
+    GlowIntensity: 0
+    Animation: 2
+    Period: 6
+    Amount: 0.25
+  - Tiles:
+    - {fileID: 11400000, guid: b97c7811f1e6b2cfb9a3f5dc04a8c6ad, type: 2}
+    Offset: {x: 0.4375, y: 0.375}
+    Ring: {fileID: 21300000, guid: 54c5ffa26f212ed43b700b58334e67ec, type: 3}
+    Color: {r: 0.557, g: 0.4, b: 1, a: 1}
+    LightIntensity: 0.8
+    GlowIntensity: 0
+    Animation: 2
+    Period: 6
+    Amount: 0.25
+  - Tiles:
+    - {fileID: 11400000, guid: 1d71d152816e5178c488f0b5fd9664af, type: 2}
+    Offset: {x: 0.4375, y: 0.0625}
+    Ring: {fileID: 21300000, guid: 54c5ffa26f212ed43b700b58334e67ec, type: 3}
+    Color: {r: 0.937, g: 0.4, b: 1, a: 1}
+    LightIntensity: 0.8
+    GlowIntensity: 0
+    Animation: 2
+    Period: 6
+    Amount: 0.25
+  - Tiles:
+    - {fileID: 11400000, guid: d7eaba55d253b6ef7ea963cbcc747085, type: 2}
+    Offset: {x: 0.5, y: 0.4375}
+    Ring: {fileID: 21300000, guid: 54c5ffa26f212ed43b700b58334e67ec, type: 3}
+    Color: {r: 1, g: 0.4, b: 0.804, a: 1}
+    LightIntensity: 0.8
+    GlowIntensity: 0
+    Animation: 2
+    Period: 6
+    Amount: 0.25
+  - Tiles:
+    - {fileID: 11400000, guid: 5520dbdf3f2ed328db83aa05f958ea47, type: 2}
+    Offset: {x: 0.9375, y: 0.375}
+    Ring: {fileID: 21300000, guid: c1c6c7c14cc1ad246b3283be26873c97, type: 3}
+    Color: {r: 0.875, g: 0.4, b: 1, a: 1}
+    LightIntensity: 0.9
+    GlowIntensity: 0
+    Animation: 2
+    Period: 6
+    Amount: 0.25
+  - Tiles:
+    - {fileID: 11400000, guid: c6fb8ee4e1846513df3a899832958fca, type: 2}
+    Offset: {x: 0.875, y: 0.5}
+    Ring: {fileID: 21300000, guid: c1c6c7c14cc1ad246b3283be26873c97, type: 3}
+    Color: {r: 0.737, g: 0.4, b: 1, a: 1}
+    LightIntensity: 0.9
+    GlowIntensity: 0
+    Animation: 2
+    Period: 6
+    Amount: 0.25
+  - Tiles:
+    - {fileID: 11400000, guid: 8002ae4cd10c1a6440bd338ac373d6e5, type: 2}
+    Offset: {x: 1.3125, y: 0.3125}
+    Ring: {fileID: 21300000, guid: c1c6c7c14cc1ad246b3283be26873c97, type: 3}
+    Color: {r: 0.82, g: 0.4, b: 1, a: 1}
+    LightIntensity: 0.9
+    GlowIntensity: 0
+    Animation: 2
+    Period: 6
+    Amount: 0.25
+  - Tiles:
+    - {fileID: 11400000, guid: 51ade747d5a18153d9f7c740fbd7bc86, type: 2}
+    Offset: {x: 1, y: 0.875}
+    Ring: {fileID: 21300000, guid: c1c6c7c14cc1ad246b3283be26873c97, type: 3}
+    Color: {r: 1, g: 0.4, b: 0.702, a: 1}
+    LightIntensity: 0.9
+    GlowIntensity: 0
+    Animation: 2
+    Period: 6
+    Amount: 0.25
+  - Tiles:
+    - {fileID: 11400000, guid: b3823ac4f205dd1d38e2c1e67b5b8550, type: 2}
+    Offset: {x: 0.9375, y: 0.5}
+    Ring: {fileID: 21300000, guid: c1c6c7c14cc1ad246b3283be26873c97, type: 3}
+    Color: {r: 0.937, g: 0.4, b: 1, a: 1}
+    LightIntensity: 0.9
+    GlowIntensity: 0
+    Animation: 2
+    Period: 6
+    Amount: 0.25
+  - Tiles:
+    - {fileID: 11400000, guid: d7f00fdb4b81fe97ba5b3a2d4480cefd, type: 2}
+    Offset: {x: 1.25, y: 0.875}
+    Ring: {fileID: 21300000, guid: c1c6c7c14cc1ad246b3283be26873c97, type: 3}
+    Color: {r: 1, g: 0.4, b: 0.996, a: 1}
+    LightIntensity: 0.9
+    GlowIntensity: 0
+    Animation: 2
+    Period: 6
+    Amount: 0.25
+  - Tiles:
+    - {fileID: 11400000, guid: 0a95ecd9d431c991100ec4cb5a6005a1, type: 2}
+    Offset: {x: 0.375, y: 0.875}
+    Ring: {fileID: 21300000, guid: c1c6c7c14cc1ad246b3283be26873c97, type: 3}
+    Color: {r: 0.922, g: 0.4, b: 1, a: 1}
+    LightIntensity: 0.9
+    GlowIntensity: 0
+    Animation: 2
+    Period: 6
+    Amount: 0.25
+  - Tiles:
+    - {fileID: 11400000, guid: abc870581dc6cf1f20cec6233fac1ceb, type: 2}
+    Offset: {x: 3.5, y: 4.75}
+    Ring: {fileID: 21300000, guid: e3beaf11a9a015d4cad50f6b09b43a9a, type: 3}
+    Color: {r: 0.4, g: 0.745, b: 1, a: 1}
+    LightIntensity: 1.15
+    GlowIntensity: 0
+    Animation: 2
+    Period: 5.333
+    Amount: 0.2
+  - Tiles:
+    - {fileID: 11400000, guid: 9244c8a8b62a407cc76a87de7adcbeac, type: 2}
+    Offset: {x: 0, y: -0.125}
+    Ring: {fileID: 21300000, guid: 54c5ffa26f212ed43b700b58334e67ec, type: 3}
+    Color: {r: 0.4, g: 0.698, b: 1, a: 1}
+    LightIntensity: 0.9
+    GlowIntensity: 0
+    Animation: 2
+    Period: 4
+    Amount: 0.35
+  - Tiles:
+    - {fileID: 11400000, guid: 707cce31e795c8c051a94b0694dfd6ed, type: 2}
+    Offset: {x: -0.125, y: -0.125}
+    Ring: {fileID: 21300000, guid: 54c5ffa26f212ed43b700b58334e67ec, type: 3}
+    Color: {r: 0.4, g: 1, b: 0.42, a: 1}
+    LightIntensity: 0.9
+    GlowIntensity: 0
+    Animation: 2
+    Period: 4
+    Amount: 0.35
+  - Tiles:
+    - {fileID: 11400000, guid: 29bf635dc2a350c9a3549abe633a8f5a, type: 2}
+    Offset: {x: 0, y: -0.125}
+    Ring: {fileID: 21300000, guid: 54c5ffa26f212ed43b700b58334e67ec, type: 3}
+    Color: {r: 0.698, g: 0.4, b: 1, a: 1}
+    LightIntensity: 0.9
+    GlowIntensity: 0
+    Animation: 2
+    Period: 4
+    Amount: 0.35
+  - Tiles:
+    - {fileID: 11400000, guid: aaded9a6f07467767e60a04efa815648, type: 2}
+    Offset: {x: 1.0625, y: 0.375}
+    Ring: {fileID: 21300000, guid: 70b929686e4b15242a1ceb9047410f38, type: 3}
+    Color: {r: 0.471, g: 0.784, b: 0.745, a: 1}
+    LightIntensity: 0.95
+    GlowIntensity: 0
+    Animation: 2
+    Period: 8
+    Amount: 0.12
+  - Tiles:
+    - {fileID: 11400000, guid: 127150e0c20e7414d84e29d98cc979da, type: 2}
+    Offset: {x: 0, y: 0.875}
+    Ring: {fileID: 21300000, guid: 70b929686e4b15242a1ceb9047410f38, type: 3}
+    Color: {r: 1, g: 0.533, b: 0.188, a: 1}
+    LightIntensity: 1.25
+    GlowIntensity: 0
+    Animation: 1
+    Period: 0.55
+    Amount: 0.18
+  - Tiles:
+    - {fileID: 11400000, guid: 2814cec82904e5eb975c32bc0bd7d83c, type: 2}
+    Offset: {x: 0.5, y: 0.3125}
+    Ring: {fileID: 21300000, guid: e3beaf11a9a015d4cad50f6b09b43a9a, type: 3}
+    Color: {r: 1, g: 0.533, b: 0.188, a: 1}
+    LightIntensity: 1.25
+    GlowIntensity: 0
+    Animation: 1
+    Period: 0.55
+    Amount: 0.18
+  - Tiles:
+    - {fileID: 11400000, guid: 74587e9629e539b2873c1ea802ba088a, type: 2}
+    Offset: {x: 0.5, y: 0.25}
+    Ring: {fileID: 21300000, guid: 70b929686e4b15242a1ceb9047410f38, type: 3}
+    Color: {r: 1, g: 0.533, b: 0.188, a: 1}
+    LightIntensity: 1.25
+    GlowIntensity: 0
+    Animation: 1
+    Period: 0.55
+    Amount: 0.18

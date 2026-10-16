@@ -1,0 +1,24 @@
+{
+    "name": "ShotgunAndRun.Cutscene.Editor",
+    "rootNamespace": "ShotgunAndRun.Cutscene.Editor",
+    "references": [
+        "ShotgunAndRun.Cutscene",
+        "ShotgunAndRun.Dialogue",
+        "ShotgunAndRun.Core",
+        "ShotgunAndRun.Quest",
+        "ShotgunAndRun.NPC",
+        "ShotgunAndRun.Player",
+        "ShotgunAndRun.Enemy"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69986118a27719e4ba7412b3c747b23d, type: 3}
+  m_Name: Grun_Greeting
+  m_EditorClassIdentifier: Assembly-CSharp::ShotgunAndRun.UI.Dialogue.DialogueDataSO
+  _speakerName: "\uADF8\uB8EC"
+  _speakerPortrait: {fileID: 0}
+  _guideImage: {fileID: 0}
+  _lines:
+  - Speaker: {fileID: 0}
+    Expression: 
+    SpeakerName: 
+    SpeakerPortrait: {fileID: 0}
+    Text: "\uC654\uC18C? \uBB34\uAE30 \uC0C1\uD0DC\uBD80\uD130 \uC880 \uBD05\uC2DC\uB2E4."
+    Bubble: 0
+    Sfx: {fileID: 0}
+    Signal: 
+  _choices:
+  - ChoiceText: "\uBB34\uAE30 \uAC15\uD654"
+    ChoiceId: UPGRADE
+  - ChoiceText: "\uC548\uB155\uD788"
+    ChoiceId: BYE
+  _pauseGame: 0

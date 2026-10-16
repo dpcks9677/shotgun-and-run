@@ -1,0 +1,27 @@
+{
+    "name": "ShotgunAndRun.Core.EditModeTests",
+    "rootNamespace": "ShotgunAndRun.Core.Tests",
+    "references": [
+        "ShotgunAndRun.Core",
+        "ShotgunAndRun.Weapon",
+        "ShotgunAndRun.Inventory.Data",
+        "ShotgunAndRun.Quest",
+        "ShotgunAndRun.Consumable"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false,
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ]
+}

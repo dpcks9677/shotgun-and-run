@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad080a1e33d124488cb6725446a640a, type: 3}
+  m_Name: Barrel
+  m_EditorClassIdentifier: ShotgunAndRun.Weapon::ShotgunAndRun.Weapon.PartsDataSO
+  _id: weapon.parts.barrel
+  _partsName: "\uCD1D\uC5F4 / \uCD1D\uAD6C"
+  _icon: {fileID: -138636598, guid: e13656e4b267d9981cfc3ff636e7596c, type: 3}
+  _partsType: 0
+  _stepUpgradeDescription:
+  - "\u2022 \uD0C4\uD658 \uD655\uC0B0\uAC01: 36\xB0 -> <color=#55FF55>32\xB0</color>
+    (-4\xB0)\n\u2022 \uC720\uD6A8 \uC0AC\uAC70\uB9AC: 100% -> <color=#55FF55>110%</color>
+    (+10%)"
+  - "\u2022 \uD0C4\uD658 \uD655\uC0B0\uAC01: 32\xB0 -> <color=#55FF55>28\xB0</color>
+    (-4\xB0)\n\u2022 \uC720\uD6A8 \uC0AC\uAC70\uB9AC: 110% -> <color=#55FF55>120%</color>
+    (+10%)"
+  - "\u2022 \uD0C4\uD658 \uD655\uC0B0\uAC01: 28\xB0 -> <color=#55FF55>24\xB0</color>
+    (-4\xB0)\n\u2022 \uC720\uD6A8 \uC0AC\uAC70\uB9AC: 120% -> <color=#55FF55>130%</color>
+    (+10%)"
+  - "\u2022 \uD0C4\uD658 \uD655\uC0B0\uAC01: 24\xB0 -> <color=#55FF55>20\xB0</color>
+    (-4\xB0)\n\u2022 \uC720\uD6A8 \uC0AC\uAC70\uB9AC: 130% -> <color=#55FF55>140%</color>
+    (+10%)"

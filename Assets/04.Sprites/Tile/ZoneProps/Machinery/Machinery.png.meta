@@ -1,0 +1,2987 @@
+fileFormatVersion: 2
+guid: 30e86aef11f632ddb75e0a1815335c1e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Elevator_Winch_L
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f31cc8090b879b2d54f3b3a0bd3211a
+      internalID: 738859416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elevator_Winch_R
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 204
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885e4fc61d00aea649907d163292ba4d
+      internalID: -1938037779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cage_Elevator
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 108
+        width: 66
+        height: 132
+      alignment: 9
+      pivot: {x: 0.12121212, y: 0.09090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -33, y: -62}
+        - {x: -33, y: -30}
+        - {x: 31, y: -30}
+        - {x: 31, y: -62}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a740787404ea4b3b39945beb018f4046
+      internalID: -285485760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gear_Dynamo
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 204
+        width: 50
+        height: 36
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -25, y: -14}
+        - {x: -25, y: 18}
+        - {x: 23, y: 18}
+        - {x: 23, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049b75402b8364754473eb562f1f30dd
+      internalID: 73428470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gantry_Crane
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 188
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -25, y: -22}
+        - {x: -25, y: -6}
+        - {x: 23, y: -6}
+        - {x: 23, y: -22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6278408007ec6aa102b5cdc4d3cdb7cf
+      internalID: -101088348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boiler
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 204
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f3b029c156e9fafa876629c26ceb14
+      internalID: 762057382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furnace_f0
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 188
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -25, y: -22}
+        - {x: -25, y: 26}
+        - {x: 23, y: 26}
+        - {x: 23, y: -22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3748ca904f4ebe21b93f336f29b8d6b3
+      internalID: -702552913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furnace_f1
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 188
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -25, y: -22}
+        - {x: -25, y: 26}
+        - {x: 23, y: 26}
+        - {x: 23, y: -22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afc83c4242459f64f1cf0f7dfe58e38
+      internalID: 2065709776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Catwalk
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 220
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -6}
+        - {x: -17, y: 10}
+        - {x: 15, y: 10}
+        - {x: 15, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e6f181479956cf3f064b7ccb83d614
+      internalID: -435726846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stairs
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 204
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6162fb6564ae3202178475c7a7380084
+      internalID: 1461629557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coal_Barrow
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 220
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -6}
+        - {x: -17, y: 10}
+        - {x: 15, y: 10}
+        - {x: 15, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2633df06c86ce6ede84b260b97158389
+      internalID: 130297795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw_Lever
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 220
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -6}
+        - {x: -9, y: 10}
+        - {x: 7, y: 10}
+        - {x: 7, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18debb8e454af2794fe0ab2b8994abbc
+      internalID: -1384042377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scrap_Gear_Pile
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -6}
+        - {x: -17, y: 10}
+        - {x: 15, y: 10}
+        - {x: 15, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52ebf012ebad820594a1349de7dd1fd
+      internalID: 1399698698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gear_Wall_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 54
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5442e50a188c97f0dc6631984b375821
+      internalID: -318496254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gear_Wall_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 54
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ee1a212b6efa5e69714633fa4b6725
+      internalID: -1529602007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gear_Wall_3
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 54
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef5c1c9e5846887201bac51ead11f79
+      internalID: 1090245685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chain_Wall
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 54
+        width: 18
+        height: 52
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524b9b3e9fdf300bb0f112e1f36b8529
+      internalID: -825220353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hanging_Lantern_f0
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 70
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59116bb84c837f3dd6f0d34a24f15fd1
+      internalID: -766168959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hanging_Lantern_f1
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 70
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4213e9f9ec7956c7310f8d2fa905f0e5
+      internalID: -1107827574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_H_1
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 86
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff5246775478e6ec8ec43d07141af95
+      internalID: 1777438635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_H_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 86
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b037903d3c433971bac16297a3d7c43
+      internalID: -666282325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_H_flange
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 86
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5267f1d68a9c28c4131f258531c97bf0
+      internalID: -362558581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_H_valve
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 86
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20db5e2a876b535577f1c4da7f3108ec
+      internalID: -373937885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_H_gauge_f0
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 86
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d6542fba33234e3c90c992f84fa1d7
+      internalID: 664463131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_H_gauge_f1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 86
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de1a1060d2ff855c072c1d0a010cc61
+      internalID: -199171030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_H_steam_f0
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 86
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd6e85387ebc6c6de9fcfc417321605
+      internalID: 201993087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_H_steam_f1
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 86
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f2e22075c1acede96228244373a7a3
+      internalID: 1807307376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_H_rust
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 86
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092504b80349104fe1d890cdfaf4b0a1
+      internalID: -504521295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_H_cap_L
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 86
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab093979c8eda9466b1084ffb2908d3
+      internalID: 628884502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_H_cap_R
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 86
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ba134146683ce08d61c33997344da4
+      internalID: 1231915841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_V_1
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 86
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92d29bcbf43c7a035fe99e56bfd5fb1
+      internalID: 1050651674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_V_flange
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 86
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75a4248f9f9e89eebc0e33fc8f5b999
+      internalID: 89160005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_V_valve
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113038de824454be22b95823c7199cc2
+      internalID: -439346947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_V_gauge_f0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 32
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db19e2bedfde4bb3679023b21e872f8
+      internalID: 1818171790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_V_gauge_f1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45802ac84d82ca55c6a81e53c5169fec
+      internalID: -57204529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_V_cap_T
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 32
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3392796df24087bc09d910c834a98b
+      internalID: -1320504275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_V_cap_B
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dedb21fe09fb4ce326021b409d0daa3
+      internalID: 1898063279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_Elbow_LD
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 32
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10497ba205354bb8f20f18cab6b8461e
+      internalID: -1811153294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_Elbow_RD
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 32
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b379ac9e5f69fb99ae9ad229040eeda8
+      internalID: 551967100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_Elbow_LU
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 32
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33a38d40cca16695cec4129ca2a8932
+      internalID: -1919254533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_Elbow_RU
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cbf1c4db36de368c32af2489107138
+      internalID: -1443718482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_Tee_D
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 32
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46cd2143b00a95fe43ba79f3787e8ff
+      internalID: 322813553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_Tee_U
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 32
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d855c3f7fea626f26b8294db47c75cbf
+      internalID: -1410669590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chain_Tile_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 32
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ff36b432db8009ef841161d0092fd7
+      internalID: 1011512300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chain_Tile_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7100255dd94a065084ae17b803c9165
+      internalID: -1449428413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chain_Pulley
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 32
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554c899870363f5fb552c0dddbd17a3f
+      internalID: 790678615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elevator_Platform
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc73b6146b1df9362a3d6097eaeaf3f
+      internalID: -1149935185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oil_Spill
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 16
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d474c1370d13d7f127e9be9ba0e0ebb9
+      internalID: -41879035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gear_Wall_1_f1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 426
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acab6beb19c7f7710e8aad81942ffa2
+      internalID: -473973415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gear_Wall_1_f2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 426
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ace58f7285d25d925be81311aee34c
+      internalID: 1753582651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gear_Wall_1_f3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 426
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182e1b3926f886ff28b8515d83bcf062
+      internalID: -922529252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gear_Wall_1_f4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 426
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3850954f4503866b8c37f2f3f3ddfef4
+      internalID: -1875860738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gear_Wall_1_f5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 426
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afff5eeea30d852cb368fbe1fe8472a
+      internalID: 430569028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gear_Wall_1_f6
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 426
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756b8de0ba998b7261fd1d9a8c9683e7
+      internalID: 193299403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gear_Wall_1_f7
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 426
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1793d28a36492de0ea1c2b62a5aa5c7f
+      internalID: -951823082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gear_Wall_1_f8
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 426
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42e489a401e368e947dd6e412cf8cc6
+      internalID: -1787890393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gear_Wall_2_f1
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 426
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4cfe74e9555cde5476db17d4be00ce
+      internalID: -1514101788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gear_Wall_2_f2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408bbda93a1a5eee514e566996fb202a
+      internalID: 785966799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gear_Wall_2_f3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 372
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619bc28dc24ec203553928d03b10df16
+      internalID: 336959539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gear_Wall_2_f4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 372
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60dce6adbf4a2c6873f787d0cb33b5b6
+      internalID: 564552793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gear_Wall_2_f5
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 372
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bd6034ce5de556f58aedfaf9ac4f08
+      internalID: -1554634394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gear_Wall_2_f6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 372
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1341357a6d987483f45a47c596af214
+      internalID: 2126320587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gear_Wall_2_f7
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 372
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bdaacc768b8c7efa1fa444c268516c
+      internalID: 46271799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gear_Wall_2_f8
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 372
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78824759599e330a8e1fcb7006d8d6d
+      internalID: -158324344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gear_Wall_3_f1
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 372
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa351c21239b0720f64a8e8abd9a115b
+      internalID: 1328039208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gear_Wall_3_f2
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 372
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1ab07fbad106719c9c11464f3d5eed
+      internalID: 99916563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gear_Wall_3_f3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 318
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2c0a415473ed5f5b4994965b882756
+      internalID: -790165574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gear_Wall_3_f4
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 318
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8d029efcb3b96e571ad594113db21c
+      internalID: 933625160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gear_Wall_3_f5
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 318
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35302d96724f40f154c9cafc4439c89
+      internalID: 146398779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gear_Wall_3_f6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 318
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e4a8acda5ddd7ec346af26b9c04fa4
+      internalID: -1093703432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gear_Wall_3_f7
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 318
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5d4d18a549a8db18304d49ab8c6ada
+      internalID: -358569332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gear_Wall_3_f8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 318
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36dc5c569439210ad282412c1838123
+      internalID: 1328912589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gear_Dynamo_f1
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 334
+        width: 50
+        height: 36
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -25, y: -14}
+        - {x: -25, y: 18}
+        - {x: 23, y: 18}
+        - {x: 23, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7551e401c55ca85a555fbe42b7cbbe2d
+      internalID: -1526544169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gear_Dynamo_f2
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 334
+        width: 50
+        height: 36
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -25, y: -14}
+        - {x: -25, y: 18}
+        - {x: 23, y: 18}
+        - {x: 23, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968f87cc432db972dbdafc310bbe4d5a
+      internalID: 1531062851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gear_Dynamo_f3
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 334
+        width: 50
+        height: 36
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -25, y: -14}
+        - {x: -25, y: 18}
+        - {x: 23, y: 18}
+        - {x: 23, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893ebd6e7dc816dc5c9fa9ba86247dbf
+      internalID: -792113986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gear_Dynamo_f4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 50
+        height: 36
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -25, y: -14}
+        - {x: -25, y: 18}
+        - {x: 23, y: 18}
+        - {x: 23, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1680fd92c44139aadcfb349f18e12dcf
+      internalID: -1318024694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gear_Dynamo_f5
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 280
+        width: 50
+        height: 36
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -25, y: -14}
+        - {x: -25, y: 18}
+        - {x: 23, y: 18}
+        - {x: 23, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2daefc4c7e7ef494046914d723b47b
+      internalID: -2031614653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gear_Dynamo_f6
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 280
+        width: 50
+        height: 36
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -25, y: -14}
+        - {x: -25, y: 18}
+        - {x: 23, y: 18}
+        - {x: 23, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bdf5e264575fe582ce3a220ae336b8
+      internalID: 877809383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gear_Dynamo_f7
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 280
+        width: 50
+        height: 36
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -25, y: -14}
+        - {x: -25, y: 18}
+        - {x: 23, y: 18}
+        - {x: 23, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b132fbfbd80fd4e993568b0089fc31
+      internalID: 797924275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gear_Dynamo_f8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 280
+        width: 50
+        height: 36
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -25, y: -14}
+        - {x: -25, y: 18}
+        - {x: 23, y: 18}
+        - {x: 23, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e508330fabefeb30ed2bdf0a283c01ee
+      internalID: 1455565034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elevator_Winch_L_f1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 280
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed3f7059e7ecef3f1850489a0cfb906
+      internalID: 653805442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elevator_Winch_L_f2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 280
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d73802927966f870c1ac20c45c98f7
+      internalID: -643262037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elevator_Winch_L_f3
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 280
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd6507eff9a8724aa0817083b2f78f1
+      internalID: -1324014547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elevator_Winch_L_f4
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 280
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af05b80ab1fbf2d432e9ec7ab7b97c8
+      internalID: -1872037217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elevator_Winch_L_f5
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 280
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba34a8ccbc4005dad33378fcca38292
+      internalID: -1038003068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elevator_Winch_L_f6
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 280
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1baff8f3de28664cf1d207e82c7ee33
+      internalID: 1941273854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elevator_Winch_L_f7
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 280
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b64bfa3587c1fb58db11314d8050bb
+      internalID: -58116848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elevator_Winch_L_f8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273f815b103f88e458f1af7b4b71eac3
+      internalID: 221633125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elevator_Winch_R_f1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 242
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4cbbf457cf72f38f1882053bc1d47e
+      internalID: 1038878611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elevator_Winch_R_f2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 242
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1163f25f3f7412a91257918c1f5cd4e
+      internalID: 1311643157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elevator_Winch_R_f3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 242
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393b7d9df9922ae3d2f6f46f8a05c189
+      internalID: -979787700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elevator_Winch_R_f4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 242
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b78732a47c91723d3032347360755a
+      internalID: 1300477318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elevator_Winch_R_f5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 242
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a1159c7579bd9efd64055a4a15e86f
+      internalID: 1853227468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elevator_Winch_R_f6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 242
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: af79fc0873ec4eb76fc53e1e9bb6310b
+      internalID: 1629271648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elevator_Winch_R_f7
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 242
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36e806ee524f7971268cafdf7d4530f
+      internalID: 1715350731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elevator_Winch_R_f8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 242
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17, y: -14}
+        - {x: -17, y: 18}
+        - {x: 15, y: 18}
+        - {x: 15, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e747683eecf47582cc24d3d35aad47
+      internalID: -276141289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furnace_a1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -25, y: -22}
+        - {x: -25, y: 26}
+        - {x: 23, y: 26}
+        - {x: 23, y: -22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bfac044b50bd198a9f9008c5276492
+      internalID: -1351970020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furnace_a2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 480
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -25, y: -22}
+        - {x: -25, y: 26}
+        - {x: 23, y: 26}
+        - {x: 23, y: -22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f09356e7d54e2fe1941d39cca9d1c20
+      internalID: 1249156831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furnace_a3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 480
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -25, y: -22}
+        - {x: -25, y: 26}
+        - {x: 23, y: 26}
+        - {x: 23, y: -22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d524ac03b05c7c18de6d80088c8879a
+      internalID: 1788718903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furnace_a4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 480
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -25, y: -22}
+        - {x: -25, y: 26}
+        - {x: 23, y: 26}
+        - {x: 23, y: -22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c714c84a3e681601bd4938868940ae
+      internalID: 2056031045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furnace_a5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 480
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -25, y: -22}
+        - {x: -25, y: 26}
+        - {x: 23, y: 26}
+        - {x: 23, y: -22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959c73ea1a9f0076969e3899f50a904e
+      internalID: 1015054656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furnace_a6
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 480
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -25, y: -22}
+        - {x: -25, y: 26}
+        - {x: 23, y: 26}
+        - {x: 23, y: -22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7586d26c924ddce5fcfc6317e6615fff
+      internalID: -1224533161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Furnace_a7
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 480
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16000000, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -25, y: -22}
+        - {x: -25, y: 26}
+        - {x: 23, y: 26}
+        - {x: 23, y: -22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff485051891d1753e85682390755dab
+      internalID: -1166942445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hanging_Lantern_a1
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 496
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5561390cab79f64599491c12e16eac75
+      internalID: -261573395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hanging_Lantern_a2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 496
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb4cebc518113c6af7a47f4a9e85105
+      internalID: -1177126232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hanging_Lantern_a3
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 496
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfc91973712b82b9c2c68595cc75f03
+      internalID: -777930272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hanging_Lantern_a4
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 496
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694e1409f500dcf02c193db1169dbc91
+      internalID: -289897932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hanging_Lantern_a5
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 496
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd260d4c208f174199ff30387b78d27d
+      internalID: -553769475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hanging_Lantern_a6
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 496
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.33333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db403cf6b918de82e406504a3e0d964e
+      internalID: 2132551049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_H_steam_a1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 534
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d7105b96d53fa60beaf6bd7dcdf7f8
+      internalID: -1342197516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_H_steam_a2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 534
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a97c5e00860f0e203b76aaf51a3a016
+      internalID: -1435960826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_H_steam_a3
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 534
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80be728cde41f458d9c38246e3a73ff2
+      internalID: -905887813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_H_steam_a4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 534
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b925204685a773a38234394a284602
+      internalID: 1341546833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_H_steam_a5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 534
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c4437d05c06b30e534bc6ab2738310
+      internalID: -2082694103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_H_steam_a6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 534
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b8a6056c0dbca5cecf932f197ade53
+      internalID: 2008707033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe_H_steam_a7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 534
+        width: 18
+        height: 20
+      alignment: 9
+      pivot: {x: 0.44444444, y: 0.60000000}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa3e86efab98912791e5f1f178abc6a
+      internalID: 549841192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a08840b3a8ff159a757fb3658aab7e80
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Boiler: 762057382
+      Cage_Elevator: -285485760
+      Catwalk: -435726846
+      Chain_Pulley: 790678615
+      Chain_Tile_1: 1011512300
+      Chain_Tile_2: -1449428413
+      Chain_Wall: -825220353
+      Coal_Barrow: 130297795
+      Elevator_Platform: -1149935185
+      Elevator_Winch_L: 738859416
+      Elevator_Winch_R: -1938037779
+      Furnace_f0: -702552913
+      Furnace_f1: 2065709776
+      Gantry_Crane: -101088348
+      Gear_Dynamo: 73428470
+      Gear_Wall_1: -318496254
+      Gear_Wall_2: -1529602007
+      Gear_Wall_3: 1090245685
+      Hanging_Lantern_f0: -766168959
+      Hanging_Lantern_f1: -1107827574
+      Oil_Spill: -41879035
+      Pipe_Elbow_LD: -1811153294
+      Pipe_Elbow_LU: -1919254533
+      Pipe_Elbow_RD: 551967100
+      Pipe_Elbow_RU: -1443718482
+      Pipe_H_1: 1777438635
+      Pipe_H_2: -666282325
+      Pipe_H_cap_L: 628884502
+      Pipe_H_cap_R: 1231915841
+      Pipe_H_flange: -362558581
+      Pipe_H_gauge_f0: 664463131
+      Pipe_H_gauge_f1: -199171030
+      Pipe_H_rust: -504521295
+      Pipe_H_steam_f0: 201993087
+      Pipe_H_steam_f1: 1807307376
+      Pipe_H_valve: -373937885
+      Pipe_Tee_D: 322813553
+      Pipe_Tee_U: -1410669590
+      Pipe_V_1: 1050651674
+      Pipe_V_cap_B: 1898063279
+      Pipe_V_cap_T: -1320504275
+      Pipe_V_flange: 89160005
+      Pipe_V_gauge_f0: 1818171790
+      Pipe_V_gauge_f1: -57204529
+      Pipe_V_valve: -439346947
+      Scrap_Gear_Pile: 1399698698
+      Stairs: 1461629557
+      Throw_Lever: -1384042377
+      Gear_Wall_1_f1: -473973415
+      Gear_Wall_1_f2: 1753582651
+      Gear_Wall_1_f3: -922529252
+      Gear_Wall_1_f4: -1875860738
+      Gear_Wall_1_f5: 430569028
+      Gear_Wall_1_f6: 193299403
+      Gear_Wall_1_f7: -951823082
+      Gear_Wall_1_f8: -1787890393
+      Gear_Wall_2_f1: -1514101788
+      Gear_Wall_2_f2: 785966799
+      Gear_Wall_2_f3: 336959539
+      Gear_Wall_2_f4: 564552793
+      Gear_Wall_2_f5: -1554634394
+      Gear_Wall_2_f6: 2126320587
+      Gear_Wall_2_f7: 46271799
+      Gear_Wall_2_f8: -158324344
+      Gear_Wall_3_f1: 1328039208
+      Gear_Wall_3_f2: 99916563
+      Gear_Wall_3_f3: -790165574
+      Gear_Wall_3_f4: 933625160
+      Gear_Wall_3_f5: 146398779
+      Gear_Wall_3_f6: -1093703432
+      Gear_Wall_3_f7: -358569332
+      Gear_Wall_3_f8: 1328912589
+      Gear_Dynamo_f1: -1526544169
+      Gear_Dynamo_f2: 1531062851
+      Gear_Dynamo_f3: -792113986
+      Gear_Dynamo_f4: -1318024694
+      Gear_Dynamo_f5: -2031614653
+      Gear_Dynamo_f6: 877809383
+      Gear_Dynamo_f7: 797924275
+      Gear_Dynamo_f8: 1455565034
+      Elevator_Winch_L_f1: 653805442
+      Elevator_Winch_L_f2: -643262037
+      Elevator_Winch_L_f3: -1324014547
+      Elevator_Winch_L_f4: -1872037217
+      Elevator_Winch_L_f5: -1038003068
+      Elevator_Winch_L_f6: 1941273854
+      Elevator_Winch_L_f7: -58116848
+      Elevator_Winch_L_f8: 221633125
+      Elevator_Winch_R_f1: 1038878611
+      Elevator_Winch_R_f2: 1311643157
+      Elevator_Winch_R_f3: -979787700
+      Elevator_Winch_R_f4: 1300477318
+      Elevator_Winch_R_f5: 1853227468
+      Elevator_Winch_R_f6: 1629271648
+      Elevator_Winch_R_f7: 1715350731
+      Elevator_Winch_R_f8: -276141289
+      Furnace_a1: -1351970020
+      Furnace_a2: 1249156831
+      Furnace_a3: 1788718903
+      Furnace_a4: 2056031045
+      Furnace_a5: 1015054656
+      Furnace_a6: -1224533161
+      Furnace_a7: -1166942445
+      Hanging_Lantern_a1: -261573395
+      Hanging_Lantern_a2: -1177126232
+      Hanging_Lantern_a3: -777930272
+      Hanging_Lantern_a4: -289897932
+      Hanging_Lantern_a5: -553769475
+      Hanging_Lantern_a6: 2132551049
+      Pipe_H_steam_a1: -1342197516
+      Pipe_H_steam_a2: -1435960826
+      Pipe_H_steam_a3: -905887813
+      Pipe_H_steam_a4: 1341546833
+      Pipe_H_steam_a5: -2082694103
+      Pipe_H_steam_a6: 2008707033
+      Pipe_H_steam_a7: 549841192
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

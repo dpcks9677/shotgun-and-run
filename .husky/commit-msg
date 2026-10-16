@@ -1,0 +1,31 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+## husky task runner examples -------------------
+## Note : for local installation use 'dotnet' prefix. e.g. 'dotnet husky'
+
+## run all tasks
+#husky run
+
+### run all tasks with group: 'group-name'
+#husky run --group group-name
+
+## run task with name: 'task-name'
+#husky run --name task-name
+
+## pass hook arguments to task
+#husky run --args "$1" "$2"
+
+## or put your custom commands -------------------
+#echo 'Husky.Net is awesome!'
+
+# merge 또는 revert 작업 중에는 훅을 실행하지 않음
+if [ -f "$(git rev-parse --git-path MERGE_HEAD)" ] ||
+   [ -f "$(git rev-parse --git-path REVERT_HEAD)" ]; then
+    echo "merge/revert 커밋이므로 Husky 검사를 건너뜁니다."
+    exit 0
+fi
+
+grep -qE '^(asset|build|chore|ci|docs|feat|fix|perf|refactor|revert|style|test|rename)(\(.+\))?!?: .+' "$1" && exit 0
+echo "커밋 메시지는 'type: 설명' 형식이어야 합니다."
+exit 1

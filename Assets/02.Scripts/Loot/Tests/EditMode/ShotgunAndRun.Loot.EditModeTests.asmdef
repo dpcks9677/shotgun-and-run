@@ -1,0 +1,24 @@
+{
+    "name": "ShotgunAndRun.Loot.EditModeTests",
+    "rootNamespace": "ShotgunAndRun.Loot.Tests",
+    "references": [
+        "ShotgunAndRun.Loot",
+        "ShotgunAndRun.Inventory.Data"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false,
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ]
+}

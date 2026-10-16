@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 326e052c0aee2f34ca9b3c178fe91371, type: 3}
+  m_Name: CS_ELENA_AMBUSH
+  m_EditorClassIdentifier: ShotgunAndRun.Cutscene::ShotgunAndRun.Cutscene.ElenaAmbushDungeonCutscene
+  _id: CS_ELENA_AMBUSH
+  _requiredFlags:
+  - FLAG_Q2_ACCEPTED
+  _blockedFlags:
+  - FLAG_ELENA_RESCUED
+  - FLAG_ELENA_AMBUSH_SEEN
+  _completionFlags:
+  - FLAG_ELENA_AMBUSH_SEEN
+  _saveCompletionFlagsImmediately: 1
+  _autoPlay: 0
+  _priority: 0
+  _lockPlayer: 1
+  _hideHud: 1
+  _pauseGameplay: 1
+  _debugSpawnMarker: 
+  _elena: {fileID: 11400000, guid: d3e193e7ce3d5ae409e8380e5ac26da3, type: 2}
+  _warning: {fileID: 11400000, guid: 50093bac2d0f51a40af5aa193784819c, type: 2}
+  _alarm: {fileID: 8300000, guid: 2457f394acd740ed885cec49fc656b65, type: 3}
+  _shakePower: 0.08
+  _shakeSeconds: 0.5
+  _entranceBlend: 1.2
+  _entranceHold: 0.8
+  _centerBlend: 1.6
+  _zoomOutSize: 14
+  _zoomOutSeconds: 1.6
+  _centerHold: 0.8
+  _returnBlend: 0.8

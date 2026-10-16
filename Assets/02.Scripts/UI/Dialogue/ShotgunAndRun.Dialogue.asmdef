@@ -1,0 +1,19 @@
+{
+    "name": "ShotgunAndRun.Dialogue",
+    "rootNamespace": "ShotgunAndRun.UI.Dialogue",
+    "references": [
+        "ShotgunAndRun.Core",
+        "ShotgunAndRun.NPC",
+        "ShotgunAndRun.Player",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69986118a27719e4ba7412b3c747b23d, type: 3}
+  m_Name: CS_Q2_PORTAL_Frame
+  m_EditorClassIdentifier: ShotgunAndRun.Dialogue::ShotgunAndRun.UI.Dialogue.DialogueDataSO
+  _speakerName: 
+  _speakerPortrait: {fileID: 0}
+  _guideImage: {fileID: 0}
+  _lines:
+  - Speaker: {fileID: 11400000, guid: d3e193e7ce3d5ae409e8380e5ac26da3, type: 2}
+    Expression: 
+    SpeakerName: 
+    SpeakerPortrait: {fileID: 0}
+    Text: "\uBB34\uB108\uC9C4 \uACC4\uB2E8 \uC790\uB9AC\uC5D0 \uD154\uB808\uD3EC\uD2B8
+      \uAC8C\uC774\uD2B8\uB97C \uB2E4\uC2DC \uC138\uC6E0\uC5B4\uC694. \uC774\uC81C
+      \uB9C8\uB825\uB9CC \uCC44\uC6B0\uBA74 \uB3FC\uC694."
+    Bubble: 0
+    Sfx: {fileID: 0}
+    Signal: 
+  _choices: []
+  _pauseGame: 0

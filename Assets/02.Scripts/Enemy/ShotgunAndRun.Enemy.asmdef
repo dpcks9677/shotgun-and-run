@@ -1,0 +1,20 @@
+{
+  "name": "ShotgunAndRun.Enemy",
+  "rootNamespace": "ShotgunAndRun.Enemy",
+  "references": [
+    "ShotgunAndRun.Combat",
+    "ShotgunAndRun.Consumable",
+    "Unity.RenderPipelines.Universal.2D.Runtime",
+    "ShotgunAndRun.Core",
+    "ShotgunAndRun.Player"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c099b108c20ac224e9e755ec764bb831, type: 3}
+  m_Name: CS_TUTORIAL_FAINT_DEFEAT
+  m_EditorClassIdentifier: Assembly-CSharp::ShotgunAndRun.Sandbox.Cutscene.TutorialFaintCutscene
+  _id: CS_TUTORIAL_FAINT_DEFEAT
+  _requiredFlags: []
+  _blockedFlags: []
+  _completionFlags: []
+  _saveCompletionFlagsImmediately: 0
+  _autoPlay: 0
+  _priority: 0
+  _lockPlayer: 1
+  _hideHud: 1
+  _pauseGameplay: 1
+  _debugSpawnMarker: 
+  _beforeFade: {fileID: 11400000, guid: 9bf32b31865c49e9a1dca1a9b5ed0401, type: 2}
+  _inBlackout: {fileID: 11400000, guid: deec274305854927ae85e8660c34f03c, type: 2}
+  _afterWake: {fileID: 11400000, guid: bc81c1aaaf7249fcab8a1d45e099d477, type: 2}
+  _healItem: {fileID: 11400000, guid: cd823024640029b42aeb458e6c134b5e, type: 2}
+  _faintClip: {fileID: 7400000, guid: a8bbe0797fbc5be4286a9948eba14b24, type: 2}
+  _gunshot: {fileID: 8300000, guid: f97258b3c111da34d962b5f2869558ef, type: 3}
+  _collapseSfx: {fileID: 8300000, guid: 6bef3ef36f8e49e0bceb67fea53d136c, type: 3}
+  _gunshotCount: 3
+  _shotInterval: 0.7
+  _blackoutWaitSeconds: 3
+  _wakeHealth: 1
+  _collapsedHoldSeconds: 0.6
+  _fadeOutSeconds: 0.8
+  _wakeFadeSeconds: 2

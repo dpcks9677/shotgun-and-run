@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Candles_skull
+  m_EditorClassIdentifier: Unity.2D.Tilemap.Extras::UnityEngine.Tilemaps.AnimatedTile
+  m_AnimatedSprites:
+  - {fileID: -222948922, guid: a96d700fc298014f7de17c5a9bdfe806, type: 3}
+  - {fileID: 2079716508, guid: a96d700fc298014f7de17c5a9bdfe806, type: 3}
+  - {fileID: -322150226, guid: a96d700fc298014f7de17c5a9bdfe806, type: 3}
+  - {fileID: -993186573, guid: a96d700fc298014f7de17c5a9bdfe806, type: 3}
+  - {fileID: 574349648, guid: a96d700fc298014f7de17c5a9bdfe806, type: 3}
+  - {fileID: -1960626380, guid: a96d700fc298014f7de17c5a9bdfe806, type: 3}
+  - {fileID: -849325176, guid: a96d700fc298014f7de17c5a9bdfe806, type: 3}
+  - {fileID: -746105285, guid: a96d700fc298014f7de17c5a9bdfe806, type: 3}
+  - {fileID: 1629894320, guid: a96d700fc298014f7de17c5a9bdfe806, type: 3}
+  - {fileID: -1584967615, guid: a96d700fc298014f7de17c5a9bdfe806, type: 3}
+  - {fileID: -2036104581, guid: a96d700fc298014f7de17c5a9bdfe806, type: 3}
+  - {fileID: 1367499439, guid: a96d700fc298014f7de17c5a9bdfe806, type: 3}
+  m_MinSpeed: 5.5
+  m_MaxSpeed: 6.5
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 1
+  m_TileAnimationFlags: 0

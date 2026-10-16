@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d3e754375f5fcd41957a959e6bbe233, type: 3}
+  m_Name: FlashBang
+  m_EditorClassIdentifier: ShotgunAndRun.Inventory.Data::InventorySystem.ConsumableData
+  _id: 
+  _consumableName: "\uC12C\uAD11\uD0C4"
+  _icon: {fileID: -530303646, guid: 5d8158c467c974bb0bf7153af526d0a3, type: 3}
+  _consumableEffectData:
+    value: 0
+    duration: 2
+  _consumableType: 3
+  _consumableCategory: 1
+  _description: "\uBC18\uACBD 4u, \uC801 2\uCD08 \uAE30\uC808, \uB370\uBBF8\uC9C0
+    \uC5C6\uC74C \xB7 \uD22C\uCC99 \uC0AC\uAC70\uB9AC 6u"
+  _maxStack: 3

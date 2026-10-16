@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69986118a27719e4ba7412b3c747b23d, type: 3}
+  m_Name: CS_Q2_PORTAL_Explain
+  m_EditorClassIdentifier: ShotgunAndRun.Dialogue::ShotgunAndRun.UI.Dialogue.DialogueDataSO
+  _speakerName: 
+  _speakerPortrait: {fileID: 0}
+  _guideImage: {fileID: 0}
+  _lines:
+  - Speaker: {fileID: 11400000, guid: d3e193e7ce3d5ae409e8380e5ac26da3, type: 2}
+    Expression: 
+    SpeakerName: 
+    SpeakerPortrait: {fileID: 0}
+    Text: "\uC774 \uBB38\uC73C\uB85C \uB2F9\uC2E0\uC744 \uB358\uC804\uC5D0 \uBCF4\uB0BC
+      \uC218 \uC788\uC5B4\uC694. \uB2E4\uB9CC \uC694\uC0C8 \uAE4A\uC740 \uACF3\uC758
+      \uB9C8\uB825\uC774 \uB4A4\uD2C0\uB824 \uC788\uC5B4\uC11C, \uD55C \uACF3\uC73C\uB85C
+      \uACE0\uC815\uD560 \uC218\uAC00 \uC5C6\uC5B4\uC694."
+    Bubble: 0
+    Sfx: {fileID: 0}
+    Signal: 
+  - Speaker: {fileID: 11400000, guid: d3e193e7ce3d5ae409e8380e5ac26da3, type: 2}
+    Expression: 
+    SpeakerName: 
+    SpeakerPortrait: {fileID: 0}
+    Text: "\uC678\uACFD\uC758 \uB9C8\uB825 \uADE0\uC5F4 \uC911 \uC5B4\uB514\uB85C
+      \uB5A8\uC5B4\uC9C8\uC9C0\uB294 \uC54C \uC218 \uC5C6\uC5B4\uC694."
+    Bubble: 5
+    Sfx: {fileID: 0}
+    Signal: 
+  - Speaker: {fileID: 11400000, guid: d3e193e7ce3d5ae409e8380e5ac26da3, type: 2}
+    Expression: 
+    SpeakerName: 
+    SpeakerPortrait: {fileID: 0}
+    Text: "\uADF8\uB7EC\uB2C8 \uB3C4\uCC29\uD558\uBA74 \uC9C0\uD615\uBD80\uD130 \uC798
+      \uC0B4\uD53C\uACE0 \uC6C0\uC9C1\uC774\uC138\uC694!"
+    Bubble: 1
+    Sfx: {fileID: 0}
+    Signal: 
+  _choices: []
+  _pauseGame: 0

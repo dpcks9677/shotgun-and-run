@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c82a051128acf2f4e2f6c1f3c21bbf1b, type: 3}
+  m_Name: WaterPattern
+  m_EditorClassIdentifier: ShotgunAndRun.Core::ShotgunAndRun.Core.PatternTile
+  _columns: 4
+  _sprites:
+  - {fileID: 1855737831727487937, guid: 2d9a057c74a205d2aa00973404a3de5a, type: 3}
+  - {fileID: 4639177379767479162, guid: 2d9a057c74a205d2aa00973404a3de5a, type: 3}
+  - {fileID: -2202186086607070691, guid: 2d9a057c74a205d2aa00973404a3de5a, type: 3}
+  - {fileID: -612099662207451279, guid: 2d9a057c74a205d2aa00973404a3de5a, type: 3}
+  - {fileID: -3599836040355952297, guid: 2d9a057c74a205d2aa00973404a3de5a, type: 3}
+  - {fileID: -4466795289034489349, guid: 2d9a057c74a205d2aa00973404a3de5a, type: 3}
+  - {fileID: -1781945829857941557, guid: 2d9a057c74a205d2aa00973404a3de5a, type: 3}
+  - {fileID: 7918470084044789543, guid: 2d9a057c74a205d2aa00973404a3de5a, type: 3}
+  - {fileID: 6670021818086388520, guid: 2d9a057c74a205d2aa00973404a3de5a, type: 3}
+  - {fileID: -3445803131061705487, guid: 2d9a057c74a205d2aa00973404a3de5a, type: 3}
+  - {fileID: -3292802126278405574, guid: 2d9a057c74a205d2aa00973404a3de5a, type: 3}
+  - {fileID: -6054071529930541227, guid: 2d9a057c74a205d2aa00973404a3de5a, type: 3}
+  - {fileID: -8601356035678208035, guid: 2d9a057c74a205d2aa00973404a3de5a, type: 3}
+  - {fileID: -8553946976201183742, guid: 2d9a057c74a205d2aa00973404a3de5a, type: 3}
+  - {fileID: 1804589937391212566, guid: 2d9a057c74a205d2aa00973404a3de5a, type: 3}
+  - {fileID: 8403034476917197847, guid: 2d9a057c74a205d2aa00973404a3de5a, type: 3}
+  _colliderType: 0

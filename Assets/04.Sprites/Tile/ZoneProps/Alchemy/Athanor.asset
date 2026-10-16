@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Athanor
+  m_EditorClassIdentifier: Unity.2D.Tilemap.Extras::UnityEngine.Tilemaps.AnimatedTile
+  m_AnimatedSprites:
+  - {fileID: 433454958, guid: d3c322140d638d152b32a3ff6568ecaa, type: 3}
+  - {fileID: -2067233929, guid: d3c322140d638d152b32a3ff6568ecaa, type: 3}
+  - {fileID: -1305809588, guid: d3c322140d638d152b32a3ff6568ecaa, type: 3}
+  - {fileID: 755016499, guid: d3c322140d638d152b32a3ff6568ecaa, type: 3}
+  - {fileID: -1776244958, guid: d3c322140d638d152b32a3ff6568ecaa, type: 3}
+  - {fileID: -581611374, guid: d3c322140d638d152b32a3ff6568ecaa, type: 3}
+  - {fileID: 1521757502, guid: d3c322140d638d152b32a3ff6568ecaa, type: 3}
+  - {fileID: -581611374, guid: d3c322140d638d152b32a3ff6568ecaa, type: 3}
+  - {fileID: -332388373, guid: d3c322140d638d152b32a3ff6568ecaa, type: 3}
+  - {fileID: 755016499, guid: d3c322140d638d152b32a3ff6568ecaa, type: 3}
+  - {fileID: -1305809588, guid: d3c322140d638d152b32a3ff6568ecaa, type: 3}
+  - {fileID: -2067233929, guid: d3c322140d638d152b32a3ff6568ecaa, type: 3}
+  m_MinSpeed: 5.5
+  m_MaxSpeed: 6.5
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 1
+  m_TileAnimationFlags: 0

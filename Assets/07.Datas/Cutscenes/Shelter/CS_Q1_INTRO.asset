@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3de947d51e0fb94f95322ce15336ad6, type: 3}
+  m_Name: CS_Q1_INTRO
+  m_EditorClassIdentifier: ShotgunAndRun.Cutscene::ShotgunAndRun.Cutscene.Q1IntroShelterCutscene
+  _id: CS_Q1_INTRO
+  _requiredFlags:
+  - FLAG_PROLOGUE_COMPLETED
+  _blockedFlags:
+  - FLAG_Q1_INTRO_DONE
+  _completionFlags:
+  - FLAG_Q1_INTRO_DONE
+  _saveCompletionFlagsImmediately: 0
+  _autoPlay: 0
+  _priority: 0
+  _lockPlayer: 1
+  _hideHud: 1
+  _pauseGameplay: 1
+  _debugSpawnMarker: 
+  _lona: {fileID: 11400000, guid: 3818475cc931b484face2032818805d0, type: 2}
+  _advice: {fileID: 11400000, guid: f403ceb6ee5cd104481fc83a8f9ade4a, type: 2}
+  _reply: {fileID: 11400000, guid: b43cb4e5aa2a4e2a80e0913179052f37, type: 2}
+  _toGrun: {fileID: 11400000, guid: 124b25405a032f047b401510e04e7b41, type: 2}
+  _grunCameraBlend: 0.8

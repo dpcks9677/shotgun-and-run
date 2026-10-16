@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 188fceedcafcbd144a671350299645c7, type: 3}
+  m_Name: CS_ELENA_TELEPORT
+  m_EditorClassIdentifier: ShotgunAndRun.Cutscene::ShotgunAndRun.Cutscene.ElenaTeleportDungeonCutscene
+  _id: CS_ELENA_TELEPORT
+  _requiredFlags:
+  - FLAG_Q2_ACCEPTED
+  _blockedFlags:
+  - FLAG_ELENA_RESCUED
+  - FLAG_ELENA_TELEPORT_SEEN
+  _completionFlags:
+  - FLAG_ELENA_TELEPORT_SEEN
+  _saveCompletionFlagsImmediately: 1
+  _autoPlay: 0
+  _priority: 0
+  _lockPlayer: 1
+  _hideHud: 1
+  _pauseGameplay: 1
+  _debugSpawnMarker: 
+  _elena: {fileID: 11400000, guid: d3e193e7ce3d5ae409e8380e5ac26da3, type: 2}
+  _lines: {fileID: 11400000, guid: e93f5400f1271ac4194fdccc18ec39b5, type: 2}
+  _getUpClip: {fileID: 7400000, guid: d44f427b4889498bb734d79cf817df5e, type: 2}
+  _castClip: {fileID: 7400000, guid: 44e903f38c1f6424ca7810ecbdf7e6ad, type: 2}
+  _ropeRelease: {fileID: 8300000, guid: 78e0c4681c9240858014b92c5b8de765, type: 3}
+  _teleport: {fileID: 8300000, guid: 89b8f67a9ed743f18e2393524de03dde, type: 3}
+  _chargeSeconds: 1
+  _flashSeconds: 0.6
+  _afterFlashSeconds: 0.4

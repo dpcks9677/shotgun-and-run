@@ -1,0 +1,971 @@
+fileFormatVersion: 2
+guid: a030d551478a1e0f528106ff6d6732ea
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RaidPortalBlack_Big_Front_Idle_f0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 590
+        width: 82
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48780488, y: 0.18965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df987f9a70f53d8ae9f9cbc60c88331
+      internalID: 2045050062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaidPortalBlack_Big_Front_Idle_f1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 590
+        width: 82
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48780488, y: 0.18965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054a95b67aaf89fae81e1612194dc782
+      internalID: -1319486399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaidPortalBlack_Big_Front_Idle_f2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 590
+        width: 82
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48780488, y: 0.18965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7a58d3534f2027163f357259ae0e00
+      internalID: -1213633381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaidPortalBlack_Big_Front_Idle_f3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 590
+        width: 82
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48780488, y: 0.18965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daabf2608c3d2cfa8172459b1ddc9fdb
+      internalID: -1495097154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaidPortalBlack_Big_Front_Idle_f4
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 590
+        width: 82
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48780488, y: 0.18965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4a9799c20826f7c5bf04bd8de919e0
+      internalID: -1905458781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaidPortalBlack_Big_Front_Idle_f5
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 590
+        width: 82
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48780488, y: 0.18965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06fdd10ca707f83796749497e02770c
+      internalID: -589238858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaidPortalBlack_Big_Front_Fade_f0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 82
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48780488, y: 0.18965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f320e729d09c566f72c25dcdfe9acee1
+      internalID: 1157681168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaidPortalBlack_Big_Front_Fade_f1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 472
+        width: 82
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48780488, y: 0.18965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d1b1fabfbacb5387156e943770dc23
+      internalID: 568858673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaidPortalBlack_Big_Front_Fade_f2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 472
+        width: 82
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48780488, y: 0.18965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f852940298000feb66656abcb5d42b3
+      internalID: -829314408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaidPortalBlack_Big_Front_Fade_f3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 472
+        width: 82
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48780488, y: 0.18965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a3fa9a9bd48504bc4e55d0eb59cabb
+      internalID: -2143049452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaidPortalBlack_Big_Front_Fade_f4
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 472
+        width: 82
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48780488, y: 0.18965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d64eea5a0d62fc89e6f926bc19445df
+      internalID: 156496686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaidPortalBlack_Big_Front_Fade_f5
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 472
+        width: 82
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48780488, y: 0.18965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb16c64698fedc835ed7e7c98241c659
+      internalID: -720552186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaidPortalBlack_Big_DiagL_Idle_f0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 82
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48780488, y: 0.18965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545b74a4d25b8546e60ba310845d4a75
+      internalID: -1311054991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaidPortalBlack_Big_DiagL_Idle_f1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 354
+        width: 82
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48780488, y: 0.18965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089b89559b1398ee07471de2dd6e1b7f
+      internalID: 960980554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaidPortalBlack_Big_DiagL_Idle_f2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 354
+        width: 82
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48780488, y: 0.18965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07eec5c95bbd9601a2edd1277dd1156
+      internalID: -2084182559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaidPortalBlack_Big_DiagL_Idle_f3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 354
+        width: 82
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48780488, y: 0.18965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e832149cda811e1e4bac4473896369ad
+      internalID: 587751762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaidPortalBlack_Big_DiagL_Idle_f4
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 354
+        width: 82
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48780488, y: 0.18965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3147dfc05af83316f108592200ba27
+      internalID: 678312991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaidPortalBlack_Big_DiagL_Idle_f5
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 354
+        width: 82
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48780488, y: 0.18965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dcd8604f44ac76038eb7fe95c7e946
+      internalID: 1628703270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaidPortalBlack_Big_DiagL_Fade_f0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 82
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48780488, y: 0.18965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab043c594f780073e3bdf80a396d66c
+      internalID: -742619386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaidPortalBlack_Big_DiagL_Fade_f1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 236
+        width: 82
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48780488, y: 0.18965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ac0b28db58f66efbe16b5bc670cb80
+      internalID: 558604470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaidPortalBlack_Big_DiagL_Fade_f2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 236
+        width: 82
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48780488, y: 0.18965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80585c1c5928b51c9efcb0d4180b8859
+      internalID: 1775391284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaidPortalBlack_Big_DiagL_Fade_f3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 236
+        width: 82
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48780488, y: 0.18965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42767521e79f8b0fd45f4a8c21bf4f87
+      internalID: -1713749267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaidPortalBlack_Big_DiagL_Fade_f4
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 236
+        width: 82
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48780488, y: 0.18965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e861fbfc6d59782b70c231aa6fc1cd63
+      internalID: 1699089021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaidPortalBlack_Big_DiagL_Fade_f5
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 236
+        width: 82
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48780488, y: 0.18965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1695de11fd2a6b9783f395ce73a07fa
+      internalID: 1511365798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaidPortalBlack_Big_DiagR_Idle_f0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 82
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48780488, y: 0.18965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb8987460b840c9bc7d22a8eb9e2391
+      internalID: -586449870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaidPortalBlack_Big_DiagR_Idle_f1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 118
+        width: 82
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48780488, y: 0.18965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d9c75eb1418c2a2c518378b40c602e
+      internalID: -725801800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaidPortalBlack_Big_DiagR_Idle_f2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 118
+        width: 82
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48780488, y: 0.18965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7045ac3e2510bf1b41220f17ee082bd1
+      internalID: -1555361920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaidPortalBlack_Big_DiagR_Idle_f3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 118
+        width: 82
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48780488, y: 0.18965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77510e29cdffcbc9756ad5d8d760bc07
+      internalID: -915358763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaidPortalBlack_Big_DiagR_Idle_f4
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 118
+        width: 82
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48780488, y: 0.18965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd924ca6ede18d82ed1f303c66ddb28f
+      internalID: 1331369626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaidPortalBlack_Big_DiagR_Idle_f5
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 118
+        width: 82
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48780488, y: 0.18965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160cf87903d6a9d853650f4f1281de52
+      internalID: 1368602137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaidPortalBlack_Big_DiagR_Fade_f0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 82
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48780488, y: 0.18965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7692c1954e57128fa28f1ce3678365e
+      internalID: 458438014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaidPortalBlack_Big_DiagR_Fade_f1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 82
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48780488, y: 0.18965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1596fb7b7acc0f71628dce3d896f0f25
+      internalID: -1218892573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaidPortalBlack_Big_DiagR_Fade_f2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 82
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48780488, y: 0.18965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a91ea2094af2c7f999e3a074039672
+      internalID: 435466307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaidPortalBlack_Big_DiagR_Fade_f3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 82
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48780488, y: 0.18965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b80c2bc81aa1bb057ed39fff758a4e
+      internalID: -612189703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaidPortalBlack_Big_DiagR_Fade_f4
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 82
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48780488, y: 0.18965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65371c5fcee5ad2248656bffed0c1acf
+      internalID: 971149417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaidPortalBlack_Big_DiagR_Fade_f5
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 82
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48780488, y: 0.18965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7a72d61d9cca3fa1ad6896bee82cb1
+      internalID: 959832065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 639cbbea6c2bfafc54addb1423729add
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RaidPortalBlack_Big_DiagL_Fade_f0: -742619386
+      RaidPortalBlack_Big_DiagL_Fade_f1: 558604470
+      RaidPortalBlack_Big_DiagL_Fade_f2: 1775391284
+      RaidPortalBlack_Big_DiagL_Fade_f3: -1713749267
+      RaidPortalBlack_Big_DiagL_Fade_f4: 1699089021
+      RaidPortalBlack_Big_DiagL_Fade_f5: 1511365798
+      RaidPortalBlack_Big_DiagL_Idle_f0: -1311054991
+      RaidPortalBlack_Big_DiagL_Idle_f1: 960980554
+      RaidPortalBlack_Big_DiagL_Idle_f2: -2084182559
+      RaidPortalBlack_Big_DiagL_Idle_f3: 587751762
+      RaidPortalBlack_Big_DiagL_Idle_f4: 678312991
+      RaidPortalBlack_Big_DiagL_Idle_f5: 1628703270
+      RaidPortalBlack_Big_DiagR_Fade_f0: 458438014
+      RaidPortalBlack_Big_DiagR_Fade_f1: -1218892573
+      RaidPortalBlack_Big_DiagR_Fade_f2: 435466307
+      RaidPortalBlack_Big_DiagR_Fade_f3: -612189703
+      RaidPortalBlack_Big_DiagR_Fade_f4: 971149417
+      RaidPortalBlack_Big_DiagR_Fade_f5: 959832065
+      RaidPortalBlack_Big_DiagR_Idle_f0: -586449870
+      RaidPortalBlack_Big_DiagR_Idle_f1: -725801800
+      RaidPortalBlack_Big_DiagR_Idle_f2: -1555361920
+      RaidPortalBlack_Big_DiagR_Idle_f3: -915358763
+      RaidPortalBlack_Big_DiagR_Idle_f4: 1331369626
+      RaidPortalBlack_Big_DiagR_Idle_f5: 1368602137
+      RaidPortalBlack_Big_Front_Fade_f0: 1157681168
+      RaidPortalBlack_Big_Front_Fade_f1: 568858673
+      RaidPortalBlack_Big_Front_Fade_f2: -829314408
+      RaidPortalBlack_Big_Front_Fade_f3: -2143049452
+      RaidPortalBlack_Big_Front_Fade_f4: 156496686
+      RaidPortalBlack_Big_Front_Fade_f5: -720552186
+      RaidPortalBlack_Big_Front_Idle_f0: 2045050062
+      RaidPortalBlack_Big_Front_Idle_f1: -1319486399
+      RaidPortalBlack_Big_Front_Idle_f2: -1213633381
+      RaidPortalBlack_Big_Front_Idle_f3: -1495097154
+      RaidPortalBlack_Big_Front_Idle_f4: -1905458781
+      RaidPortalBlack_Big_Front_Idle_f5: -589238858
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

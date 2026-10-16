@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69986118a27719e4ba7412b3c747b23d, type: 3}
+  m_Name: CS_PROLOGUE_SHELTER_AfterRest
+  m_EditorClassIdentifier: Assembly-CSharp::ShotgunAndRun.UI.Dialogue.DialogueDataSO
+  _speakerName:
+  _speakerPortrait: {fileID: 0}
+  _guideImage: {fileID: 0}
+  _lines:
+  - Speaker: {fileID: 11400000, guid: 3e96ec43bf27def45a8e154a18b0e6de, type: 2}
+    Expression:
+    SpeakerName:
+    SpeakerPortrait: {fileID: 0}
+    Text: "\ub4dc\ub514\uc5b4 \ud55c\uc228 \ub3cc\ub838\uc5b4."
+    Bubble: 5
+    Sfx: {fileID: 0}
+    Signal:
+  - Speaker: {fileID: 11400000, guid: 3e96ec43bf27def45a8e154a18b0e6de, type: 2}
+    Expression:
+    SpeakerName:
+    SpeakerPortrait: {fileID: 0}
+    Text: "\ub85c\ub098\ub294 \uc704\ucabd \uac8c\uc2dc\ud310 \uc55e\uc5d0 \uc788\ub2e4\uace0 \ud588\uc5c8\uc9c0?"
+    Bubble: 2
+    Sfx: {fileID: 0}
+    Signal:
+  _choices: []
+  _pauseGame: 0

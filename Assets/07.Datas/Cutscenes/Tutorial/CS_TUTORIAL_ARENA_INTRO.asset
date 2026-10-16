@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 797674fcdb7143d4fbd84392a636a46b, type: 3}
+  m_Name: CS_TUTORIAL_ARENA_INTRO
+  m_EditorClassIdentifier: Assembly-CSharp::ShotgunAndRun.Sandbox.Cutscene.TutorialArenaIntroCutscene
+  _id: CS_TUTORIAL_ARENA_INTRO
+  _requiredFlags: []
+  _blockedFlags: []
+  _completionFlags: []
+  _saveCompletionFlagsImmediately: 0
+  _autoPlay: 0
+  _priority: 0
+  _lockPlayer: 1
+  _hideHud: 1
+  _pauseGameplay: 1
+  _debugSpawnMarker: 
+  _upperLine: {fileID: 11400000, guid: d73184afaa5240cd9508b5529165d0cc, type: 2}
+  _lowerLines: {fileID: 11400000, guid: ecb7e0e7e1cb4a86869a30e087522f5c, type: 2}
+  _alertSfx: {fileID: 8300000, guid: 960bd45067e64bafb0db5fb066eeb301, type: 3}
+  _focusBlend: 1.2
+  _focusHold: 0.7
+  _returnBlend: 0.8

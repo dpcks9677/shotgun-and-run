@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 163d8b679267827498df461c83dd08b2, type: 3}
+  m_Name: TinkersSpring
+  m_EditorClassIdentifier: ShotgunAndRun.Inventory.Data::InventorySystem.ItemData
+  _id: material.tinkers_spring
+  _itemName: "\uB55C\uC7A5\uC774\uC758 \uC6A9\uC218\uCCA0"
+  _icon: {fileID: -1211187713, guid: 8b37b27062e668f4683ab60b889c5552, type: 3}
+  _itemType: 0
+  _materialCategory: 1
+  _materialType: 3
+  _description: "\uC219\uB828\uB41C \uC7A5\uC778\uC774 \uC81C\uC791\uD55C \uB0B4\uAD6C\uC131
+    \uB6F0\uC5B4\uB09C \uD0C4\uC131 \uC6A9\uC218\uCCA0"
+  _maxStack: 99

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Brass_Lantern
+  m_EditorClassIdentifier: Unity.2D.Tilemap.Extras::UnityEngine.Tilemaps.AnimatedTile
+  m_AnimatedSprites:
+  - {fileID: 1946589492, guid: 8b054ba1ff2e62069a80dfc8a010e083, type: 3}
+  - {fileID: 1094920299, guid: 8b054ba1ff2e62069a80dfc8a010e083, type: 3}
+  - {fileID: -461920372, guid: 8b054ba1ff2e62069a80dfc8a010e083, type: 3}
+  - {fileID: 1218639551, guid: 8b054ba1ff2e62069a80dfc8a010e083, type: 3}
+  - {fileID: 384948281, guid: 8b054ba1ff2e62069a80dfc8a010e083, type: 3}
+  - {fileID: -686080917, guid: 8b054ba1ff2e62069a80dfc8a010e083, type: 3}
+  - {fileID: 496941687, guid: 8b054ba1ff2e62069a80dfc8a010e083, type: 3}
+  - {fileID: -686080917, guid: 8b054ba1ff2e62069a80dfc8a010e083, type: 3}
+  - {fileID: 384948281, guid: 8b054ba1ff2e62069a80dfc8a010e083, type: 3}
+  - {fileID: 1218639551, guid: 8b054ba1ff2e62069a80dfc8a010e083, type: 3}
+  - {fileID: -461920372, guid: 8b054ba1ff2e62069a80dfc8a010e083, type: 3}
+  - {fileID: 1094920299, guid: 8b054ba1ff2e62069a80dfc8a010e083, type: 3}
+  m_MinSpeed: 5.5
+  m_MaxSpeed: 6.5
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

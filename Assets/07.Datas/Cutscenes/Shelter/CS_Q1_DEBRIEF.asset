@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8abf61b4fd3d2224e97b52c67ac46c34, type: 3}
+  m_Name: CS_Q1_DEBRIEF
+  m_EditorClassIdentifier: ShotgunAndRun.Cutscene::ShotgunAndRun.Cutscene.Q1DebriefShelterCutscene
+  _id: CS_Q1_DEBRIEF
+  _requiredFlags:
+  - FLAG_SHELTER_COLLAPSE_DONE
+  _blockedFlags:
+  - FLAG_Q1_DEBRIEF_DONE
+  _completionFlags:
+  - FLAG_Q1_DEBRIEF_DONE
+  _saveCompletionFlagsImmediately: 0
+  _autoPlay: 0
+  _priority: 0
+  _lockPlayer: 1
+  _hideHud: 1
+  _pauseGameplay: 1
+  _debugSpawnMarker: 
+  _grun: {fileID: 11400000, guid: c5e7b121e6db6b44ba3e0fab3a16c019, type: 2}
+  _debrief: {fileID: 11400000, guid: 97e18aea1c9e57d489295331c163c4d0, type: 2}

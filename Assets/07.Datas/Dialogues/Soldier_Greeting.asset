@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69986118a27719e4ba7412b3c747b23d, type: 3}
+  m_Name: Soldier_Greeting
+  m_EditorClassIdentifier: Assembly-CSharp::ShotgunAndRun.UI.Dialogue.DialogueDataSO
+  _speakerName: "\ubcd1\uc0ac"
+  _speakerPortrait: {fileID: 0}
+  _guideImage: {fileID: 0}
+  _lines:
+  - SpeakerName: "\ubcd1\uc0ac"
+    SpeakerPortrait: {fileID: 0}
+    Text: "\ubb38 \ucabd\uc740 \ub0b4\uac00 \uacc4\uc18d \ubcf4\uace0 \uc788\uc5b4. \uc11d\uad81 \uc2dc\uc704\ub294 \uc7a0\uae50\ub3c4 \ub290\uc2a8\ud558\uac8c \ub454 \uc801 \uc5c6\uc9c0."
+  - SpeakerName: "\ubcd1\uc0ac"
+    SpeakerPortrait: {fileID: 0}
+    Text: "\uba70\uce60\uc9f8 \ubc24\ub9c8\ub2e4 \ubb38\ubc16\uc5d0\uc11c \ubc1c\uc18c\ub9ac\uac00 \ub098. \uac00\ub054\uc740 \ub0b4 \ubc1c\uc18c\ub9ac\uc778\uac00 \uc2f6\uc5b4\uc11c \uc228\uc744 \uc8fd\uc774\uac8c \ub41c\ub2e4\ub2c8\uae4c."
+  _choices: []
+  _pauseGame: 0
